@@ -867,3 +867,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 23:20:32.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Here They Come]
 [02Dec2024 23:20:42.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Here They Come]
 [02Dec2024 23:20:49.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Stone Age]
+[02Dec2024 23:23:48.088] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[02Dec2024 23:26:01.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> -151 85 49
+[02Dec2024 23:26:45.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Feelingwatched]
+[02Dec2024 23:27:57.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> -151 85 49
+[02Dec2024 23:29:36.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[02Dec2024 23:29:36.024] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 23:30:39.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [You Monster]
