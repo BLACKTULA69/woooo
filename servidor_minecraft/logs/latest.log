@@ -3323,3 +3323,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 02:57:14.008] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [02Dec2024 02:57:35.024] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
 [02Dec2024 02:58:13.311] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[02Dec2024 02:59:01.438] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[02Dec2024 03:01:07.597] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=262, y=86, z=155}
+[02Dec2024 03:06:45.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Jeff The Killer
+[02Dec2024 03:06:45.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Your First Grave]
+[02Dec2024 03:06:45.048] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 03:07:42.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Knowledge of Death]
+[02Dec2024 03:07:42.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ambush]
+[02Dec2024 03:07:42.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Monster Hunter]
+[02Dec2024 03:08:28.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Yeti
+[02Dec2024 03:08:28.767] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 03:08:29.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[02Dec2024 03:08:29.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Your First Grave]
+[02Dec2024 03:08:29.767] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 03:08:45.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Timed out
+[02Dec2024 03:08:45.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[02Dec2024 03:08:45.265] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 03:09:04.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Chain Death]
+[02Dec2024 03:09:04.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by A MIMICER
+[02Dec2024 03:09:04.064] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 03:11:19.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Monster Hunter]
+[02Dec2024 03:11:56.131] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50132ea1
+[02Dec2024 03:11:56.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/127.120.125.202:41737] logged in with entity id 5869 at (245.6926894961088, 71.20000004768372, 143.30000001192093)
+[02Dec2024 03:11:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[02Dec2024 03:11:56.232] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[02Dec2024 03:12:05.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Zombie
+[02Dec2024 03:12:05.914] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 03:12:07.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=244, y=70, z=145}
+[02Dec2024 03:12:08.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Here They Come]
+[02Dec2024 03:12:22.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Yeti
+[02Dec2024 03:12:22.066] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 03:12:23.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=245, y=72, z=146}
+[02Dec2024 03:17:30.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Best Friends Forever]
+[02Dec2024 03:17:34.419] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
