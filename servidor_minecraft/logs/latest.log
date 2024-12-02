@@ -932,3 +932,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 05:40:56.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/624, l='ServerLevel[world]', x=-279.65, y=81.00, z=218.59] died, message: 'Shepherd was slain by Zombie'
 [02Dec2024 05:42:06.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
 [02Dec2024 05:42:06.915] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 05:42:59.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Monster Hunter]
+[02Dec2024 05:45:48.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by BLACKTULA
+[02Dec2024 05:45:48.316] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 05:46:04.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Kiuta
+[02Dec2024 05:46:04.021] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 05:47:05.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by BLACKTULA
+[02Dec2024 05:47:05.160] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 05:47:18.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Kiuta
+[02Dec2024 05:47:18.928] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved

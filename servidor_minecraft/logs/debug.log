@@ -12466,3 +12466,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 05:42:06.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
 [02Dec2024 05:42:06.904] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-312, y:106, z:235, dim:minecraft:overworld]
 [02Dec2024 05:42:06.915] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 05:42:46.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 05:42:46.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 05:42:46.517] [IO-Worker-10/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-15
+[02Dec2024 05:42:59.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Monster Hunter]
+[02Dec2024 05:44:26.152] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
+[02Dec2024 05:45:48.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by BLACKTULA
+[02Dec2024 05:45:48.297] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:-301, y:105, z:191, dim:minecraft:overworld]
+[02Dec2024 05:45:48.316] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 05:46:04.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Kiuta
+[02Dec2024 05:46:04.018] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-298, y:105, z:197, dim:minecraft:overworld]
+[02Dec2024 05:46:04.021] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 05:47:05.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by BLACKTULA
+[02Dec2024 05:47:05.142] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:-297, y:105, z:196, dim:minecraft:overworld]
+[02Dec2024 05:47:05.160] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 05:47:18.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Kiuta
+[02Dec2024 05:47:18.925] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-300, y:105, z:197, dim:minecraft:overworld]
+[02Dec2024 05:47:18.928] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 05:47:46.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 05:47:46.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 05:49:34.823] [IO-Worker-10/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[02Dec2024 05:49:34.823] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[02Dec2024 05:49:34.825] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[02Dec2024 05:50:17.701] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/4746, l='ServerLevel[world]', x=-401.31, y=103.00, z=147.64]]
+[02Dec2024 05:50:22.399] [Server thread/DEBUG] [Multi Loader Template/]: Loaded ca.lukegrahamlandry.mimic.platform.ForgePlatformHelper@41dcb4b8 for service interface ca.lukegrahamlandry.mimic.platform.services.IPlatformHelper
