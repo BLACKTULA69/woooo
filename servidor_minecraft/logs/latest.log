@@ -3356,3 +3356,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 03:12:23.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=245, y=72, z=146}
 [02Dec2024 03:17:30.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Best Friends Forever]
 [02Dec2024 03:17:34.419] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[02Dec2024 03:19:26.123] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[02Dec2024 03:19:34.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=696, y=120, z=58} BlockPos{x=698, y=118, z=59}
+[02Dec2024 03:19:34.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=696, y=120, z=58} BlockPos{x=698, y=118, z=59}
+[02Dec2024 03:19:34.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=696, y=120, z=58} BlockPos{x=698, y=118, z=59}
+[02Dec2024 03:19:40.752] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[02Dec2024 03:22:35.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Strange Taste]
+[02Dec2024 03:22:39.197] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=767, y=115, z=94}
+[02Dec2024 03:23:09.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[02Dec2024 03:23:09.021] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 03:24:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
+[02Dec2024 03:24:24.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Condemned To Die]
+[02Dec2024 03:24:24.870] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 03:25:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Sweet Dreams]
+[02Dec2024 03:27:14.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Feelingwatched]
+[02Dec2024 03:27:46.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was shot by Skeleton
+[02Dec2024 03:27:46.226] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 03:28:03.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Chain Death]
+[02Dec2024 03:28:03.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA died because of Skeleton
+[02Dec2024 03:28:03.070] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 03:28:29.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Grown from Nothing]
+[02Dec2024 03:28:58.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[02Dec2024 03:28:58.572] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved

@@ -288,7 +288,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-02 02:54:13 +0000",
-      "cooked_chicken": "2024-12-02 03:00:50 +0000"
+      "sweet_berries": "2024-12-02 03:14:31 +0000",
+      "cooked_chicken": "2024-12-02 03:00:50 +0000",
+      "cooked_salmon": "2024-12-02 03:16:34 +0000"
     },
     "done": false
   },
@@ -493,6 +495,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-02 02:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-02 03:17:30 +0000"
     },
     "done": true
   },

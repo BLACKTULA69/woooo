@@ -15619,3 +15619,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 03:17:34.419] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [02Dec2024 03:18:34.146] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/5869, l='ServerLevel[world]', x=639.76, y=106.92, z=107.51]]
 [02Dec2024 03:19:00.106] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$4ece1964270b4ca19fbccb1a9e1c3580 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[02Dec2024 03:19:11.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:19:11.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:19:26.123] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[02Dec2024 03:19:34.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=696, y=120, z=58} BlockPos{x=698, y=118, z=59}
+[02Dec2024 03:19:34.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=696, y=120, z=58} BlockPos{x=698, y=118, z=59}
+[02Dec2024 03:19:34.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=696, y=120, z=58} BlockPos{x=698, y=118, z=59}
+[02Dec2024 03:19:40.752] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[02Dec2024 03:21:21.494] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=767.30, y=105.00, z=67.30]]
+[02Dec2024 03:21:35.064] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=767.72, y=104.00, z=73.11]]
+[02Dec2024 03:21:42.153] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[02Dec2024 03:22:02.259] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=767.30, y=105.00, z=69.76]]
+[02Dec2024 03:22:02.624] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=767.31, y=105.00, z=68.86]]
+[02Dec2024 03:22:15.695] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=769.57, y=105.00, z=65.30]]
+[02Dec2024 03:22:17.047] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/5869, l='ServerLevel[world]', x=790.77, y=98.00, z=74.70]]
+[02Dec2024 03:22:24.519] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/5869, l='ServerLevel[world]', x=791.70, y=98.00, z=75.26]]
+[02Dec2024 03:22:31.068] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/5869, l='ServerLevel[world]', x=791.70, y=98.00, z=75.26]]
+[02Dec2024 03:22:33.751] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/5869, l='ServerLevel[world]', x=791.70, y=98.00, z=75.26]]
+[02Dec2024 03:22:34.163] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=769.61, y=104.00, z=65.51]]
+[02Dec2024 03:22:35.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Strange Taste]
+[02Dec2024 03:22:39.197] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=767, y=115, z=94}
+[02Dec2024 03:22:44.537] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=770.30, y=102.00, z=65.67]]
+[02Dec2024 03:22:48.333] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=768.37, y=105.00, z=67.51]]
+[02Dec2024 03:22:59.851] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=769.30, y=104.00, z=65.44]]
+[02Dec2024 03:23:09.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[02Dec2024 03:23:09.006] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:794, y:91, z:61, dim:minecraft:overworld]
+[02Dec2024 03:23:09.021] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 03:23:30.129] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=768.69, y=105.00, z=66.02]]
+[02Dec2024 03:23:32.817] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=768.69, y=105.00, z=66.02]]
+[02Dec2024 03:23:37.678] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=768.69, y=105.00, z=66.02]]
+[02Dec2024 03:23:38.858] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=768.69, y=105.00, z=66.02]]
+[02Dec2024 03:23:45.915] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=768.69, y=105.00, z=66.02]]
+[02Dec2024 03:23:54.053] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=768.70, y=105.00, z=65.73]]
+[02Dec2024 03:23:57.696] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/5869, l='ServerLevel[world]', x=791.30, y=98.00, z=73.25]]
+[02Dec2024 03:23:57.890] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/5869, l='ServerLevel[world]', x=791.30, y=98.00, z=73.25]]
+[02Dec2024 03:24:06.006] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/623, l='ServerLevel[world]', x=771.30, y=101.00, z=65.74]]
+[02Dec2024 03:24:11.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:24:11.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:24:13.588] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/5869, l='ServerLevel[world]', x=791.55, y=98.00, z=74.05]]
+[02Dec2024 03:24:16.906] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/5869, l='ServerLevel[world]', x=791.55, y=98.00, z=74.05]]
+[02Dec2024 03:24:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
+[02Dec2024 03:24:24.863] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:779, y:101, z:68, dim:minecraft:overworld]
+[02Dec2024 03:24:24.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Condemned To Die]
+[02Dec2024 03:24:24.870] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 03:24:27.218] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/5869, l='ServerLevel[world]', x=791.57, y=98.00, z=75.58]]
+[02Dec2024 03:24:44.064] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[02Dec2024 03:25:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Sweet Dreams]
+[02Dec2024 03:25:56.729] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[02Dec2024 03:27:14.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Feelingwatched]
+[02Dec2024 03:27:46.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was shot by Skeleton
+[02Dec2024 03:27:46.214] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:803, y:91, z:60, dim:minecraft:overworld]
+[02Dec2024 03:27:46.226] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 03:27:47.251] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[02Dec2024 03:27:47.269] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[02Dec2024 03:28:03.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Chain Death]
+[02Dec2024 03:28:03.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA died because of Skeleton
+[02Dec2024 03:28:03.067] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:803, y:92, z:64, dim:minecraft:overworld]
+[02Dec2024 03:28:03.070] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 03:28:29.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Grown from Nothing]
+[02Dec2024 03:28:58.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[02Dec2024 03:28:58.560] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:781, y:87, z:35, dim:minecraft:overworld]
+[02Dec2024 03:28:58.572] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
