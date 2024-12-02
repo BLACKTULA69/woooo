@@ -760,3 +760,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 06:28:15.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Feelingwatched]
 [02Dec2024 06:29:28.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
 [02Dec2024 06:29:28.843] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:32:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Faceless Villager
+[02Dec2024 06:32:44.144] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:41:06.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/646, l='ServerLevel[world]', x=-337.05, y=78.00, z=161.70] died, message: 'Villager was slain by Zombie'
