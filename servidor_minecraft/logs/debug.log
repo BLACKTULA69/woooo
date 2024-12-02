@@ -12202,3 +12202,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 06:39:28.771] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/4084, l='ServerLevel[world]', x=-298.03, y=105.00, z=192.63]]
 [02Dec2024 06:41:06.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/646, l='ServerLevel[world]', x=-337.05, y=78.00, z=161.70] died, message: 'Villager was slain by Zombie'
 [02Dec2024 06:41:48.784] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[02Dec2024 06:42:32.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 06:42:32.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 06:43:59.805] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[02Dec2024 06:44:07.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wilted
+[02Dec2024 06:44:07.380] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:-293, y:101, z:219, dim:minecraft:overworld]
+[02Dec2024 06:44:07.392] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 06:44:10.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Wilted
+[02Dec2024 06:44:10.483] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-294, y:101, z:219, dim:minecraft:overworld]
+[02Dec2024 06:44:10.495] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:45:01.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Wilted
+[02Dec2024 06:45:01.088] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-290, y:101, z:220, dim:minecraft:overworld]
+[02Dec2024 06:45:01.099] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:46:19.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Wilted
+[02Dec2024 06:46:19.081] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-293, y:101, z:219, dim:minecraft:overworld]
+[02Dec2024 06:46:19.093] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:47:15.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
+[02Dec2024 06:47:15.682] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-297, y:98, z:216, dim:minecraft:overworld]
+[02Dec2024 06:47:15.689] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:47:32.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 06:47:32.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 06:48:05.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Isn't It Iron Pick]
+[02Dec2024 06:50:39.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ambush]
+[02Dec2024 06:50:43.736] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[02Dec2024 06:51:01.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Neighborhood Brawl]
+[02Dec2024 06:51:50.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by A MIMICER
+[02Dec2024 06:51:50.139] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:-370, y:48, z:189, dim:minecraft:overworld]
+[02Dec2024 06:51:50.154] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved

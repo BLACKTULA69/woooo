@@ -763,3 +763,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 06:32:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Faceless Villager
 [02Dec2024 06:32:44.144] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [02Dec2024 06:41:06.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/646, l='ServerLevel[world]', x=-337.05, y=78.00, z=161.70] died, message: 'Villager was slain by Zombie'
+[02Dec2024 06:44:07.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wilted
+[02Dec2024 06:44:07.392] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 06:44:10.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Wilted
+[02Dec2024 06:44:10.495] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:45:01.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Wilted
+[02Dec2024 06:45:01.099] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:46:19.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Wilted
+[02Dec2024 06:46:19.093] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:47:15.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
+[02Dec2024 06:47:15.689] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:48:05.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Isn't It Iron Pick]
+[02Dec2024 06:50:39.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ambush]
+[02Dec2024 06:51:01.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Neighborhood Brawl]
+[02Dec2024 06:51:50.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by A MIMICER
+[02Dec2024 06:51:50.154] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
