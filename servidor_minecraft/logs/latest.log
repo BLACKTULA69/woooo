@@ -778,3 +778,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 06:51:01.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Neighborhood Brawl]
 [02Dec2024 06:51:50.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by A MIMICER
 [02Dec2024 06:51:50.154] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 06:52:18.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eaten by a rock tentacle
+[02Dec2024 06:52:18.942] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:52:31.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA was kicked for floating too long!
+[02Dec2024 06:52:31.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Flying is not enabled on this server
+[02Dec2024 06:52:31.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[02Dec2024 06:52:31.536] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 06:52:37.234] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b1918eb
+[02Dec2024 06:52:37.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/127.120.125.202:59871] logged in with entity id 11279 at (-324.25039495848733, 73.80143966616131, 196.06774769293963)
+[02Dec2024 06:52:37.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[02Dec2024 06:52:37.282] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[02Dec2024 06:53:00.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eaten by a rock tentacle
+[02Dec2024 06:53:00.838] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:53:11.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA was kicked for floating too long!
+[02Dec2024 06:53:11.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Flying is not enabled on this server
+[02Dec2024 06:53:11.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[02Dec2024 06:53:16.182] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5337f1ba
+[02Dec2024 06:53:16.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/127.120.125.202:56867] logged in with entity id 11479 at (-316.02037628573134, 69.95263422699216, 198.67004140433946)
+[02Dec2024 06:53:16.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[02Dec2024 06:53:16.234] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[02Dec2024 06:54:21.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was eaten by a rock tentacle
+[02Dec2024 06:54:21.591] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 06:54:35.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eaten by a rock tentacle
+[02Dec2024 06:54:35.241] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:56:06.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eaten by a rock tentacle
+[02Dec2024 06:56:06.239] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:56:55.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was eaten by a rock tentacle
+[02Dec2024 06:56:55.689] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 06:58:52.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eaten by a rock tentacle
+[02Dec2024 06:58:52.291] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:59:56.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA burned to death
+[02Dec2024 06:59:56.741] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:00:22.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5488, l='ServerLevel[world]', x=-244.86, y=66.00, z=131.36] died, message: 'Villager hit the ground too hard'
+[02Dec2024 07:01:02.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eaten by a rock tentacle
+[02Dec2024 07:01:02.638] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:01:12.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA was kicked for floating too long!
+[02Dec2024 07:01:12.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Flying is not enabled on this server
+[02Dec2024 07:01:12.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[02Dec2024 07:01:18.483] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d91e1c7
+[02Dec2024 07:01:18.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/127.120.125.202:48777] logged in with entity id 13060 at (-314.7240064556927, 55.406337270769995, 197.87327964118327)
+[02Dec2024 07:01:18.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[02Dec2024 07:01:18.536] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[02Dec2024 07:02:05.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eaten by a rock tentacle
+[02Dec2024 07:02:05.689] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:02:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was eaten by a rock tentacle
+[02Dec2024 07:02:09.440] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved

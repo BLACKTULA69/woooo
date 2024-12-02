@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 06:51:01 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 04:36:13 +0000"
@@ -299,6 +305,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-02 06:52:11 +0000",
       "minecraft:zombie": "2024-12-02 05:42:59 +0000"
     },
     "done": false
@@ -547,6 +554,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-02 04:36:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 06:50:39 +0000"
     },
     "done": true
   },
