@@ -823,3 +823,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 07:02:05.689] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [02Dec2024 07:02:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was eaten by a rock tentacle
 [02Dec2024 07:02:09.440] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 07:02:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eaten by a rock tentacle
+[02Dec2024 07:02:47.289] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:03:18.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA blew up
+[02Dec2024 07:03:18.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta blew up
+[02Dec2024 07:03:18.647] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:03:18.650] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 07:03:36.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
+[02Dec2024 07:03:36.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
+[02Dec2024 07:03:36.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[02Dec2024 07:03:42.132] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b995dc7
+[02Dec2024 07:03:42.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/127.136.126.150:40491] logged in with entity id 13931 at (-312.0257954419007, 84.1498268865225, 202.85261008350662)
+[02Dec2024 07:03:42.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[02Dec2024 07:03:42.184] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[02Dec2024 07:04:24.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Void Hands
+[02Dec2024 07:04:24.289] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:04:43.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Void Hands
+[02Dec2024 07:04:43.741] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 07:05:11.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA experienced kinetic energy
+[02Dec2024 07:05:11.592] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[02Dec2024 07:05:11.613] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:06:02.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was killed by magic
+[02Dec2024 07:06:02.394] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:06:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was killed by magic whilst trying to escape Zombie
+[02Dec2024 07:06:06.792] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 07:06:23.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
+[02Dec2024 07:06:23.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
+[02Dec2024 07:06:23.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[02Dec2024 07:06:29.232] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@338ad455
+[02Dec2024 07:06:29.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/127.136.126.150:34931] logged in with entity id 16464 at (-329.3818108190969, 71.14998983419157, 200.46611978624298)
+[02Dec2024 07:06:29.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[02Dec2024 07:06:29.284] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[02Dec2024 07:06:44.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eaten by a rock tentacle
+[02Dec2024 07:06:44.541] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:07:01.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Chain Death]
+[02Dec2024 07:07:01.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was eaten by a rock tentacle
+[02Dec2024 07:07:01.142] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 07:07:18.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
+[02Dec2024 07:07:18.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
+[02Dec2024 07:07:18.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[02Dec2024 07:07:22.733] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@387ce5d5
+[02Dec2024 07:07:22.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/127.136.126.150:36683] logged in with entity id 16661 at (-332.6253574604058, 68.14998983419157, 198.34580548041657)
+[02Dec2024 07:07:22.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[02Dec2024 07:07:22.785] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[02Dec2024 07:07:26.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eaten by a rock tentacle
+[02Dec2024 07:07:26.141] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:08:19.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[02Dec2024 07:08:19.639] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 07:09:10.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
+[02Dec2024 07:09:10.288] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[02Dec2024 07:12:09.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Kiuta
+[02Dec2024 07:12:09.463] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved

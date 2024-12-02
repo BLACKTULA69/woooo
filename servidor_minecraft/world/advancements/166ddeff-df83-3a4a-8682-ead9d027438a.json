@@ -293,6 +293,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 07:07:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-12-02 05:08:19 +0000"
@@ -313,6 +319,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-02 07:00:36 +0000",
       "bread": "2024-12-02 04:38:45 +0000",
       "carrot": "2024-12-02 05:51:22 +0000"
     },
