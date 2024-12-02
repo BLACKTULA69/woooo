@@ -153,6 +153,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-02 06:23:21 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2024-12-02 04:36:13 +0000"
@@ -249,6 +255,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "revenant": "2024-12-02 06:25:04 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 04:36:13 +0000"
@@ -284,6 +296,12 @@
       "minecraft:zombie": "2024-12-02 05:42:59 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 06:22:56 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
@@ -442,6 +460,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 06:22:56 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2024-12-02 04:36:13 +0000"
@@ -487,6 +511,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-02 04:36:13 +0000"
+    },
+    "done": true
+  },
+  "deep_blood:bloody_hell": {
+    "criteria": {
+      "bloody_hell": "2024-12-02 06:12:50 +0000"
     },
     "done": true
   },

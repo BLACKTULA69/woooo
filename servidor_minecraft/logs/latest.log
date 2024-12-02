@@ -736,3 +736,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 06:07:15.316] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
 [02Dec2024 06:09:18.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA died because of Vapor
 [02Dec2024 06:09:18.242] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:12:32.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Bloody Hell]
+[02Dec2024 06:12:50.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Bloody Hell]
+[02Dec2024 06:15:22.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Disconnected
+[02Dec2024 06:15:22.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[02Dec2024 06:17:49.642] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b2b88c7
+[02Dec2024 06:17:49.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/127.120.125.202:35727] logged in with entity id 4084 at (-295.1114179035699, 109.0, 189.2979617611624)
+[02Dec2024 06:17:49.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[02Dec2024 06:17:49.706] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[02Dec2024 06:22:10.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Man From The Fog
+[02Dec2024 06:22:11.000] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:22:56.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Knowledge of Death]
+[02Dec2024 06:22:56.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Chain Death]
+[02Dec2024 06:22:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
+[02Dec2024 06:22:56.797] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:23:21.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Hot Stuff]
+[02Dec2024 06:24:11.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Siren Head
+[02Dec2024 06:24:11.146] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:25:04.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Stay dead]
+[02Dec2024 06:26:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was burnt to a crisp whilst fighting Revenant
+[02Dec2024 06:26:15.091] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[02Dec2024 06:26:42.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/462, l='ServerLevel[world]', x=-308.70, y=83.00, z=170.91] died, message: 'Fletcher was slain by Zombie'
+[02Dec2024 06:28:15.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Feelingwatched]
+[02Dec2024 06:29:28.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[02Dec2024 06:29:28.843] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
