@@ -481,3 +481,83 @@
 [03Dec2024 02:08:15.293] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [03Dec2024 02:08:35.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA died
 [03Dec2024 02:08:35.932] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:15:26.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut fell from a high place
+[03Dec2024 02:15:26.841] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 02:15:55.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Getting an Upgrade]
+[03Dec2024 02:18:16.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Cave Dweller
+[03Dec2024 02:18:16.536] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:18:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Zombie
+[03Dec2024 02:18:23.428] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 02:18:34.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Zombie
+[03Dec2024 02:18:34.829] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[03Dec2024 02:18:39.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
+[03Dec2024 02:18:39.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
+[03Dec2024 02:18:39.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[03Dec2024 02:18:45.079] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@64ce9f6f
+[03Dec2024 02:18:45.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:53092] logged in with entity id 70375 at (-258.5429514767355, 96.09928801642455, -102.87595915444616)
+[03Dec2024 02:18:45.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[03Dec2024 02:18:45.124] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[03Dec2024 02:19:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Monster Hunter]
+[03Dec2024 02:19:04.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Cave Spider
+[03Dec2024 02:19:04.381] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 02:19:19.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
+[03Dec2024 02:19:19.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
+[03Dec2024 02:19:19.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
+[03Dec2024 02:19:25.575] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b9d6326
+[03Dec2024 02:19:25.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:36184] logged in with entity id 70556 at (-257.4368568705673, 97.27610442970685, -107.86612407496708)
+[03Dec2024 02:19:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
+[03Dec2024 02:19:25.621] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
+[03Dec2024 02:20:19.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
+[03Dec2024 02:20:19.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Condemned To Die]
+[03Dec2024 02:20:19.230] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 02:20:47.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Cave Spider
+[03Dec2024 02:20:47.033] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 02:20:56.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by A MIMICER
+[03Dec2024 02:20:56.588] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[03Dec2024 02:21:04.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Skeleton
+[03Dec2024 02:21:04.643] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:21:59.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA was kicked for floating too long!
+[03Dec2024 02:21:59.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Flying is not enabled on this server
+[03Dec2024 02:21:59.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[03Dec2024 02:22:03.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Skeleton
+[03Dec2024 02:22:03.647] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 02:22:06.379] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49e96d6c
+[03Dec2024 02:22:06.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/[0:0:0:0:0:0:0:1%0]:37456] logged in with entity id 71338 at (-238.16034656740254, -14.051622749438122, -69.50638939516172)
+[03Dec2024 02:22:06.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[03Dec2024 02:22:06.422] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[03Dec2024 02:23:06.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ashes 'n Bones]
+[03Dec2024 02:25:03.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by A MIMICER
+[03Dec2024 02:25:03.390] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 02:25:25.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Daunt
+[03Dec2024 02:25:25.738] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[03Dec2024 02:26:06.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Daunt
+[03Dec2024 02:26:06.731] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[03Dec2024 02:26:14.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Stay dead]
+[03Dec2024 02:26:14.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Walking Dead]
+[03Dec2024 02:26:42.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Cave Dweller
+[03Dec2024 02:26:42.389] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 02:27:07.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
+[03Dec2024 02:27:07.735] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:27:24.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[03Dec2024 02:27:24.242] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:27:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[03Dec2024 02:27:44.387] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:28:00.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[03Dec2024 02:28:00.885] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:28:07.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Zombie
+[03Dec2024 02:28:07.833] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[03Dec2024 02:28:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[03Dec2024 02:28:15.342] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:28:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Acquire Hardware]
+[03Dec2024 02:28:44.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Isn't It Iron Pick]
+[03Dec2024 02:28:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 hit the ground too hard whilst trying to escape Zombie
+[03Dec2024 02:28:57.143] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[03Dec2024 02:29:04.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Diamonds!]
+[03Dec2024 02:29:26.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
+[03Dec2024 02:29:26.334] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 02:30:37.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Zombie
+[03Dec2024 02:30:37.288] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 02:31:35.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[03Dec2024 02:31:35.183] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:31:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Ashes 'n Bones]
+[03Dec2024 02:31:47.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Stay dead]
