@@ -973,3 +973,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 03:10:45.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was doomed to fall by 7euzk1ng
 [03Dec2024 03:10:45.328] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [03Dec2024 03:11:00.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DracofloraEntity['awake'/635, l='ServerLevel[world]', x=-242.07, y=31.00, z=-115.97] died: awake was eaten by a rock tentacle
+[03Dec2024 03:13:50.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng fell from a high place
+[03Dec2024 03:13:50.380] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 03:14:19.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut died
+[03Dec2024 03:14:19.933] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 03:14:32.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
+[03Dec2024 03:14:32.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
+[03Dec2024 03:14:32.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
+[03Dec2024 03:14:38.469] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a0ad200
+[03Dec2024 03:14:38.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:33828] logged in with entity id 7802 at (-257.329368563158, 106.00400237804656, -101.96465664982044)
+[03Dec2024 03:14:38.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
+[03Dec2024 03:14:38.544] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
+[03Dec2024 03:14:58.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Timed out
+[03Dec2024 03:14:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
+[03Dec2024 03:16:41.543] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1082a8cb
+[03Dec2024 03:16:41.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:40494] logged in with entity id 8177 at (-258.6644630345445, 79.0, -93.39561084991057)
+[03Dec2024 03:16:41.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
+[03Dec2024 03:16:41.595] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
+[03Dec2024 03:18:47.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8617, l='ServerLevel[world]', x=-283.92, y=-256.00, z=-111.24] died, message: 'Villager fell out of the world'
+[03Dec2024 03:19:07.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Timed out
+[03Dec2024 03:19:07.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[03Dec2024 03:19:34.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by 7euzk1ng
+[03Dec2024 03:19:34.397] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 03:20:27.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Timed out
+[03Dec2024 03:20:27.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
