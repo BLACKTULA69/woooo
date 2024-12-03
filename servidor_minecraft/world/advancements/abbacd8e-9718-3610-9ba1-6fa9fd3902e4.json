@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-03 00:54:01 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:13:40 +0000"
@@ -316,6 +322,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-03 00:49:36 +0000",
       "cooked_beef": "2024-12-02 23:35:31 +0000",
       "porkchop": "2024-12-02 23:35:07 +0000",
       "bread": "2024-12-02 23:33:08 +0000"
@@ -511,6 +518,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:13:40 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-03 00:51:30 +0000"
     },
     "done": true
   },
