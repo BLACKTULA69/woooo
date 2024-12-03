@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-03 01:48:46 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 01:01:14 +0000"
@@ -104,6 +110,12 @@
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 01:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-03 01:56:18 +0000"
     },
     "done": true
   },
