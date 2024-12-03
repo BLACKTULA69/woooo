@@ -116,7 +116,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-03 00:58:34 +0000",
-      "minecraft:taiga": "2024-12-03 00:45:20 +0000"
+      "minecraft:taiga": "2024-12-03 00:45:20 +0000",
+      "minecraft:lush_caves": "2024-12-03 03:08:32 +0000"
     },
     "done": false
   },
@@ -294,6 +295,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-03 03:06:46 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 00:45:19 +0000"
@@ -390,6 +397,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-03 03:07:37 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 00:45:19 +0000"
@@ -465,6 +478,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-03 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-03 03:06:50 +0000"
     },
     "done": true
   },

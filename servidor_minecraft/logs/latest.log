@@ -920,3 +920,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 02:59:40.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:46104] logged in with entity id 3600 at (-261.3211112191096, 97.30767652990781, -108.73591541107443)
 [03Dec2024 02:59:40.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
 [03Dec2024 02:59:40.985] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[03Dec2024 03:01:10.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was shot by Skeleton
+[03Dec2024 03:01:10.488] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 03:01:22.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
+[03Dec2024 03:01:22.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
+[03Dec2024 03:01:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[03Dec2024 03:01:27.066] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@67d6a8a8
+[03Dec2024 03:01:27.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:43670] logged in with entity id 4205 at (-258.9660015259412, 94.21041203340782, -104.39380683655492)
+[03Dec2024 03:01:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[03Dec2024 03:01:27.132] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[03Dec2024 03:02:41.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The One Who Watches
+[03Dec2024 03:02:41.629] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 03:02:42.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Zombie
+[03Dec2024 03:02:42.474] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 03:03:21.469] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@464a7a94[id=<null>,name=7euzk1ng,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:39396): Took too long to log in
+[03Dec2024 03:03:21.470] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@464a7a94[id=<null>,name=7euzk1ng,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:39396) lost connection: Took too long to log in
+[03Dec2024 03:03:21.517] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2024 03:03:37.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has reached the goal [Easy Opening]
+[03Dec2024 03:04:28.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
+[03Dec2024 03:04:28.084] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 03:04:39.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
+[03Dec2024 03:04:39.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
+[03Dec2024 03:04:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[03Dec2024 03:04:43.966] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@698b9d11
+[03Dec2024 03:04:43.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:46152] logged in with entity id 5057 at (-254.81432642338805, 105.38265824415697, -100.90940621697642)
+[03Dec2024 03:04:43.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[03Dec2024 03:04:44.015] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[03Dec2024 03:05:09.071] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/52b7a109-7de7-3106-ac30-1a3ae7d0fe79.json: Don't know what bwrtherain:rosemary is
+[03Dec2024 03:05:09.072] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/52b7a109-7de7-3106-ac30-1a3ae7d0fe79.json: Don't know what bwrtherain:vapor is
+[03Dec2024 03:05:09.073] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72f385dd
+[03Dec2024 03:05:09.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:42900] logged in with entity id 5120 at (-263.5841143454375, 124.53584062504456, -99.11715655213574)
+[03Dec2024 03:05:09.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
+[03Dec2024 03:05:09.123] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
+[03Dec2024 03:05:16.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Zombie
+[03Dec2024 03:05:16.879] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 03:06:50.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Acquire Hardware]
+[03Dec2024 03:07:17.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by BLACKTULA
+[03Dec2024 03:07:17.630] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 03:07:37.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Isn't It Iron Pick]
+[03Dec2024 03:07:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was doomed to fall by 7euzk1ng
+[03Dec2024 03:07:47.973] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 03:09:48.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut fell from a high place
+[03Dec2024 03:09:48.839] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 03:10:12.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: You logged in from another location
+[03Dec2024 03:10:12.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
+[03Dec2024 03:10:12.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:51146] logged in with entity id 6264 at (-267.92456226198834, 129.0, -110.59091129086347)
+[03Dec2024 03:10:12.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
+[03Dec2024 03:10:12.970] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
+[03Dec2024 03:10:32.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by BLACKTULA
+[03Dec2024 03:10:32.128] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 03:10:33.436] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2773594f
+[03Dec2024 03:10:45.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was doomed to fall by 7euzk1ng
+[03Dec2024 03:10:45.328] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 03:11:00.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DracofloraEntity['awake'/635, l='ServerLevel[world]', x=-242.07, y=31.00, z=-115.97] died: awake was eaten by a rock tentacle
