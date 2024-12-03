@@ -96,3 +96,33 @@
 [03Dec2024 00:40:19.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
 [03Dec2024 00:40:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Daunt
 [03Dec2024 00:40:54.778] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[03Dec2024 00:42:44.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
+[03Dec2024 00:42:44.478] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 00:43:37.372] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@28ce4964
+[03Dec2024 00:43:37.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/[0:0:0:0:0:0:0:1%0]:51910] logged in with entity id 43633 at (-261.93575935170173, 123.0, -109.02689806667283)
+[03Dec2024 00:43:37.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[03Dec2024 00:43:37.434] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[03Dec2024 00:45:18.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Broken Parts II]
+[03Dec2024 00:45:19.424] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ca6241
+[03Dec2024 00:45:19.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:39744] logged in with entity id 43860 at (-69.5, 72.0, -22.5)
+[03Dec2024 00:45:19.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
+[03Dec2024 00:45:19.570] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
+[03Dec2024 00:48:01.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> -261 129 -114
+[03Dec2024 00:48:20.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: You logged in from another location
+[03Dec2024 00:48:20.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
+[03Dec2024 00:48:20.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:51412] logged in with entity id 44593 at (-66.30647205936164, 69.0, -16.538970789423228)
+[03Dec2024 00:48:20.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
+[03Dec2024 00:48:20.934] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
+[03Dec2024 00:48:45.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
+[03Dec2024 00:48:45.130] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 00:49:16.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
+[03Dec2024 00:49:16.382] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 00:49:36.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
+[03Dec2024 00:49:36.792] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 00:50:08.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Black or White]
+[03Dec2024 00:50:18.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Not of Chocolate]
+[03Dec2024 00:50:46.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Broken Parts II]
+[03Dec2024 00:51:29.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has reached the goal [Grimm Start]
+[03Dec2024 00:51:30.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Amateur Archaeologist]
+[03Dec2024 00:51:42.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was doomed to fall by BLACKTULA
+[03Dec2024 00:51:42.480] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
