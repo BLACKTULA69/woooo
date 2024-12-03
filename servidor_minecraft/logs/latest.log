@@ -1,563 +1,922 @@
-[03Dec2024 00:00:07.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA was kicked for floating too long!
-[03Dec2024 00:00:07.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Flying is not enabled on this server
-[03Dec2024 00:00:07.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
-[03Dec2024 00:00:15.571] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@457e5cf
-[03Dec2024 00:00:15.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/[0:0:0:0:0:0:0:1%0]:54128] logged in with entity id 20149 at (-267.05620953104983, 103.20756908369545, -106.88625711261102)
-[03Dec2024 00:00:15.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
-[03Dec2024 00:00:15.626] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
-[03Dec2024 00:00:30.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Bone Paper Scissors]
-[03Dec2024 00:01:18.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was doomed to fall by BLACKTULA
-[03Dec2024 00:01:18.900] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 00:03:22.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell from a high place
-[03Dec2024 00:03:22.574] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:05:10.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA died because of Rosemary
-[03Dec2024 00:05:10.094] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:05:56.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta died because of Valem
-[03Dec2024 00:05:56.775] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 00:06:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was doomed to fall
-[03Dec2024 00:06:26.076] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:06:31.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
-[03Dec2024 00:06:31.977] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 00:06:40.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
-[03Dec2024 00:06:40.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
-[03Dec2024 00:06:40.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
-[03Dec2024 00:06:45.524] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5707fd15
-[03Dec2024 00:06:45.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:57590] logged in with entity id 21491 at (-255.29467597462155, 111.46026947021555, -96.67881453066094)
-[03Dec2024 00:06:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
-[03Dec2024 00:06:45.575] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
-[03Dec2024 00:06:48.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
-[03Dec2024 00:06:48.493] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:07:16.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
-[03Dec2024 00:07:16.479] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:07:53.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Sweet Dreams]
-[03Dec2024 00:08:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Sweet Dreams]
-[03Dec2024 00:08:13.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> SZZZZZZ
-[03Dec2024 00:08:20.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> zzzzzzzzzzzzzzzzzzzz
-[03Dec2024 00:08:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> ZZZZZZ
-[03Dec2024 00:08:26.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> ZZ
-[03Dec2024 00:08:26.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> Z
-[03Dec2024 00:08:26.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> Z
-[03Dec2024 00:08:26.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> Z
-[03Dec2024 00:08:26.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> Z
-[03Dec2024 00:08:27.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> Z
-[03Dec2024 00:08:27.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> Z
-[03Dec2024 00:10:55.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Acquire Hardware]
-[03Dec2024 00:11:12.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-424, y=72, z=-349} BlockPos{x=-425, y=70, z=-351}
-[03Dec2024 00:11:16.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-233, y=64, z=-396} BlockPos{x=-233, y=62, z=-397}
-[03Dec2024 00:11:16.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-233, y=64, z=-396} BlockPos{x=-233, y=62, z=-397}
-[03Dec2024 00:11:16.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-233, y=64, z=-398} BlockPos{x=-233, y=62, z=-399}
-[03Dec2024 00:11:17.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-233, y=64, z=-398} BlockPos{x=-233, y=62, z=-399}
-[03Dec2024 00:11:18.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-233, y=64, z=-403} BlockPos{x=-233, y=62, z=-404}
-[03Dec2024 00:11:18.852] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
-[03Dec2024 00:11:33.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Amateur Archaeologist]
-[03Dec2024 00:12:29.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ice Bucket Challenge]
-[03Dec2024 00:12:35.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Best Friends Forever]
-[03Dec2024 00:13:29.861] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-592, y=53, z=-680} but found not block entity block Block{minecraft:water}[level=0] at location
-[03Dec2024 00:13:29.861] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-592, y=53, z=-680}
-[03Dec2024 00:13:40.054] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-568, y=54, z=-717} but found not block entity block Block{minecraft:water}[level=0] at location
-[03Dec2024 00:13:40.055] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-568, y=54, z=-717}
-[03Dec2024 00:13:51.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Suit Up]
-[03Dec2024 00:14:02.849] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
-[03Dec2024 00:14:07.058] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
-[03Dec2024 00:14:59.838] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
-[03Dec2024 00:15:49.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Broken Parts II]
-[03Dec2024 00:17:47.592] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
-[03Dec2024 00:17:57.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Faceless Cow
-[03Dec2024 00:17:57.486] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:20:01.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Suit Up]
-[03Dec2024 00:20:23.743] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-680, y=50, z=-550} but found not block entity block Block{minecraft:water}[level=0] at location
-[03Dec2024 00:20:23.744] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-680, y=50, z=-550}
-[03Dec2024 00:21:32.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Amateur Archaeologist]
-[03Dec2024 00:22:49.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was doomed to fall by The Damned
-[03Dec2024 00:22:49.698] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:23:13.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA's intenstines were ripped out by the Hybrid
-[03Dec2024 00:23:13.153] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:23:27.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Discreet Search]
-[03Dec2024 00:23:37.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Feelingwatched]
-[03Dec2024 00:23:42.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29351, l='ServerLevel[world]', x=-554.51, y=64.00, z=-766.54] died, message: 'Villager was slain by Zombie'
-[03Dec2024 00:23:46.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was blown up by Camo Creeper
-[03Dec2024 00:23:46.204] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:24:33.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/28847, l='ServerLevel[world]', x=-494.32, y=63.42, z=-753.30] died, message: 'Farmer was slain by Zombie'
-[03Dec2024 00:26:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
-[03Dec2024 00:26:54.983] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:29:29.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Ice Bucket Challenge]
-[03Dec2024 00:29:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Diamonds!]
-[03Dec2024 00:29:53.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Ice Bucket Challenge]
-[03Dec2024 00:31:51.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> -269 123 -109
-[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [rootoffear:messages,the_figures:the_figures,enhancedvisuals:main,the_one_who_watches:the_one_who_watches,sophisticatedbackpacks:channel,corgilib:network,sons_of_sins:sons_of_sins,framework:play,fear_the_dark:fear_the_dark,minecraft:treechop-channel,enhancedcelestials:network,abomination:abomination,the_dead_forest:the_dead_forest,human_meat:human_meat,eeriehauntings:strongsoundtrigger,eeriehauntings:shaderupdate,slenderman:slenderman,siren_head:siren_head,thestarvedstalker:thestarvedstalker,faceless_villager:faceless_villager,creativecore:main,guideapi_vp:main,moonlight:channel,hybrid_vx:hybrid_vx,the_knocker:the_knocker,comforts:main,inventorysorter:net,bwrtherain:bwrtherain,citadel:main_channel,boh:boh,yeti:main,apollyon:apollyon,curios:main,skinandbonesremastered:skinandbonesremastered,cave_dweller:main,eeriehauntings:mediumsoundtrigger,framework:handshake,quark:main,tombstone:tombstone_channel,sanitydim:main,cavenoise_overhaul:main,twisted_horrors:twisted_horrors,thepursuer:thepursuer,sophisticatedcore:channel,artifacts:main,midnightlurker:midnightlurker,eyesinthedarkness:main,man:man,deep_blood:deep_blood,geckolib3:main,eeriehauntings:lightsoundtrigger,true_herobrine:true_herobrine,waystones:network] rejected vanilla connections
-[03Dec2024 00:32:41.598] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [rootoffear:messages,the_figures:the_figures,enhancedvisuals:main,the_one_who_watches:the_one_who_watches,sophisticatedbackpacks:channel,corgilib:network,sons_of_sins:sons_of_sins,framework:play,fear_the_dark:fear_the_dark,minecraft:treechop-channel,enhancedcelestials:network,abomination:abomination,the_dead_forest:the_dead_forest,human_meat:human_meat,eeriehauntings:strongsoundtrigger,eeriehauntings:shaderupdate,slenderman:slenderman,siren_head:siren_head,thestarvedstalker:thestarvedstalker,faceless_villager:faceless_villager,creativecore:main,guideapi_vp:main,moonlight:channel,hybrid_vx:hybrid_vx,the_knocker:the_knocker,comforts:main,inventorysorter:net,bwrtherain:bwrtherain,citadel:main_channel,boh:boh,yeti:main,apollyon:apollyon,curios:main,skinandbonesremastered:skinandbonesremastered,cave_dweller:main,eeriehauntings:mediumsoundtrigger,framework:handshake,quark:main,tombstone:tombstone_channel,sanitydim:main,cavenoise_overhaul:main,twisted_horrors:twisted_horrors,thepursuer:thepursuer,sophisticatedcore:channel,artifacts:main,midnightlurker:midnightlurker,eyesinthedarkness:main,man:man,deep_blood:deep_blood,geckolib3:main,eeriehauntings:lightsoundtrigger,true_herobrine:true_herobrine,waystones:network] rejected vanilla connections
-[03Dec2024 00:32:45.122] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[03Dec2024 00:34:16.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell from a high place
-[03Dec2024 00:34:16.451] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:36:22.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Void Hands
-[03Dec2024 00:36:22.776] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 00:40:19.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Timed out
-[03Dec2024 00:40:19.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
-[03Dec2024 00:40:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Daunt
-[03Dec2024 00:40:54.778] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 00:42:44.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
-[03Dec2024 00:42:44.478] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 00:43:37.372] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@28ce4964
-[03Dec2024 00:43:37.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/[0:0:0:0:0:0:0:1%0]:51910] logged in with entity id 43633 at (-261.93575935170173, 123.0, -109.02689806667283)
-[03Dec2024 00:43:37.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
-[03Dec2024 00:43:37.434] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
-[03Dec2024 00:45:18.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Broken Parts II]
-[03Dec2024 00:45:19.424] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ca6241
-[03Dec2024 00:45:19.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:39744] logged in with entity id 43860 at (-69.5, 72.0, -22.5)
-[03Dec2024 00:45:19.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 00:45:19.570] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 00:48:01.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> -261 129 -114
-[03Dec2024 00:48:20.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: You logged in from another location
-[03Dec2024 00:48:20.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 00:48:20.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:51412] logged in with entity id 44593 at (-66.30647205936164, 69.0, -16.538970789423228)
-[03Dec2024 00:48:20.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 00:48:20.934] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 00:48:45.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
-[03Dec2024 00:48:45.130] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:49:16.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
-[03Dec2024 00:49:16.382] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:49:36.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
-[03Dec2024 00:49:36.792] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:50:08.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Black or White]
-[03Dec2024 00:50:18.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Not of Chocolate]
-[03Dec2024 00:50:46.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Broken Parts II]
-[03Dec2024 00:51:29.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has reached the goal [Grimm Start]
-[03Dec2024 00:51:30.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Amateur Archaeologist]
-[03Dec2024 00:51:42.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was doomed to fall by BLACKTULA
-[03Dec2024 00:51:42.480] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 00:51:53.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 was kicked for floating too long!
-[03Dec2024 00:51:53.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Flying is not enabled on this server
-[03Dec2024 00:51:53.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
-[03Dec2024 00:51:59.530] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20d81ceb
-[03Dec2024 00:51:59.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/[0:0:0:0:0:0:0:1%0]:48700] logged in with entity id 46257 at (-258.56488839668754, 106.36247330396263, -106.12176127710691)
-[03Dec2024 00:51:59.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
-[03Dec2024 00:51:59.574] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
-[03Dec2024 00:52:06.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> -259 130 -107
-[03Dec2024 00:53:11.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
-[03Dec2024 00:53:11.132] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:54:01.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Suit Up]
-[03Dec2024 00:54:28.915] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
-[03Dec2024 00:54:34.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by xiino91
-[03Dec2024 00:54:34.286] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 00:58:31.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
-[03Dec2024 00:58:31.879] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 00:58:33.282] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39212aa8
-[03Dec2024 00:58:37.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Getting an Upgrade]
-[03Dec2024 00:58:37.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Stone Age]
-[03Dec2024 00:58:44.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng moved too quickly! 0.8265312085429173,-10.13105159816024,-0.5589332051261522
-[03Dec2024 00:58:45.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng fell from a high place
-[03Dec2024 00:58:45.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Your First Grave]
-[03Dec2024 00:58:45.086] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 00:58:53.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has reached the goal [Here They Come]
-[03Dec2024 01:00:07.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
-[03Dec2024 01:00:07.133] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:00:15.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by 7euzk1ng
-[03Dec2024 01:00:15.482] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 01:00:17.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Sweet Dreams]
-[03Dec2024 01:01:14.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7533d75a
-[03Dec2024 01:01:14.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:51208] logged in with entity id 48845 at (-83.5, 72.0, -25.5)
-[03Dec2024 01:01:14.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
-[03Dec2024 01:01:14.175] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
-[03Dec2024 01:01:32.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Broken Parts II]
-[03Dec2024 01:01:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> -259 130 -107
-[03Dec2024 01:02:49.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was blown up by Spruce Creeper
-[03Dec2024 01:02:49.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Your First Grave]
-[03Dec2024 01:02:49.978] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:03:34.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has reached the goal [Here They Come]
-[03Dec2024 01:04:19.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [You Monster]
-[03Dec2024 01:05:03.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng moved too quickly! 0.6687753551487958,-10.544157833446192,-0.28181830211839554
-[03Dec2024 01:05:04.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was doomed to fall by xiino91
-[03Dec2024 01:05:04.639] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:05:31.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Knowledge of Death]
-[03Dec2024 01:05:31.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has reached the goal [Chain Death]
-[03Dec2024 01:05:31.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by BLACKTULA
-[03Dec2024 01:05:31.836] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:05:43.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng was kicked for floating too long!
-[03Dec2024 01:05:44.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Flying is not enabled on this server
-[03Dec2024 01:05:44.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 01:05:52.083] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a31ff0
-[03Dec2024 01:05:52.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:57362] logged in with entity id 50338 at (-260.19868191390697, 106.00400237804656, -112.09475737276156)
-[03Dec2024 01:05:52.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 01:05:52.146] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 01:06:04.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was blown up by Camo Creeper
-[03Dec2024 01:06:04.093] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:06:14.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng was kicked for floating too long!
-[03Dec2024 01:06:14.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Flying is not enabled on this server
-[03Dec2024 01:06:14.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 01:06:19.629] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a67fa9b
-[03Dec2024 01:06:19.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:44824] logged in with entity id 50492 at (-255.55778578214517, 106.00400237804656, -104.26937845819774)
-[03Dec2024 01:06:19.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 01:06:19.676] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 01:06:21.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> -259 130 -107
-[03Dec2024 01:06:33.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was blown up by Camo Creeper
-[03Dec2024 01:06:33.949] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:08:37.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ye0ut> -20 64 -21
-[03Dec2024 01:09:55.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was doomed to fall by 7euzk1ng
-[03Dec2024 01:09:55.683] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 01:10:00.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ye0ut> -45 89 -95
-[03Dec2024 01:10:09.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 was kicked for floating too long!
-[03Dec2024 01:10:09.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Flying is not enabled on this server
-[03Dec2024 01:10:09.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
-[03Dec2024 01:10:13.883] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@182174b9
-[03Dec2024 01:10:13.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/[0:0:0:0:0:0:0:1%0]:35050] logged in with entity id 52280 at (-250.40809471853657, 106.00400237804656, -107.4259908852551)
-[03Dec2024 01:10:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
-[03Dec2024 01:10:13.928] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
-[03Dec2024 01:10:20.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng died because of Rosemary
-[03Dec2024 01:10:20.036] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:11:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has reached the goal [Grimm Start]
-[03Dec2024 01:11:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was doomed to fall by xiino91
-[03Dec2024 01:11:23.748] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:13:17.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has reached the goal [Bone Paper Scissors]
-[03Dec2024 01:13:32.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was doomed to fall by xiino91
-[03Dec2024 01:13:32.878] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:13:53.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 fell from a high place
-[03Dec2024 01:13:53.887] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 01:14:00.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [You Monster]
-[03Dec2024 01:14:53.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by BLACKTULA
-[03Dec2024 01:14:53.200] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:14:59.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell from a high place
-[03Dec2024 01:14:59.289] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 01:15:24.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Funeral Theft]
-[03Dec2024 01:15:24.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Discreet Search]
-[03Dec2024 01:17:34.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
-[03Dec2024 01:17:34.934] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:17:51.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
-[03Dec2024 01:17:51.544] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:17:54.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Funeral Theft]
-[03Dec2024 01:18:07.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was doomed to fall by xiino91
-[03Dec2024 01:18:07.194] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:18:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
-[03Dec2024 01:18:17.194] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:18:18.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
-[03Dec2024 01:18:18.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
-[03Dec2024 01:18:18.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
-[03Dec2024 01:18:26.273] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c4d86fe
-[03Dec2024 01:18:26.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:52486] logged in with entity id 56099 at (-251.18669514334087, 117.2854923893186, -94.427377576831)
-[03Dec2024 01:18:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
-[03Dec2024 01:18:26.321] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
-[03Dec2024 01:19:34.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has reached the goal [Feelingwatched]
-[03Dec2024 01:20:48.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was doomed to fall
-[03Dec2024 01:20:48.451] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:21:04.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was doomed to fall by 7euzk1ng
-[03Dec2024 01:21:04.516] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 01:21:10.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
-[03Dec2024 01:21:10.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
-[03Dec2024 01:21:10.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
-[03Dec2024 01:21:16.632] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d1f52bf
-[03Dec2024 01:21:16.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:47640] logged in with entity id 56714 at (-272.9024038471975, 98.14998983419157, -106.91095650750786)
-[03Dec2024 01:21:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
-[03Dec2024 01:21:16.692] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
-[03Dec2024 01:21:17.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
-[03Dec2024 01:21:17.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
-[03Dec2024 01:21:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
-[03Dec2024 01:21:22.426] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@778916d8
-[03Dec2024 01:21:22.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:51402] logged in with entity id 56734 at (-276.60322924321986, 106.00400237804656, -104.23188531014718)
-[03Dec2024 01:21:22.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
-[03Dec2024 01:21:22.471] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
-[03Dec2024 01:21:28.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Knowledge of Death]
-[03Dec2024 01:21:28.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has reached the goal [Chain Death]
-[03Dec2024 01:21:28.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Zombie
-[03Dec2024 01:21:28.230] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:22:32.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Feelingwatched]
-[03Dec2024 01:22:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was doomed to fall by 7euzk1ng
-[03Dec2024 01:22:51.001] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:23:04.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
-[03Dec2024 01:23:04.044] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:23:10.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
-[03Dec2024 01:23:10.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
-[03Dec2024 01:23:10.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
-[03Dec2024 01:23:18.982] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@603c2c21
-[03Dec2024 01:23:18.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:37154] logged in with entity id 57113 at (-278.95322805110584, 98.14998983419157, -101.19163718362601)
-[03Dec2024 01:23:19.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
-[03Dec2024 01:23:19.026] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
-[03Dec2024 01:23:33.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 fell from a high place
-[03Dec2024 01:23:33.295] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 01:23:50.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut died because of Corrupted Pillager
-[03Dec2024 01:23:50.931] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:24:42.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 was kicked for floating too long!
-[03Dec2024 01:24:42.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Flying is not enabled on this server
-[03Dec2024 01:24:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
-[03Dec2024 01:24:48.329] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b904fe6
-[03Dec2024 01:24:48.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/[0:0:0:0:0:0:0:1%0]:55754] logged in with entity id 57386 at (-277.8439952529076, 106.0421799624104, -110.39784003735198)
-[03Dec2024 01:24:48.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
-[03Dec2024 01:24:48.395] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
-[03Dec2024 01:26:25.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has reached the goal [Feelingwatched]
-[03Dec2024 01:26:55.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was doomed to fall by xiino91
-[03Dec2024 01:26:55.748] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:27:10.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
-[03Dec2024 01:27:10.753] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:27:21.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng was kicked for floating too long!
-[03Dec2024 01:27:21.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Flying is not enabled on this server
-[03Dec2024 01:27:21.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 01:27:27.826] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4152bcd7
-[03Dec2024 01:27:27.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:54486] logged in with entity id 57848 at (-276.20363220492027, 115.14998983419154, -106.85198363033172)
-[03Dec2024 01:27:27.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 01:27:27.881] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 01:28:33.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut died
-[03Dec2024 01:28:33.590] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:28:34.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
-[03Dec2024 01:28:34.694] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:29:50.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
-[03Dec2024 01:29:50.342] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:32:46.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zotzpyre
-[03Dec2024 01:32:46.632] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 01:34:55.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was shot by Skeleton
-[03Dec2024 01:34:55.480] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:35:55.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [A Strange Grave Dust]
-[03Dec2024 01:36:30.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> traiganme cuero xfa
-[03Dec2024 01:36:35.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Not Today, Thank You]
-[03Dec2024 01:37:02.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Broken Parts II]
-[03Dec2024 01:39:01.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Diamonds!]
-[03Dec2024 01:41:40.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
-[03Dec2024 01:41:40.096] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 01:42:41.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
-[03Dec2024 01:42:41.296] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 01:42:41.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng fell from a high place
-[03Dec2024 01:42:41.637] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:42:59.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng was kicked for floating too long!
-[03Dec2024 01:42:59.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Flying is not enabled on this server
-[03Dec2024 01:42:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 01:43:05.033] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d2543ac
-[03Dec2024 01:43:05.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:33280] logged in with entity id 62335 at (-282.3594388744045, 108.9553398926649, -111.82671241642993)
-[03Dec2024 01:43:05.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 01:43:05.093] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 01:43:10.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng was kicked for floating too long!
-[03Dec2024 01:43:10.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Flying is not enabled on this server
-[03Dec2024 01:43:10.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 01:43:17.379] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1faf47ba
-[03Dec2024 01:43:17.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:48616] logged in with entity id 62372 at (-298.12966599547127, 94.58099848416563, -108.90471435530083)
-[03Dec2024 01:43:17.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 01:43:17.423] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 01:43:59.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by Yeti
-[03Dec2024 01:43:59.335] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:44:52.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
-[03Dec2024 01:44:52.137] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 01:44:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut fell from a high place
-[03Dec2024 01:44:56.189] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:45:02.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Timed out
-[03Dec2024 01:45:02.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 01:45:23.930] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1a355431
-[03Dec2024 01:45:23.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:50672] logged in with entity id 62806 at (-286.38076235124413, 127.0, -111.86851187838798)
-[03Dec2024 01:45:23.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 01:45:23.989] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 01:45:48.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng moved too quickly! 0.3560396270738124,-10.61202295686212,-0.256998225096325
-[03Dec2024 01:45:51.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng fell from a high place
-[03Dec2024 01:45:51.289] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:45:59.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng was kicked for floating too long!
-[03Dec2024 01:45:59.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Flying is not enabled on this server
-[03Dec2024 01:45:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 01:46:05.430] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69d2500f
-[03Dec2024 01:46:05.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:60978] logged in with entity id 62997 at (-293.0448314695837, 114.14998983419157, -113.85932074155035)
-[03Dec2024 01:46:05.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 01:46:05.484] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 01:46:11.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng was kicked for floating too long!
-[03Dec2024 01:46:11.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Flying is not enabled on this server
-[03Dec2024 01:46:11.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 01:46:16.975] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43d86413
-[03Dec2024 01:46:16.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:48794] logged in with entity id 63050 at (-292.9356332094765, 99.77564842569231, -115.17337921544636)
-[03Dec2024 01:46:16.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 01:46:17.023] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 01:46:22.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng was kicked for floating too long!
-[03Dec2024 01:46:22.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Flying is not enabled on this server
-[03Dec2024 01:46:22.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 01:46:28.027] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f324359
-[03Dec2024 01:46:28.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:57314] logged in with entity id 63093 at (-292.9356332094765, 86.6247465834716, -115.17337921544636)
-[03Dec2024 01:46:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 01:46:28.078] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 01:48:46.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Suit Up]
-[03Dec2024 01:50:07.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut fell from a high place
-[03Dec2024 01:50:07.693] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:50:19.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DracofloraEntity['awake'/63166, l='ServerLevel[world]', x=-286.50, y=5.06, z=-181.92] died: awake was eaten by a rock tentacle
-[03Dec2024 01:52:20.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng burned to death
-[03Dec2024 01:52:20.200] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:52:22.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-285, y=130, z=-116}
-[03Dec2024 01:52:53.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was doomed to fall by 7euzk1ng
-[03Dec2024 01:52:53.382] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 01:53:06.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was doomed to fall by 7euzk1ng
-[03Dec2024 01:53:06.091] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 01:53:11.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Chain Death]
-[03Dec2024 01:53:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was doomed to fall by 7euzk1ng
-[03Dec2024 01:53:11.833] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 01:53:20.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <7euzk1ng> putalawea
-[03Dec2024 01:53:21.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 was kicked for floating too long!
-[03Dec2024 01:53:22.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Flying is not enabled on this server
-[03Dec2024 01:53:22.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
-[03Dec2024 01:53:27.474] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@407addd0
-[03Dec2024 01:53:27.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/[0:0:0:0:0:0:0:1%0]:40296] logged in with entity id 64501 at (-267.52090330726804, 87.27040119879788, -121.35327393153361)
-[03Dec2024 01:53:27.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
-[03Dec2024 01:53:27.525] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
-[03Dec2024 01:53:34.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Source of Evil]
-[03Dec2024 01:53:52.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 died
-[03Dec2024 01:53:52.338] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 01:54:45.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [A Strange Grave Dust]
-[03Dec2024 01:55:38.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 fell from a high place
-[03Dec2024 01:55:38.888] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 01:55:45.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <7euzk1ng> paren la wea
-[03Dec2024 01:55:48.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng fell from a high place
-[03Dec2024 01:55:48.289] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:56:04.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng was kicked for floating too long!
-[03Dec2024 01:56:04.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Flying is not enabled on this server
-[03Dec2024 01:56:04.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 01:56:09.777] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@254cb87
-[03Dec2024 01:56:09.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:46368] logged in with entity id 65247 at (-280.1626106710575, 89.14998983419157, -108.69179521459183)
-[03Dec2024 01:56:09.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
-[03Dec2024 01:56:09.833] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
-[03Dec2024 01:56:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Stone Age]
-[03Dec2024 01:56:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut fell from a high place
-[03Dec2024 01:56:30.185] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 01:56:40.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Timed out
-[03Dec2024 01:56:40.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
-[03Dec2024 01:56:44.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was doomed to fall by 7euzk1ng
-[03Dec2024 01:56:44.635] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 01:56:44.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Yeti
-[03Dec2024 01:56:44.881] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 01:56:45.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
-[03Dec2024 01:56:45.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
-[03Dec2024 01:56:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
-[03Dec2024 01:56:51.026] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@437d3882
-[03Dec2024 01:56:51.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:35900] logged in with entity id 65579 at (-266.0247905013694, 129.0, -112.65069424920678)
-[03Dec2024 01:56:51.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
-[03Dec2024 01:56:51.066] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
-[03Dec2024 01:56:51.532] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ecbef54
-[03Dec2024 01:56:51.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:35912] logged in with entity id 65581 at (-271.7759046017467, 106.56651120510124, -88.0718257405611)
-[03Dec2024 01:56:51.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
-[03Dec2024 01:56:51.583] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
-[03Dec2024 01:57:49.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <7euzk1ng> oe yapo si no estoy haciencole daño a nadien wn
-[03Dec2024 01:58:34.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
-[03Dec2024 01:58:35.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
-[03Dec2024 01:58:35.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
-[03Dec2024 01:58:41.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng went up in flames
-[03Dec2024 01:58:41.937] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
-[03Dec2024 01:58:42.085] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b1b9bf6
-[03Dec2024 01:58:42.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:58328] logged in with entity id 66030 at (-289.48866726875224, 109.944854991647, -103.26411114231777)
-[03Dec2024 01:58:42.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
-[03Dec2024 01:58:42.127] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
-[03Dec2024 01:58:46.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut fell from a high place
-[03Dec2024 01:58:47.002] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 02:00:15.405] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66391, l='ServerLevel[world]', x=-283.88, y=-256.00, z=-110.55] died, message: 'Villager fell out of the world'
-[03Dec2024 02:00:26.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=132, z=-116} BlockPos{x=-285, y=131, z=-117}
-[03Dec2024 02:00:36.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was doomed to fall
-[03Dec2024 02:00:36.142] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 02:00:44.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66503, l='ServerLevel[world]', x=-283.88, y=-256.00, z=-110.55] died, message: 'Villager fell out of the world'
-[03Dec2024 02:00:53.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was doomed to fall by 7euzk1ng
-[03Dec2024 02:00:53.942] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 02:01:18.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
-[03Dec2024 02:01:18.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
-[03Dec2024 02:01:18.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
-[03Dec2024 02:01:23.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91's intenstines were ripped out by the Hybrid
-[03Dec2024 02:01:23.181] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 02:01:24.226] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ac613bf
-[03Dec2024 02:01:24.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:55118] logged in with entity id 66698 at (-265.00453009206353, 110.11975687073593, -104.16924095802757)
-[03Dec2024 02:01:24.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
-[03Dec2024 02:01:24.296] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
-[03Dec2024 02:01:25.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Timed out
-[03Dec2024 02:01:25.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
-[03Dec2024 02:01:36.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 was kicked for floating too long!
-[03Dec2024 02:01:36.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Flying is not enabled on this server
-[03Dec2024 02:01:36.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
-[03Dec2024 02:01:40.823] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9e19a18
-[03Dec2024 02:01:40.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/[0:0:0:0:0:0:0:1%0]:38148] logged in with entity id 66765 at (-264.98486300701194, 100.98759206534896, -97.4067103846836)
-[03Dec2024 02:01:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
-[03Dec2024 02:01:40.864] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
-[03Dec2024 02:02:02.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was doomed to fall
-[03Dec2024 02:02:02.849] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 02:02:03.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [You Monster]
-[03Dec2024 02:03:44.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was doomed to fall
-[03Dec2024 02:03:44.191] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 02:04:27.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was doomed to fall
-[03Dec2024 02:04:27.492] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:06:14.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
-[03Dec2024 02:06:14.191] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 02:06:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
-[03Dec2024 02:06:27.192] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 02:06:41.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
-[03Dec2024 02:06:41.193] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 02:06:54.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was doomed to fall
-[03Dec2024 02:06:54.337] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 02:08:03.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 fell from a high place
-[03Dec2024 02:08:03.896] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 02:08:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell from a high place
-[03Dec2024 02:08:15.293] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:08:35.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA died
-[03Dec2024 02:08:35.932] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:15:26.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut fell from a high place
-[03Dec2024 02:15:26.841] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 02:15:55.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Getting an Upgrade]
-[03Dec2024 02:18:16.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Cave Dweller
-[03Dec2024 02:18:16.536] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:18:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Zombie
-[03Dec2024 02:18:23.428] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 02:18:34.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Zombie
-[03Dec2024 02:18:34.829] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 02:18:39.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
-[03Dec2024 02:18:39.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
-[03Dec2024 02:18:39.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
-[03Dec2024 02:18:45.079] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@64ce9f6f
-[03Dec2024 02:18:45.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:53092] logged in with entity id 70375 at (-258.5429514767355, 96.09928801642455, -102.87595915444616)
-[03Dec2024 02:18:45.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
-[03Dec2024 02:18:45.124] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
-[03Dec2024 02:19:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Monster Hunter]
-[03Dec2024 02:19:04.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Cave Spider
-[03Dec2024 02:19:04.381] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 02:19:19.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
-[03Dec2024 02:19:19.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
-[03Dec2024 02:19:19.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
-[03Dec2024 02:19:25.575] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b9d6326
-[03Dec2024 02:19:25.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:36184] logged in with entity id 70556 at (-257.4368568705673, 97.27610442970685, -107.86612407496708)
-[03Dec2024 02:19:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
-[03Dec2024 02:19:25.621] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
-[03Dec2024 02:20:19.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
-[03Dec2024 02:20:19.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Condemned To Die]
-[03Dec2024 02:20:19.230] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 02:20:47.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Cave Spider
-[03Dec2024 02:20:47.033] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 02:20:56.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by A MIMICER
-[03Dec2024 02:20:56.588] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 02:21:04.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Skeleton
-[03Dec2024 02:21:04.643] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:21:59.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA was kicked for floating too long!
-[03Dec2024 02:21:59.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Flying is not enabled on this server
-[03Dec2024 02:21:59.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
-[03Dec2024 02:22:03.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Skeleton
-[03Dec2024 02:22:03.647] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 02:22:06.379] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49e96d6c
-[03Dec2024 02:22:06.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/[0:0:0:0:0:0:0:1%0]:37456] logged in with entity id 71338 at (-238.16034656740254, -14.051622749438122, -69.50638939516172)
-[03Dec2024 02:22:06.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
-[03Dec2024 02:22:06.422] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
-[03Dec2024 02:23:06.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ashes 'n Bones]
-[03Dec2024 02:25:03.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by A MIMICER
-[03Dec2024 02:25:03.390] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 02:25:25.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Daunt
-[03Dec2024 02:25:25.738] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 02:26:06.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Daunt
-[03Dec2024 02:26:06.731] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 02:26:14.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Stay dead]
-[03Dec2024 02:26:14.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Walking Dead]
-[03Dec2024 02:26:42.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Cave Dweller
-[03Dec2024 02:26:42.389] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 02:27:07.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
-[03Dec2024 02:27:07.735] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:27:24.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
-[03Dec2024 02:27:24.242] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:27:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
-[03Dec2024 02:27:44.387] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:28:00.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
-[03Dec2024 02:28:00.885] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:28:07.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Zombie
-[03Dec2024 02:28:07.833] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 02:28:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
-[03Dec2024 02:28:15.342] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:28:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Acquire Hardware]
-[03Dec2024 02:28:44.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Isn't It Iron Pick]
-[03Dec2024 02:28:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 hit the ground too hard whilst trying to escape Zombie
-[03Dec2024 02:28:57.143] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
-[03Dec2024 02:29:04.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Diamonds!]
-[03Dec2024 02:29:26.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
-[03Dec2024 02:29:26.334] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
-[03Dec2024 02:30:37.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Zombie
-[03Dec2024 02:30:37.288] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
-[03Dec2024 02:31:35.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
-[03Dec2024 02:31:35.183] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
-[03Dec2024 02:31:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Ashes 'n Bones]
-[03Dec2024 02:31:47.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Stay dead]
+[03Dec2024 02:51:04.177] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[03Dec2024 02:51:04.185] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Dec2024 02:51:04.845] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/woooo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[03Dec2024 02:51:05.344] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/woooo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[03Dec2024 02:51:05.346] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/woooo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[03Dec2024 02:51:05.347] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/woooo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[03Dec2024 02:51:05.348] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/woooo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[03Dec2024 02:51:05.529] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[03Dec2024 02:51:05.531] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: terrablender. Using Mod File: /workspaces/woooo/servidor_minecraft/mods/TerraBlender (Forge).jar
+[03Dec2024 02:51:05.531] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[03Dec2024 02:51:08.102] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[03Dec2024 02:51:08.116] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Dec2024 02:51:08.177] [main/ERROR] [mixin/]: Mixin config justhammers.mixins.json does not specify "minVersion" property
+[03Dec2024 02:51:08.319] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[03Dec2024 02:51:08.322] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[03Dec2024 02:51:08.323] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[03Dec2024 02:51:08.347] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
+[03Dec2024 02:51:08.368] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[03Dec2024 02:51:08.375] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 02:51:08.396] [main/WARN] [mixin/]: Reference map 'justhammers-forge-forge-refmap.json' for justhammers.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 02:51:08.425] [main/INFO] [Sodium Extra Config/]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[03Dec2024 02:51:08.455] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for corgilib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 02:51:08.484] [main/WARN] [CanaryConfig/]: Mod 'pluto' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
+[03Dec2024 02:51:08.487] [main/INFO] [Canary/]: Loaded configuration file for Canary: 117 options available, 0 override(s) found
+[03Dec2024 02:51:08.496] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 02:51:09.161] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 02:51:09.193] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 02:51:09.977] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[03Dec2024 02:51:10.361] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/audio/Channel (java.lang.ClassNotFoundException: com.mojang.blaze3d.audio.Channel)
+[03Dec2024 02:51:10.361] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.audio.Channel was not found assets/sound_physics_remastered/sound_physics_remastered.mixins.json:ChannelAccessor
+[03Dec2024 02:51:10.593] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03Dec2024 02:51:11.040] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[03Dec2024 02:51:12.038] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity::handler$zdk000$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03Dec2024 02:51:14.350] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 02:51:14.351] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 02:51:14.378] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 02:51:14.379] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Dec2024 02:51:16.316] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[03Dec2024 02:51:18.804] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
+[03Dec2024 02:51:19.057] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.TagsFeature
+[03Dec2024 02:51:19.109] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.FixFeature
+[03Dec2024 02:51:19.139] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.feature.AEC3DFeature
+[03Dec2024 02:51:19.210] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[03Dec2024 02:51:19.236] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[03Dec2024 02:51:19.239] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[03Dec2024 02:51:19.240] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[03Dec2024 02:51:19.240] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[03Dec2024 02:51:19.240] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[03Dec2024 02:51:19.241] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[03Dec2024 02:51:19.241] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[03Dec2024 02:51:19.336] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[03Dec2024 02:51:19.336] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[03Dec2024 02:51:19.374] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
+[03Dec2024 02:51:19.846] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[03Dec2024 02:51:19.905] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Dec2024 02:51:19.994] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[03Dec2024 02:51:20.007] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[03Dec2024 02:51:20.174] [modloading-worker-0/ERROR] [toastcontrol/]: Running on a dedicated server, disabling mod.
+[03Dec2024 02:51:20.257] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[03Dec2024 02:51:20.260] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[03Dec2024 02:51:20.318] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[03Dec2024 02:51:20.322] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[03Dec2024 02:51:20.485] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id gardens_of_the_dead:networking_channel/bc2f24ca5d503301bb3abf7b928d614e
+[03Dec2024 02:51:20.671] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.VariantSelectorModule
+[03Dec2024 02:51:20.712] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[03Dec2024 02:51:20.722] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.ClimateControlRemoverModule
+[03Dec2024 02:51:20.727] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentsBegoneModule
+[03Dec2024 02:51:20.728] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[03Dec2024 02:51:20.729] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[03Dec2024 02:51:20.734] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[03Dec2024 02:51:20.738] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.VillagerRerollingReworkModule
+[03Dec2024 02:51:20.738] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[03Dec2024 02:51:20.740] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentPredicatesModule
+[03Dec2024 02:51:20.742] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[03Dec2024 02:51:20.746] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[03Dec2024 02:51:20.747] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.BambooBackportModule
+[03Dec2024 02:51:20.755] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[03Dec2024 02:51:20.759] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[03Dec2024 02:51:20.765] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[03Dec2024 02:51:20.766] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[03Dec2024 02:51:20.768] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[03Dec2024 02:51:20.772] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[03Dec2024 02:51:20.773] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[03Dec2024 02:51:20.776] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[03Dec2024 02:51:20.780] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[03Dec2024 02:51:20.782] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[03Dec2024 02:51:20.787] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[03Dec2024 02:51:20.790] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[03Dec2024 02:51:20.797] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[03Dec2024 02:51:20.810] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[03Dec2024 02:51:20.812] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[03Dec2024 02:51:20.815] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[03Dec2024 02:51:20.817] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[03Dec2024 02:51:20.819] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[03Dec2024 02:51:20.829] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.HollowLogsModule
+[03Dec2024 02:51:20.830] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[03Dec2024 02:51:20.832] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RainbowLampsModule
+[03Dec2024 02:51:20.833] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[03Dec2024 02:51:20.838] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[03Dec2024 02:51:20.841] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[03Dec2024 02:51:20.844] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[03Dec2024 02:51:20.847] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RawMetalBricksModule
+[03Dec2024 02:51:20.849] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreMudBlocksModule
+[03Dec2024 02:51:20.852] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[03Dec2024 02:51:20.857] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.JapanesePaletteModule
+[03Dec2024 02:51:20.861] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[03Dec2024 02:51:20.860] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/cdff7a8a5b4f3f218b5f77ef22e66016
+[03Dec2024 02:51:20.868] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[03Dec2024 02:51:20.874] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/773a011a51b630fba84ab824165fbd92
+[03Dec2024 02:51:20.876] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Spooking you...
+[03Dec2024 02:51:20.882] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[03Dec2024 02:51:20.885] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[03Dec2024 02:51:20.897] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[03Dec2024 02:51:20.900] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[03Dec2024 02:51:20.905] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[03Dec2024 02:51:20.913] [modloading-worker-0/ERROR] [net.minecraft.Util/]: Registry 'enhancedcelestials:lunar/event' was empty after loading
+[03Dec2024 02:51:20.914] [modloading-worker-0/ERROR] [net.minecraft.Util/]: Registry 'enhancedcelestials:lunar/dimension_settings' was empty after loading
+[03Dec2024 02:51:20.918] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[03Dec2024 02:51:20.926] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.AncientWoodModule
+[03Dec2024 02:51:20.942] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[03Dec2024 02:51:20.946] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[03Dec2024 02:51:20.952] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[03Dec2024 02:51:20.957] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[03Dec2024 02:51:20.968] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[03Dec2024 02:51:20.972] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[03Dec2024 02:51:20.973] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[03Dec2024 02:51:20.978] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[03Dec2024 02:51:20.981] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.CameraModule
+[03Dec2024 02:51:20.982] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ElytraIndicatorModule
+[03Dec2024 02:51:20.983] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[03Dec2024 02:51:20.988] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[03Dec2024 02:51:20.996] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.BucketsShowInhabitantsModule
+[03Dec2024 02:51:20.997] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[03Dec2024 02:51:20.999] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[03Dec2024 02:51:21.002] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[03Dec2024 02:51:21.004] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[03Dec2024 02:51:21.011] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[03Dec2024 02:51:21.013] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.WoolShutsUpMinecartsModule
+[03Dec2024 02:51:21.017] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybindModule
+[03Dec2024 02:51:21.019] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[03Dec2024 02:51:21.025] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.LongRangePickBlockModule
+[03Dec2024 02:51:21.031] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[03Dec2024 02:51:21.033] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[03Dec2024 02:51:21.034] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[03Dec2024 02:51:21.035] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[03Dec2024 02:51:21.037] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[03Dec2024 02:51:21.039] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[03Dec2024 02:51:21.041] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[03Dec2024 02:51:21.043] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[03Dec2024 02:51:21.045] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[03Dec2024 02:51:21.046] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[03Dec2024 02:51:21.047] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[03Dec2024 02:51:21.048] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[03Dec2024 02:51:21.049] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[03Dec2024 02:51:21.050] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[03Dec2024 02:51:21.051] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[03Dec2024 02:51:21.055] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[03Dec2024 02:51:21.057] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.AutomaticToolRestockModule
+[03Dec2024 02:51:21.066] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[03Dec2024 02:51:21.067] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[03Dec2024 02:51:21.068] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[03Dec2024 02:51:21.069] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[03Dec2024 02:51:21.080] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GoldToolsHaveFortuneModule
+[03Dec2024 02:51:21.082] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[03Dec2024 02:51:21.083] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[03Dec2024 02:51:21.084] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[03Dec2024 02:51:21.085] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[03Dec2024 02:51:21.086] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.RenewableSporeBlossomsModule
+[03Dec2024 02:51:21.086] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CoralOnCactusModule
+[03Dec2024 02:51:21.087] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[03Dec2024 02:51:21.088] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[03Dec2024 02:51:21.089] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[03Dec2024 02:51:21.091] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DyeableItemFramesModule
+[03Dec2024 02:51:21.093] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SlabsToBlocksModule
+[03Dec2024 02:51:21.094] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MapWashingModule
+[03Dec2024 02:51:21.105] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[03Dec2024 02:51:21.107] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[03Dec2024 02:51:21.107] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.HorsesSwimModule
+[03Dec2024 02:51:21.108] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SpongeOnWaterPlacementModule
+[03Dec2024 02:51:21.109] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[03Dec2024 02:51:21.110] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[03Dec2024 02:51:21.110] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ZombieVillagersOnNormalModule
+[03Dec2024 02:51:21.111] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[03Dec2024 02:51:21.112] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[03Dec2024 02:51:21.114] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SlimesToMagmaCubesModule
+[03Dec2024 02:51:21.115] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[03Dec2024 02:51:21.120] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[03Dec2024 02:51:21.121] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MoreNoteBlockSoundsModule
+[03Dec2024 02:51:21.122] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[03Dec2024 02:51:21.124] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[03Dec2024 02:51:21.128] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[03Dec2024 02:51:21.129] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[03Dec2024 02:51:21.130] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DiamondRepairModule
+[03Dec2024 02:51:21.132] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SaferCreaturesModule
+[03Dec2024 02:51:21.136] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[03Dec2024 02:51:21.137] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[03Dec2024 02:51:21.138] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[03Dec2024 02:51:21.139] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.NoDurabilityOnCosmeticsModule
+[03Dec2024 02:51:21.140] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SpongesBetterModule
+[03Dec2024 02:51:21.140] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[03Dec2024 02:51:21.142] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[03Dec2024 02:51:21.143] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[03Dec2024 02:51:21.144] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ShulkerPackingModule
+[03Dec2024 02:51:21.145] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[03Dec2024 02:51:21.147] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[03Dec2024 02:51:21.148] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[03Dec2024 02:51:21.150] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[03Dec2024 02:51:21.153] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[03Dec2024 02:51:21.154] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[03Dec2024 02:51:21.155] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[03Dec2024 02:51:21.156] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[03Dec2024 02:51:21.157] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[03Dec2024 02:51:21.159] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[03Dec2024 02:51:21.162] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[03Dec2024 02:51:21.163] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[03Dec2024 02:51:21.167] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[03Dec2024 02:51:21.168] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[03Dec2024 02:51:21.169] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[03Dec2024 02:51:21.170] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[03Dec2024 02:51:21.172] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.TorchArrowModule
+[03Dec2024 02:51:21.174] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[03Dec2024 02:51:21.175] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[03Dec2024 02:51:21.177] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[03Dec2024 02:51:21.178] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[03Dec2024 02:51:21.180] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[03Dec2024 02:51:21.182] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[03Dec2024 02:51:21.184] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[03Dec2024 02:51:21.187] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[03Dec2024 02:51:21.188] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[03Dec2024 02:51:21.191] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[03Dec2024 02:51:21.193] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[03Dec2024 02:51:21.194] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[03Dec2024 02:51:21.196] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[03Dec2024 02:51:21.198] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step CONSTRUCT
+[03Dec2024 02:51:21.430] [modloading-worker-0/INFO] [quark/]: Loading Module Pistons Move Tile Entities
+[03Dec2024 02:51:21.433] [modloading-worker-0/INFO] [quark/]: Loading Module Ender Watcher
+[03Dec2024 02:51:21.437] [modloading-worker-0/INFO] [quark/]: Loading Module Redstone Randomizer
+[03Dec2024 02:51:21.437] [modloading-worker-0/INFO] [quark/]: Loading Module Feeding Trough
+[03Dec2024 02:51:21.439] [modloading-worker-0/INFO] [quark/]: Loading Module Metal Buttons
+[03Dec2024 02:51:21.451] [modloading-worker-0/INFO] [quark/]: Loading Module Iron Rod
+[03Dec2024 02:51:21.452] [modloading-worker-0/INFO] [quark/]: Loading Module Obsidian Plate
+[03Dec2024 02:51:21.452] [modloading-worker-0/INFO] [quark/]: Loading Module Chains Connect Blocks
+[03Dec2024 02:51:21.452] [modloading-worker-0/INFO] [quark/]: Loading Module Gravisand
+[03Dec2024 02:51:21.452] [modloading-worker-0/INFO] [quark/]: Loading Module Jukebox Automation
+[03Dec2024 02:51:21.454] [modloading-worker-0/INFO] [quark/]: Loading Module Dispensers Place Blocks
+[03Dec2024 02:51:21.454] [modloading-worker-0/INFO] [quark/]: Loading Module Chute
+[03Dec2024 02:51:21.454] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Ladders
+[03Dec2024 02:51:21.455] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Bookshelves
+[03Dec2024 02:51:21.455] [modloading-worker-0/INFO] [quark/]: Loading Module Bamboo Backport
+[03Dec2024 02:51:21.455] [modloading-worker-0/INFO] [quark/]: Loading Module Compressed Blocks
+[03Dec2024 02:51:21.455] [modloading-worker-0/INFO] [quark/]: Loading Module More Potted Plants
+[03Dec2024 02:51:21.455] [modloading-worker-0/INFO] [quark/]: Loading Module Duskbound Blocks
+[03Dec2024 02:51:21.455] [modloading-worker-0/INFO] [quark/]: Loading Module Wooden Posts
+[03Dec2024 02:51:21.456] [modloading-worker-0/INFO] [quark/]: Loading Module Thatch
+[03Dec2024 02:51:21.456] [modloading-worker-0/INFO] [quark/]: Loading Module More Stone Variants
+[03Dec2024 02:51:21.456] [modloading-worker-0/INFO] [quark/]: Loading Module Shear Vines
+[03Dec2024 02:51:21.457] [modloading-worker-0/INFO] [quark/]: Loading Module Nether Brick Fence Gate
+[03Dec2024 02:51:21.457] [modloading-worker-0/INFO] [quark/]: Loading Module Gold Bars
+[03Dec2024 02:51:21.457] [modloading-worker-0/INFO] [quark/]: Loading Module Rope
+[03Dec2024 02:51:21.457] [modloading-worker-0/INFO] [quark/]: Loading Module Celebratory Lamps
+[03Dec2024 02:51:21.457] [modloading-worker-0/INFO] [quark/]: Loading Module Soul Sandstone
+[03Dec2024 02:51:21.458] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Chests
+[03Dec2024 02:51:21.461] [modloading-worker-0/INFO] [quark/]: Loading Module Leaf Carpet
+[03Dec2024 02:51:21.462] [modloading-worker-0/INFO] [quark/]: Loading Module Framed Glass
+[03Dec2024 02:51:21.462] [modloading-worker-0/INFO] [quark/]: Loading Module Vertical Planks
+[03Dec2024 02:51:21.462] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Furnaces
+[03Dec2024 02:51:21.462] [modloading-worker-0/INFO] [quark/]: Loading Module Hedges
+[03Dec2024 02:51:21.462] [modloading-worker-0/INFO] [quark/]: Loading Module Hollow Logs
+[03Dec2024 02:51:21.463] [modloading-worker-0/INFO] [quark/]: Loading Module Midori
+[03Dec2024 02:51:21.463] [modloading-worker-0/INFO] [quark/]: Loading Module Rainbow Lamps
+[03Dec2024 02:51:21.463] [modloading-worker-0/INFO] [quark/]: Loading Module Vertical Slabs
+[03Dec2024 02:51:21.463] [modloading-worker-0/INFO] [quark/]: Loading Module Shingles
+[03Dec2024 02:51:21.464] [modloading-worker-0/INFO] [quark/]: Loading Module Sturdy Stone
+[03Dec2024 02:51:21.464] [modloading-worker-0/INFO] [quark/]: Loading Module Stools
+[03Dec2024 02:51:21.465] [modloading-worker-0/INFO] [quark/]: Loading Module Raw Metal Bricks
+[03Dec2024 02:51:21.470] [modloading-worker-0/INFO] [quark/]: Loading Module More Mud Blocks
+[03Dec2024 02:51:21.470] [modloading-worker-0/INFO] [quark/]: Loading Module Grate
+[03Dec2024 02:51:21.471] [modloading-worker-0/INFO] [quark/]: Loading Module Japanese Palette
+[03Dec2024 02:51:21.471] [modloading-worker-0/INFO] [quark/]: Loading Module More Brick Types
+[03Dec2024 02:51:21.471] [modloading-worker-0/INFO] [quark/]: Loading Module Glass Item Frame
+[03Dec2024 02:51:21.471] [modloading-worker-0/INFO] [quark/]: Loading Module Industrial Palette
+[03Dec2024 02:51:21.471] [modloading-worker-0/INFO] [quark/]: Loading Module Quick Armor Swapping
+[03Dec2024 02:51:21.472] [modloading-worker-0/INFO] [quark/]: Loading Module Item Sharing
+[03Dec2024 02:51:21.472] [modloading-worker-0/INFO] [quark/]: Loading Module Automatic Tool Restock
+[03Dec2024 02:51:21.474] [modloading-worker-0/INFO] [quark/]: Loading Module Expanded Item Interactions
+[03Dec2024 02:51:21.475] [modloading-worker-0/INFO] [quark/]: Loading Module Inventory Sorting
+[03Dec2024 02:51:21.487] [modloading-worker-0/INFO] [quark/]: Loading Module Hotbar Changer
+[03Dec2024 02:51:21.488] [modloading-worker-0/INFO] [quark/]: Loading Module Easy Transfering
+[03Dec2024 02:51:21.488] [modloading-worker-0/INFO] [quark/]: Loading Module Beacon Redirection
+[03Dec2024 02:51:21.488] [modloading-worker-0/INFO] [quark/]: Loading Module Ambient Discs
+[03Dec2024 02:51:21.489] [modloading-worker-0/INFO] [quark/]: Loading Module Pathfinder Maps
+[03Dec2024 02:51:21.492] [modloading-worker-0/INFO] [quark/]: Loading Module Color Runes
+[03Dec2024 02:51:21.493] [modloading-worker-0/INFO] [quark/]: Loading Module Pickarang
+[03Dec2024 02:51:21.494] [modloading-worker-0/INFO] [quark/]: Loading Module Parrot Eggs
+[03Dec2024 02:51:21.496] [modloading-worker-0/INFO] [quark/]: Loading Module Trowel
+[03Dec2024 02:51:21.496] [modloading-worker-0/INFO] [quark/]: Loading Module Abacus
+[03Dec2024 02:51:21.496] [modloading-worker-0/INFO] [quark/]: Loading Module Bottled Cloud
+[03Dec2024 02:51:21.497] [modloading-worker-0/INFO] [quark/]: Loading Module Torch Arrow
+[03Dec2024 02:51:21.497] [modloading-worker-0/INFO] [quark/]: Loading Module Bundle Recipe
+[03Dec2024 02:51:21.497] [modloading-worker-0/INFO] [quark/]: Loading Module Ancient Tomes
+[03Dec2024 02:51:21.522] [modloading-worker-0/INFO] [quark/]: Loading Module Endermosh Music Disc
+[03Dec2024 02:51:21.525] [modloading-worker-0/INFO] [quark/]: Loading Module Seed Pouch
+[03Dec2024 02:51:21.526] [modloading-worker-0/INFO] [quark/]: Loading Module Skull Pikes
+[03Dec2024 02:51:21.531] [modloading-worker-0/INFO] [quark/]: Loading Module Slime In A Bucket
+[03Dec2024 02:51:21.533] [modloading-worker-0/INFO] [quark/]: Loading Module Gold Tools Have Fortune
+[03Dec2024 02:51:21.534] [modloading-worker-0/INFO] [quark/]: Loading Module Automatic Recipe Unlock
+[03Dec2024 02:51:21.537] [modloading-worker-0/INFO] [quark/]: Loading Module Utility Recipes
+[03Dec2024 02:51:21.540] [modloading-worker-0/INFO] [quark/]: Loading Module Poison Potato Usage
+[03Dec2024 02:51:21.543] [modloading-worker-0/INFO] [quark/]: Loading Module Better Elytra Rocket
+[03Dec2024 02:51:21.545] [modloading-worker-0/INFO] [quark/]: Loading Module Renewable Spore Blossoms
+[03Dec2024 02:51:21.550] [modloading-worker-0/INFO] [quark/]: Loading Module Coral On Cactus
+[03Dec2024 02:51:21.551] [modloading-worker-0/INFO] [quark/]: Loading Module Glass Shard
+[03Dec2024 02:51:21.552] [modloading-worker-0/INFO] [quark/]: Loading Module Pig Litters
+[03Dec2024 02:51:21.556] [modloading-worker-0/INFO] [quark/]: Loading Module Campfires Boost Elytra
+[03Dec2024 02:51:21.558] [modloading-worker-0/INFO] [quark/]: Loading Module Dyeable Item Frames
+[03Dec2024 02:51:21.560] [modloading-worker-0/INFO] [quark/]: Loading Module Slabs To Blocks
+[03Dec2024 02:51:21.564] [modloading-worker-0/INFO] [quark/]: Loading Module Map Washing
+[03Dec2024 02:51:21.564] [modloading-worker-0/INFO] [quark/]: Loading Module Enhanced Ladders
+[03Dec2024 02:51:21.566] [modloading-worker-0/INFO] [quark/]: Loading Module Reacharound Placing
+[03Dec2024 02:51:21.567] [modloading-worker-0/INFO] [quark/]: Loading Module Horses Swim
+[03Dec2024 02:51:21.568] [modloading-worker-0/INFO] [quark/]: Loading Module Sponge On Water Placement
+[03Dec2024 02:51:21.569] [modloading-worker-0/INFO] [quark/]: Loading Module Armed Armor Stands
+[03Dec2024 02:51:21.571] [modloading-worker-0/INFO] [quark/]: Loading Module Double Door Opening
+[03Dec2024 02:51:21.571] [modloading-worker-0/INFO] [quark/]: Loading Module Zombie Villagers On Normal
+[03Dec2024 02:51:21.573] [modloading-worker-0/INFO] [quark/]: Loading Module Hoe Harvesting
+[03Dec2024 02:51:21.574] [modloading-worker-0/INFO] [quark/]: Loading Module Emotes
+[03Dec2024 02:51:21.574] [modloading-worker-0/INFO] [quark/]: Loading Module Slimes To Magma Cubes
+[03Dec2024 02:51:21.575] [modloading-worker-0/INFO] [quark/]: Loading Module Snow Golem Player Heads
+[03Dec2024 02:51:21.577] [modloading-worker-0/INFO] [quark/]: Loading Module Vexes Die With Their Masters
+[03Dec2024 02:51:21.578] [modloading-worker-0/INFO] [quark/]: Loading Module More Note Block Sounds
+[03Dec2024 02:51:21.579] [modloading-worker-0/INFO] [quark/]: Loading Module Pat The Dogs
+[03Dec2024 02:51:21.581] [modloading-worker-0/INFO] [quark/]: Loading Module Grab Chickens
+[03Dec2024 02:51:21.583] [modloading-worker-0/INFO] [quark/]: Loading Module More Banner Layers
+[03Dec2024 02:51:21.583] [modloading-worker-0/INFO] [quark/]: Loading Module Replace Scaffolding
+[03Dec2024 02:51:21.584] [modloading-worker-0/INFO] [quark/]: Loading Module Diamond Repair
+[03Dec2024 02:51:21.585] [modloading-worker-0/INFO] [quark/]: Loading Module Safer Creatures
+[03Dec2024 02:51:21.587] [modloading-worker-0/INFO] [quark/]: Loading Module Lock Rotation
+[03Dec2024 02:51:21.593] [modloading-worker-0/INFO] [quark/]: Loading Module Villagers Follow Emeralds
+[03Dec2024 02:51:21.594] [modloading-worker-0/INFO] [quark/]: Loading Module Compasses Work Everywhere
+[03Dec2024 02:51:21.594] [modloading-worker-0/INFO] [quark/]: Loading Module No Durability On Cosmetics
+[03Dec2024 02:51:21.595] [modloading-worker-0/INFO] [quark/]: Loading Module Sponges Better
+[03Dec2024 02:51:21.596] [modloading-worker-0/INFO] [quark/]: Loading Module Sign Editing
+[03Dec2024 02:51:21.596] [modloading-worker-0/INFO] [quark/]: Loading Module Simple Harvest
+[03Dec2024 02:51:21.603] [modloading-worker-0/INFO] [quark/]: Loading Module Dragon Scales
+[03Dec2024 02:51:21.604] [modloading-worker-0/INFO] [quark/]: Loading Module Shulker Packing
+[03Dec2024 02:51:21.605] [modloading-worker-0/INFO] [quark/]: Loading Module Nether Obsidian Spikes
+[03Dec2024 02:51:21.605] [modloading-worker-0/INFO] [quark/]: Loading Module Permafrost
+[03Dec2024 02:51:21.605] [modloading-worker-0/INFO] [quark/]: Loading Module Fairy Rings
+[03Dec2024 02:51:21.605] [modloading-worker-0/INFO] [quark/]: Loading Module Big Stone Clusters
+[03Dec2024 02:51:21.606] [modloading-worker-0/INFO] [quark/]: Loading Module Spiral Spires
+[03Dec2024 02:51:21.607] [modloading-worker-0/INFO] [quark/]: Loading Module Ancient Wood
+[03Dec2024 02:51:21.612] [modloading-worker-0/INFO] [quark/]: Loading Module New Stone Types
+[03Dec2024 02:51:21.613] [modloading-worker-0/INFO] [quark/]: Loading Module Blossom Trees
+[03Dec2024 02:51:21.614] [modloading-worker-0/INFO] [quark/]: Loading Module Glimmering Weald
+[03Dec2024 02:51:21.614] [modloading-worker-0/INFO] [quark/]: Loading Module Monster Box
+[03Dec2024 02:51:21.616] [modloading-worker-0/INFO] [quark/]: Loading Module Azalea Wood
+[03Dec2024 02:51:21.616] [modloading-worker-0/INFO] [quark/]: Loading Module No More Lava Pockets
+[03Dec2024 02:51:21.616] [modloading-worker-0/INFO] [quark/]: Loading Module Corundum
+[03Dec2024 02:51:21.616] [modloading-worker-0/INFO] [quark/]: Loading Module Chorus Vegetation
+[03Dec2024 02:51:21.617] [modloading-worker-0/INFO] [quark/]: Loading Module Foxhound
+[03Dec2024 02:51:21.623] [modloading-worker-0/INFO] [quark/]: Loading Module Wraith
+[03Dec2024 02:51:21.623] [modloading-worker-0/INFO] [quark/]: Loading Module Crabs
+[03Dec2024 02:51:21.627] [modloading-worker-0/INFO] [quark/]: Loading Module Forgotten
+[03Dec2024 02:51:21.628] [modloading-worker-0/INFO] [quark/]: Loading Module Shiba
+[03Dec2024 02:51:21.629] [modloading-worker-0/INFO] [quark/]: Loading Module Stonelings
+[03Dec2024 02:51:21.632] [modloading-worker-0/INFO] [quark/]: Loading Module Toretoise
+[03Dec2024 02:51:21.635] [modloading-worker-0/INFO] [quark/]: Loading Module Camera
+[03Dec2024 02:51:21.635] [modloading-worker-0/INFO] [quark/]: Loading Module Elytra Indicator
+[03Dec2024 02:51:21.636] [modloading-worker-0/INFO] [quark/]: Loading Module Improved Tooltips
+[03Dec2024 02:51:21.636] [modloading-worker-0/INFO] [quark/]: Loading Module Greener Grass
+[03Dec2024 02:51:21.637] [modloading-worker-0/INFO] [quark/]: Loading Module Buckets Show Inhabitants
+[03Dec2024 02:51:21.637] [modloading-worker-0/INFO] [quark/]: Loading Module Soul Candles
+[03Dec2024 02:51:21.637] [modloading-worker-0/INFO] [quark/]: Loading Module Auto Walk Keybind
+[03Dec2024 02:51:21.637] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Animal Textures
+[03Dec2024 02:51:21.637] [modloading-worker-0/INFO] [quark/]: Loading Module Microcrafting Helper
+[03Dec2024 02:51:21.637] [modloading-worker-0/INFO] [quark/]: Loading Module Uses For Curses
+[03Dec2024 02:51:21.638] [modloading-worker-0/INFO] [quark/]: Loading Module Wool Shuts Up Minecarts
+[03Dec2024 02:51:21.638] [modloading-worker-0/INFO] [quark/]: Loading Module Back Button Keybind
+[03Dec2024 02:51:21.638] [modloading-worker-0/INFO] [quark/]: Loading Module Chest Searching
+[03Dec2024 02:51:21.639] [modloading-worker-0/INFO] [quark/]: Loading Module Long Range Pick Block
+[03Dec2024 02:51:21.640] [modloading-worker-0/INFO] [quark/]: Loading Module Usage Ticker
+[03Dec2024 02:51:21.640] [modloading-worker-0/INFO] [quark/]: Loading Module Variant Selector
+[03Dec2024 02:51:21.642] [modloading-worker-0/INFO] [quark/]: Loading Module Narrator Readout
+[03Dec2024 02:51:21.642] [modloading-worker-0/INFO] [quark/]: Loading Module Climate Control Remover
+[03Dec2024 02:51:21.644] [modloading-worker-0/INFO] [quark/]: Loading Module Enchantments Begone
+[03Dec2024 02:51:21.644] [modloading-worker-0/INFO] [quark/]: Loading Module Game Nerfs
+[03Dec2024 02:51:21.645] [modloading-worker-0/INFO] [quark/]: Loading Module Spawner Replacer
+[03Dec2024 02:51:21.646] [modloading-worker-0/INFO] [quark/]: Loading Module Adjustable Chat
+[03Dec2024 02:51:21.646] [modloading-worker-0/INFO] [quark/]: Loading Module Villager Rerolling Rework
+[03Dec2024 02:51:21.647] [modloading-worker-0/INFO] [quark/]: Loading Module Overlay Shader
+[03Dec2024 02:51:21.647] [modloading-worker-0/INFO] [quark/]: Loading Module Enchantment Predicates
+[03Dec2024 02:51:21.647] [modloading-worker-0/INFO] [quark/]: Loading Module Pipes
+[03Dec2024 02:51:21.648] [modloading-worker-0/INFO] [quark/]: Loading Module Backpack
+[03Dec2024 02:51:21.648] [modloading-worker-0/INFO] [quark/]: Loading Module Tiny Potato
+[03Dec2024 02:51:21.648] [modloading-worker-0/INFO] [quark/]: Loading Module Matrix Enchanting
+[03Dec2024 02:51:21.649] [modloading-worker-0/INFO] [quark/]: Loading Module Totem Of Holding
+[03Dec2024 02:51:21.649] [modloading-worker-0/INFO] [quark/]: Loading Module Crate
+[03Dec2024 02:51:21.650] [modloading-worker-0/INFO] [quark/]: Loading Module Magnets
+[03Dec2024 02:51:22.012] [main/INFO] [quark/]: Dispatching Module Step REGISTER
+[03Dec2024 02:51:23.125] [main/INFO] [quark/]: Dispatching Module Step POST_REGISTER
+[03Dec2024 02:51:24.408] [Thread-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: 'void com.corosus.modconfig.ConfigMod.onReload(net.minecraftforge.fml.event.config.ModConfigEvent$Reloading)'
+	Index: 1
+	Listeners:
+		0: NORMAL
+		1: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b5358b0a4b8@3de2f14e
+java.lang.NoSuchMethodError: 'void com.corosus.modconfig.ConfigMod.onReload(net.minecraftforge.fml.event.config.ModConfigEvent$Reloading)'
+	at TRANSFORMER/zombieawareness@1.19.2-1.12.3/com.corosus.zombieawareness.ZombieAwareness.onReload(ZombieAwareness.java:69)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at LAYER PLUGIN/javafmllanguage@1.19.2-43.4.2/net.minecraftforge.fml.javafmlmod.FMLModContainer.lambda$new$0(FMLModContainer.java:44)
+	at LAYER PLUGIN/fmlcore@1.19.2-43.4.2/net.minecraftforge.fml.ModContainer.lambda$dispatchConfigEvent$8(ModContainer.java:167)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at LAYER PLUGIN/fmlcore@1.19.2-43.4.2/net.minecraftforge.fml.ModContainer.dispatchConfigEvent(ModContainer.java:167)
+	at LAYER PLUGIN/fmlcore@1.19.2-43.4.2/net.minecraftforge.fml.config.ModConfig.fireEvent(ModConfig.java:77)
+	at LAYER PLUGIN/fmlcore@1.19.2-43.4.2/net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:147)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
+
+[03Dec2024 02:51:24.454] [main/INFO] [quark/]: Dispatching Module Step CONFIG_CHANGED
+[03Dec2024 02:51:24.613] [modloading-worker-0/INFO] [Sound Physics - General/]: Reloading config
+[03Dec2024 02:51:24.613] [modloading-worker-0/INFO] [Sound Physics - General/]: Reloading reverb parameters
+[03Dec2024 02:51:24.737] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[03Dec2024 02:51:24.745] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Summoning a hidebehind to eat you...
+[03Dec2024 02:51:24.771] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[03Dec2024 02:51:24.773] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[03Dec2024 02:51:24.795] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[03Dec2024 02:51:24.818] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step CONFIG_CHANGED
+[03Dec2024 02:51:24.824] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step SETUP
+[03Dec2024 02:51:24.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
+[03Dec2024 02:51:25.136] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03Dec2024 02:51:25.137] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03Dec2024 02:51:25.137] [main/INFO] [terrablender/]: Registered region graveyard_biomes:biome_provider to index 1 for type OVERWORLD
+[03Dec2024 02:51:25.182] [main/INFO] [moonlight/]: Initialized color sets in 41ms
+[03Dec2024 02:51:25.266] [main/INFO] [moonlight/]: Initialized color sets in 83ms
+[03Dec2024 02:51:25.267] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 8 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23338!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23338!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 8 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[03Dec2024 02:51:25.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.19.2
+[03Dec2024 02:51:25.312] [main/INFO] [terrablender/]: Registered region gardens_of_the_dead:nether to index 1 for type NETHER
+[03Dec2024 02:51:25.342] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[03Dec2024 02:51:25.345] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[03Dec2024 02:51:25.395] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[03Dec2024 02:51:25.397] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step LOAD_COMPLETE
+[03Dec2024 02:51:25.422] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at shadows.gateways.compat.GatewayJadePlugin
+[03Dec2024 02:51:25.423] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[03Dec2024 02:51:25.423] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+[03Dec2024 02:51:25.424] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[03Dec2024 02:51:25.444] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[03Dec2024 02:51:25.463] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[03Dec2024 02:51:25.465] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.teamderpy.shouldersurfing.compatibility.ShoulderSurfingJadePlugin
+[03Dec2024 02:51:25.466] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[03Dec2024 02:51:25.491] [main/INFO] [terrablender/]: Registered region quark:biome_provider to index 2 for type OVERWORLD
+[03Dec2024 02:51:25.631] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 16.3.20 Target: 16.3.20
+[03Dec2024 02:51:25.631] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
+[03Dec2024 02:51:25.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.0.4 Target: null
+[03Dec2024 02:51:25.661] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://maxhenkel.de/update/sound_physics_remastered.json
+[03Dec2024 02:51:26.608] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.19.2-1.0.18 Target: 1.19.2-1.3.0
+[03Dec2024 02:51:26.608] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
+[03Dec2024 02:51:26.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[03Dec2024 02:51:26.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[03Dec2024 02:51:26.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.2.17 Target: 8.3.7
+[03Dec2024 02:51:26.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Starting version check at https://github.com/AbdElAziz333/Pluto/blob/mc1.19.2/dev/updates.json
+[03Dec2024 02:51:26.947] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23338!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23338!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[03Dec2024 02:51:26.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rubidium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[03Dec2024 02:51:27.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rubidium_extra] Found status: UP_TO_DATE Current: 0.4.19+mc1.19.2-build.105 Target: null
+[03Dec2024 02:51:27.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[03Dec2024 02:51:27.434] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Dec2024 02:51:27.506] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+bwrtherain (version 2.3.4 -> MISSING)
+Things may not work well.
+[03Dec2024 02:51:27.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.6.16 Target: 0.7.12
+[03Dec2024 02:51:27.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
+[03Dec2024 02:51:27.601] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
+	bwrtherain:rosemary: 360
+	bwrtherain:spider_skull: 359
+	bwrtherain:valem: 361
+	bwrtherain:vapor: 358
+
+[03Dec2024 02:51:27.602] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	bwrtherain:rosemary_spawn_egg: 3314
+	bwrtherain:spider_skull_spawn_egg: 3313
+	bwrtherain:valem_spawn_egg: 3315
+	bwrtherain:vapor_spawn_egg: 3312
+
+[03Dec2024 02:51:27.602] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:mob_effect
+	bwrtherain:black_s_potion: 93
+	bwrtherain:end_1_potion: 91
+	bwrtherain:end_2_potion: 92
+	bwrtherain:rose_scare_potion: 94
+	bwrtherain:scare_face_2_potion: 96
+	bwrtherain:scare_face_3_potion: 97
+	bwrtherain:scare_face_potion: 95
+	bwrtherain:valem_scare_1_potion: 99
+	bwrtherain:valem_scare_2_potion: 100
+	bwrtherain:valem_scare_3_potion: 101
+	bwrtherain:valem_stare_potion: 98
+
+[03Dec2024 02:51:27.602] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
+	bwrtherain:deathscream: 1880
+	bwrtherain:glitch1: 1881
+	bwrtherain:rosegrowl1: 1884
+	bwrtherain:rosegrowl2: 1885
+	bwrtherain:rosemarychase: 1895
+	bwrtherain:rosemarymusic: 1894
+	bwrtherain:rosemaryspawn: 1886
+	bwrtherain:rosescream: 1887
+	bwrtherain:skullchase: 1883
+	bwrtherain:valemangry: 1888
+	bwrtherain:valemchase: 1893
+	bwrtherain:valemheart: 1890
+	bwrtherain:valemscream: 1891
+	bwrtherain:valemvanish: 1889
+	bwrtherain:valemwhisper: 1892
+	bwrtherain:vaporgroan: 1882
+
+[03Dec2024 02:51:27.603] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
+
+There are 35 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[03Dec2024 02:51:27.604] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
+    bwrtherain:deathscream
+    bwrtherain:glitch1
+    bwrtherain:rosegrowl1
+    bwrtherain:rosegrowl2
+    bwrtherain:rosemarychase
+    bwrtherain:rosemarymusic
+    bwrtherain:rosemaryspawn
+    bwrtherain:rosescream
+    bwrtherain:skullchase
+    bwrtherain:valemangry
+    bwrtherain:valemchase
+    bwrtherain:valemheart
+    bwrtherain:valemscream
+    bwrtherain:valemvanish
+    bwrtherain:valemwhisper
+    bwrtherain:vaporgroan
+
+Missing minecraft:item:
+    bwrtherain:rosemary_spawn_egg
+    bwrtherain:spider_skull_spawn_egg
+    bwrtherain:valem_spawn_egg
+    bwrtherain:vapor_spawn_egg
+
+Missing minecraft:mob_effect:
+    bwrtherain:black_s_potion
+    bwrtherain:end_1_potion
+    bwrtherain:end_2_potion
+    bwrtherain:rose_scare_potion
+    bwrtherain:scare_face_2_potion
+    bwrtherain:scare_face_3_potion
+    bwrtherain:scare_face_potion
+    bwrtherain:valem_scare_1_potion
+    bwrtherain:valem_scare_2_potion
+    bwrtherain:valem_scare_3_potion
+    bwrtherain:valem_stare_potion
+
+Missing minecraft:entity_type:
+    bwrtherain:rosemary
+    bwrtherain:spider_skull
+    bwrtherain:valem
+    bwrtherain:vapor
+
+
+[03Dec2024 02:51:27.604] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[03Dec2024 02:51:27.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_minimap Expected: 89 Got: 102
+[03Dec2024 02:51:27.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_minimap_harmful Expected: 90 Got: 103
+[03Dec2024 02:51:27.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_entity_radar Expected: 91 Got: 104
+[03Dec2024 02:51:27.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_entity_radar_harmful Expected: 92 Got: 105
+[03Dec2024 02:51:27.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_waypoints Expected: 93 Got: 106
+[03Dec2024 02:51:27.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_waypoints_harmful Expected: 94 Got: 107
+[03Dec2024 02:51:27.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_cave_maps Expected: 95 Got: 108
+[03Dec2024 02:51:27.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_cave_maps_harmful Expected: 96 Got: 109
+[03Dec2024 02:51:27.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: BETA Current: 30 Target: null
+[03Dec2024 02:51:27.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [darkpaintings] Starting version check at https://updates.blamejared.com/get?n=darkpaintings&gv=1.19.2
+[03Dec2024 02:51:28.047] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [darkpaintings] Found status: BETA Current: 13.1.5 Target: 13.1.5
+[03Dec2024 02:51:28.047] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
+[03Dec2024 02:51:28.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
+[03Dec2024 02:51:28.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guideapi_vp] Starting version check at https://maxanier.de/projects/guideapi/versions.json
+[03Dec2024 02:51:28.464] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/woooo/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23337!/assets/.mcassetsroot' uses unexpected schema
+[03Dec2024 02:51:28.464] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/woooo/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23337!/data/.mcassetsroot' uses unexpected schema
+[03Dec2024 02:51:28.493] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode::handler$zdo000$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03Dec2024 02:51:28.524] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:bwrtherain
+[03Dec2024 02:51:28.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guideapi_vp] Found status: AHEAD Current: 2.2.4 Target: null
+[03Dec2024 02:51:28.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Dec2024 02:51:28.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.6
+[03Dec2024 02:51:28.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.19.2
+[03Dec2024 02:51:28.803] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 13.0.20 Target: 13.0.20
+[03Dec2024 02:51:28.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[03Dec2024 02:51:28.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: OUTDATED Current: 1.19.2-2.3.6 Target: 1.19.2-2.3.7
+[03Dec2024 02:51:28.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.20.1/dev/updates.json
+[03Dec2024 02:51:28.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Found status: UP_TO_DATE Current: 0.0.4 Target: null
+[03Dec2024 02:51:28.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[03Dec2024 02:51:29.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: UP_TO_DATE Current: 1.19.2-1.0.10 Target: null
+[03Dec2024 02:51:29.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[03Dec2024 02:51:29.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[03Dec2024 02:51:29.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reds_morestructures_mr] Starting version check at https://api.modrinth.comauth/init?url=https://modrinth.com/datapack/reds-more-structures/version/1.0.7C/updates/DKJltXeY/forge_updates.json
+[03Dec2024 02:51:29.332] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.ConnectException: null
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:951) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.19.2-43.4.2.jar%23338!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.19.2-43.4.2.jar%23338!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23338!/:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1028) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:227) ~[java.net.http:?]
+	at jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:468) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:134) ~[java.net.http:?]
+	at jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:94) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.establishExchange(Exchange.java:386) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:570) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:423) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsync(Exchange.java:415) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:413) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:454) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950) ~[?:?]
+	at java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2372) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:444) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:346) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:177) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2719) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:299) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:1047) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:930) ~[java.net.http:?]
+	... 5 more
+Caused by: java.nio.channels.UnresolvedAddressException
+	at sun.nio.ch.Net.checkAddress(Net.java:137) ~[?:?]
+	at sun.nio.ch.Net.checkAddress(Net.java:145) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.checkRemote(SocketChannelImpl.java:842) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:865) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:210) ~[java.net.http:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:571) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:212) ~[java.net.http:?]
+	at jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:468) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:134) ~[java.net.http:?]
+	at jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:94) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.establishExchange(Exchange.java:386) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:570) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:423) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsync(Exchange.java:415) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:413) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:454) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950) ~[?:?]
+	at java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2372) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:444) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:346) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:177) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2719) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:299) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:1047) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:930) ~[java.net.http:?]
+	... 5 more
+[03Dec2024 02:51:31.047] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[03Dec2024 02:51:32.060] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[03Dec2024 02:51:32.238] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table skinandbonesremastered:skull_feast
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'skinandbonesremastered:deleted_mod_element'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.4.2-universal.jar%23342!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[03Dec2024 02:51:32.667] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {the_dead_forest:entities/frostbite_skeleton}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Dec2024 02:51:32.668] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Dec2024 02:51:32.668] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Dec2024 02:51:32.668] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Dec2024 02:51:32.668] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Dec2024 02:51:32.671] [main/INFO] [placebo/]: Registered 0 additional loot tables.
+[03Dec2024 02:51:32.673] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23337!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[03Dec2024 02:51:32.744] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement the_dead_forest:bb_gown: Non [a-z0-9/._-] character in path of location: the_dead_forest:frost_helmet
+
+[03Dec2024 02:51:32.751] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
+
+[03Dec2024 02:51:32.772] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement the_dead_forest:forged_in_hell: Non [a-z0-9/._-] character in path of location: the_dead_forest:fire_starter
+
+[03Dec2024 02:51:32.797] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 1197 recipe advancements
+[03Dec2024 02:51:32.821] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 573 advancements
+[03Dec2024 02:51:32.826] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[03Dec2024 02:51:32.849] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[03Dec2024 02:51:32.850] [main/INFO] [quark/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[03Dec2024 02:51:32.850] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[03Dec2024 02:51:32.850] [main/INFO] [quark/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[03Dec2024 02:51:32.852] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[03Dec2024 02:51:32.852] [main/INFO] [quark/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[03Dec2024 02:51:32.852] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[03Dec2024 02:51:32.853] [main/INFO] [quark/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[03Dec2024 02:51:32.853] [main/INFO] [quark/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[03Dec2024 02:51:32.910] [main/INFO] [Gateways to Eternity/]: Registered 33 gateways.
+[03Dec2024 02:51:33.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[03Dec2024 02:51:33.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Dec2024 02:51:33.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Dec2024 02:51:33.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Dec2024 02:51:33.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Dec2024 02:51:33.872] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Dec2024 02:51:33.953] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Dec2024 02:51:33.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Dec2024 02:51:33.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Dec2024 02:51:33.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Dec2024 02:51:34.464] [Server thread/INFO] [Framework/]: Loading server configs...
+[03Dec2024 02:51:34.704] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03Dec2024 02:51:34.705] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03Dec2024 02:51:34.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Dec2024 02:51:35.722] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[03Dec2024 02:51:35.729] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[03Dec2024 02:51:35.730] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[03Dec2024 02:51:35.792] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[03Dec2024 02:51:35.795] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[03Dec2024 02:51:35.795] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[03Dec2024 02:51:35.796] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[03Dec2024 02:51:35.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Dec2024 02:51:42.014] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.017] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.018] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.020] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.021] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.022] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.022] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.023] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.024] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.025] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.026] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.027] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.028] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.407] [Worker-Main2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 02:51:42.906] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[03Dec2024 02:51:43.405] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[03Dec2024 02:51:43.908] [Worker-Main3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[03Dec2024 02:51:44.015] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:51:44.016] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:51:44.181] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:51:44.186] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:51:44.192] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:vapor
+[03Dec2024 02:51:44.271] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:51:44.273] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:51:44.275] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:51:44.296] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8391 ms
+[03Dec2024 02:51:44.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.335s)! For help, type "help"
+[03Dec2024 02:51:44.328] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Dec2024 02:51:44.872] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:51:44.873] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:rosemary
+[03Dec2024 02:52:20.224] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d0da0481-ffde-3f71-8245-42f504954479.json: Don't know what bwrtherain:rosemary is
+[03Dec2024 02:52:20.243] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@12e7b844
+[03Dec2024 02:52:20.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/[0:0:0:0:0:0:0:1%0]:54912] logged in with entity id 746 at (-213.73305966276325, -18.0, -218.3731273443752)
+[03Dec2024 02:52:20.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[03Dec2024 02:52:20.421] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[03Dec2024 02:52:20.884] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:20.884] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:20.884] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:20.889] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:20.889] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:21.052] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:21.053] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:21.111] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:21.112] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:21.679] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:22.228] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:22.228] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:23.845] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:23.846] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:spider_skull
+[03Dec2024 02:52:58.614] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fd70722
+[03Dec2024 02:52:58.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:42904] logged in with entity id 1067 at (-254.09131300424906, 2.0, -67.58083721425614)
+[03Dec2024 02:52:58.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
+[03Dec2024 02:52:58.696] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
+[03Dec2024 02:53:12.370] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/166ddeff-df83-3a4a-8682-ead9d027438a.json: Don't know what bwrtherain:spider_skull is
+[03Dec2024 02:53:12.371] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/166ddeff-df83-3a4a-8682-ead9d027438a.json: Don't know what bwrtherain:valem is
+[03Dec2024 02:53:12.374] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66c60936
+[03Dec2024 02:53:12.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:49764] logged in with entity id 1221 at (-258.35671178984984, 43.5398514074224, -57.30000001192093)
+[03Dec2024 02:53:12.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[03Dec2024 02:53:12.440] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[03Dec2024 02:53:45.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
+[03Dec2024 02:53:45.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
+[03Dec2024 02:53:45.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[03Dec2024 02:53:45.179] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2024 02:53:50.231] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44a1465f
+[03Dec2024 02:53:50.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:49944] logged in with entity id 1334 at (-246.94632841259264, -20.85001016580846, -101.12804819911823)
+[03Dec2024 02:53:50.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[03Dec2024 02:53:50.296] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[03Dec2024 02:56:08.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut fell from a high place
+[03Dec2024 02:56:08.592] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 02:56:38.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was blown up by Skeleton Creeper
+[03Dec2024 02:56:38.614] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 02:56:48.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
+[03Dec2024 02:56:48.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
+[03Dec2024 02:56:48.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
+[03Dec2024 02:57:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA drowned
+[03Dec2024 02:57:08.525] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:57:13.977] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61ca65d3
+[03Dec2024 02:57:13.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:57478] logged in with entity id 2319 at (-248.15156687454981, -35.15090184222075, -87.72886444331908)
+[03Dec2024 02:57:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
+[03Dec2024 02:57:14.065] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
+[03Dec2024 02:57:55.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta fell from a high place
+[03Dec2024 02:57:55.591] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 02:58:30.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was doomed to fall by Zombie
+[03Dec2024 02:58:30.829] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 02:58:52.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
+[03Dec2024 02:58:52.239] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:59:00.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
+[03Dec2024 02:59:00.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
+[03Dec2024 02:59:00.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[03Dec2024 02:59:04.972] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@12fc93fc
+[03Dec2024 02:59:04.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:58780] logged in with entity id 3287 at (-241.97063530596117, -43.36756386607374, -83.97843903415176)
+[03Dec2024 02:59:04.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[03Dec2024 02:59:05.036] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[03Dec2024 02:59:21.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was smashed by the Arboreal Colossus
+[03Dec2024 02:59:21.781] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 02:59:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Starved Stalker
+[03Dec2024 02:59:23.362] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 02:59:35.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
+[03Dec2024 02:59:35.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
+[03Dec2024 02:59:35.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[03Dec2024 02:59:40.921] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b5449a6
+[03Dec2024 02:59:40.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:46104] logged in with entity id 3600 at (-261.3211112191096, 97.30767652990781, -108.73591541107443)
+[03Dec2024 02:59:40.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[03Dec2024 02:59:40.985] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
