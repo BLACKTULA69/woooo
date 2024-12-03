@@ -107,10 +107,17 @@
     },
     "done": true
   },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2024-12-03 01:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-03 01:11:26 +0000",
-      "minecraft:taiga": "2024-12-03 01:01:15 +0000"
+      "minecraft:taiga": "2024-12-03 01:01:15 +0000",
+      "minecraft:lush_caves": "2024-12-03 01:33:22 +0000"
     },
     "done": false
   },

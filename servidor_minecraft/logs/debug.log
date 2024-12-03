@@ -16922,3 +16922,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 01:31:21.913] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/56734, l='ServerLevel[world]', x=-259.14, y=63.00, z=-74.25]]
 [03Dec2024 01:31:28.274] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/56734, l='ServerLevel[world]', x=-258.67, y=53.00, z=-66.28]]
 [03Dec2024 01:31:54.906] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/43633, l='ServerLevel[world]', x=-246.69, y=17.00, z=-45.87]]
+[03Dec2024 01:32:08.945] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/56734, l='ServerLevel[world]', x=-261.91, y=2.00, z=-36.19]]
+[03Dec2024 01:32:15.818] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[03Dec2024 01:32:46.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zotzpyre
+[03Dec2024 01:32:46.619] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-305, y:7, z:-64, dim:minecraft:overworld]
+[03Dec2024 01:32:46.632] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 01:33:33.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 01:33:33.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 01:34:48.814] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[03Dec2024 01:34:55.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was shot by Skeleton
+[03Dec2024 01:34:55.470] [Server thread/DEBUG] [tombstone/]: A new grave of the player ye0ut was created at position [x:-304, y:7, z:-84, dim:minecraft:overworld]
+[03Dec2024 01:34:55.480] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 01:35:55.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [A Strange Grave Dust]
+[03Dec2024 01:36:30.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> traiganme cuero xfa
+[03Dec2024 01:36:35.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Not Today, Thank You]
+[03Dec2024 01:37:02.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Broken Parts II]
+[03Dec2024 01:38:33.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 01:38:33.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 01:39:01.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Diamonds!]
+[03Dec2024 01:39:21.067] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-258.50, y=129.00, z=-111.50]]
+[03Dec2024 01:41:40.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
+[03Dec2024 01:41:40.078] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:-223, y:-9, z:-78, dim:minecraft:overworld]
+[03Dec2024 01:41:40.096] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
