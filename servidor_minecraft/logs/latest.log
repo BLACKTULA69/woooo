@@ -208,3 +208,95 @@
 [03Dec2024 01:11:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has reached the goal [Grimm Start]
 [03Dec2024 01:11:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was doomed to fall by xiino91
 [03Dec2024 01:11:23.748] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 01:13:17.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has reached the goal [Bone Paper Scissors]
+[03Dec2024 01:13:32.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was doomed to fall by xiino91
+[03Dec2024 01:13:32.878] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 01:13:53.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 fell from a high place
+[03Dec2024 01:13:53.887] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[03Dec2024 01:14:00.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [You Monster]
+[03Dec2024 01:14:53.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by BLACKTULA
+[03Dec2024 01:14:53.200] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 01:14:59.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell from a high place
+[03Dec2024 01:14:59.289] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 01:15:24.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Funeral Theft]
+[03Dec2024 01:15:24.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Discreet Search]
+[03Dec2024 01:17:34.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
+[03Dec2024 01:17:34.934] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 01:17:51.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
+[03Dec2024 01:17:51.544] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 01:17:54.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Funeral Theft]
+[03Dec2024 01:18:07.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was doomed to fall by xiino91
+[03Dec2024 01:18:07.194] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 01:18:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
+[03Dec2024 01:18:17.194] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 01:18:18.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
+[03Dec2024 01:18:18.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
+[03Dec2024 01:18:18.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
+[03Dec2024 01:18:26.273] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c4d86fe
+[03Dec2024 01:18:26.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:52486] logged in with entity id 56099 at (-251.18669514334087, 117.2854923893186, -94.427377576831)
+[03Dec2024 01:18:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
+[03Dec2024 01:18:26.321] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
+[03Dec2024 01:19:34.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has reached the goal [Feelingwatched]
+[03Dec2024 01:20:48.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was doomed to fall
+[03Dec2024 01:20:48.451] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 01:21:04.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was doomed to fall by 7euzk1ng
+[03Dec2024 01:21:04.516] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 01:21:10.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
+[03Dec2024 01:21:10.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
+[03Dec2024 01:21:10.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
+[03Dec2024 01:21:16.632] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d1f52bf
+[03Dec2024 01:21:16.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:47640] logged in with entity id 56714 at (-272.9024038471975, 98.14998983419157, -106.91095650750786)
+[03Dec2024 01:21:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
+[03Dec2024 01:21:16.692] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
+[03Dec2024 01:21:17.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta was kicked for floating too long!
+[03Dec2024 01:21:17.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Flying is not enabled on this server
+[03Dec2024 01:21:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[03Dec2024 01:21:22.426] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@778916d8
+[03Dec2024 01:21:22.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/[0:0:0:0:0:0:0:1%0]:51402] logged in with entity id 56734 at (-276.60322924321986, 106.00400237804656, -104.23188531014718)
+[03Dec2024 01:21:22.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[03Dec2024 01:21:22.471] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[03Dec2024 01:21:28.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has made the advancement [Knowledge of Death]
+[03Dec2024 01:21:28.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut has reached the goal [Chain Death]
+[03Dec2024 01:21:28.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was slain by Zombie
+[03Dec2024 01:21:28.230] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 01:22:32.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Feelingwatched]
+[03Dec2024 01:22:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut was doomed to fall by 7euzk1ng
+[03Dec2024 01:22:51.001] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 01:23:04.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
+[03Dec2024 01:23:04.044] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 01:23:10.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut was kicked for floating too long!
+[03Dec2024 01:23:10.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ye0ut lost connection: Flying is not enabled on this server
+[03Dec2024 01:23:10.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut left the game
+[03Dec2024 01:23:18.982] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@603c2c21
+[03Dec2024 01:23:18.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ye0ut[/[0:0:0:0:0:0:0:1%0]:37154] logged in with entity id 57113 at (-278.95322805110584, 98.14998983419157, -101.19163718362601)
+[03Dec2024 01:23:19.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut joined the game
+[03Dec2024 01:23:19.026] [Server thread/INFO] [Jade/]: Syncing config to ye0ut (c9245604-77ef-3f55-869f-83289c100e99)
+[03Dec2024 01:23:33.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 fell from a high place
+[03Dec2024 01:23:33.295] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[03Dec2024 01:23:50.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut died because of Corrupted Pillager
+[03Dec2024 01:23:50.931] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 01:24:42.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 was kicked for floating too long!
+[03Dec2024 01:24:42.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Flying is not enabled on this server
+[03Dec2024 01:24:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
+[03Dec2024 01:24:48.329] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b904fe6
+[03Dec2024 01:24:48.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/[0:0:0:0:0:0:0:1%0]:55754] logged in with entity id 57386 at (-277.8439952529076, 106.0421799624104, -110.39784003735198)
+[03Dec2024 01:24:48.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
+[03Dec2024 01:24:48.395] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
+[03Dec2024 01:26:25.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has reached the goal [Feelingwatched]
+[03Dec2024 01:26:55.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was doomed to fall by xiino91
+[03Dec2024 01:26:55.748] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 01:27:10.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
+[03Dec2024 01:27:10.753] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 01:27:21.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng was kicked for floating too long!
+[03Dec2024 01:27:21.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Flying is not enabled on this server
+[03Dec2024 01:27:21.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
+[03Dec2024 01:27:27.826] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4152bcd7
+[03Dec2024 01:27:27.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/[0:0:0:0:0:0:0:1%0]:54486] logged in with entity id 57848 at (-276.20363220492027, 115.14998983419154, -106.85198363033172)
+[03Dec2024 01:27:27.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
+[03Dec2024 01:27:27.881] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
+[03Dec2024 01:28:33.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ye0ut died
+[03Dec2024 01:28:33.590] [Server thread/INFO] [tombstone/]: The player ye0ut has successfully been saved
+[03Dec2024 01:28:34.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
+[03Dec2024 01:28:34.694] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[03Dec2024 01:29:50.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by xiino91
+[03Dec2024 01:29:50.342] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
