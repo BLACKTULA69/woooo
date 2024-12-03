@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "thepursuer:adv_pursuer_root": {
+    "criteria": {
+      "adv_pursuer_root": "2024-12-03 00:10:33 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:13:40 +0000"
@@ -62,6 +68,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:pillager": "2024-12-02 23:20:31 +0000"
+    },
+    "done": true
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched": "2024-12-03 00:23:37 +0000"
     },
     "done": true
   },
@@ -460,6 +472,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-03 00:35:39 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:13:40 +0000"
@@ -493,6 +511,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-03 00:29:29 +0000"
     },
     "done": true
   },

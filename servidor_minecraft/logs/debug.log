@@ -13071,3 +13071,264 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 00:11:17.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-233, y=64, z=-398} BlockPos{x=-233, y=62, z=-399}
 [03Dec2024 00:11:18.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-233, y=64, z=-403} BlockPos{x=-233, y=62, z=-404}
 [03Dec2024 00:11:18.852] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[03Dec2024 00:11:31.119] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[03Dec2024 00:11:33.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Amateur Archaeologist]
+[03Dec2024 00:12:29.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ice Bucket Challenge]
+[03Dec2024 00:12:33.411] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$4ae250e6bc3f42c9b95d620de1b195e8 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[03Dec2024 00:12:35.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Best Friends Forever]
+[03Dec2024 00:13:29.861] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-592, y=53, z=-680} but found not block entity block Block{minecraft:water}[level=0] at location
+[03Dec2024 00:13:29.861] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-592, y=53, z=-680}
+[03Dec2024 00:13:33.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:13:33.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:13:33.694] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[03Dec2024 00:13:33.703] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[03Dec2024 00:13:40.054] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-568, y=54, z=-717} but found not block entity block Block{minecraft:water}[level=0] at location
+[03Dec2024 00:13:40.055] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-568, y=54, z=-717}
+[03Dec2024 00:13:51.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Suit Up]
+[03Dec2024 00:13:54.154] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-260.40, y=129.42, z=-109.51]]
+[03Dec2024 00:14:02.849] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[03Dec2024 00:14:07.058] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[03Dec2024 00:14:59.838] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[03Dec2024 00:15:15.144] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[03Dec2024 00:15:49.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Broken Parts II]
+[03Dec2024 00:17:23.933] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[03Dec2024 00:17:47.592] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[03Dec2024 00:17:56.554] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-462.58, y=63.00, z=-770.23]]
+[03Dec2024 00:17:57.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Faceless Cow
+[03Dec2024 00:17:57.469] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-193, y:68, z:-492, dim:minecraft:overworld]
+[03Dec2024 00:17:57.486] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 00:17:58.717] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-262.72, y=123.56, z=-108.74]]
+[03Dec2024 00:17:59.604] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-262.72, y=123.56, z=-108.74]]
+[03Dec2024 00:17:59.904] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-262.72, y=123.56, z=-108.74]]
+[03Dec2024 00:18:00.054] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-262.72, y=123.56, z=-108.74]]
+[03Dec2024 00:18:33.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:18:33.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:20:01.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Suit Up]
+[03Dec2024 00:20:23.743] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-680, y=50, z=-550} but found not block entity block Block{minecraft:water}[level=0] at location
+[03Dec2024 00:20:23.744] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-680, y=50, z=-550}
+[03Dec2024 00:20:33.846] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[03Dec2024 00:21:32.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Amateur Archaeologist]
+[03Dec2024 00:22:37.799] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 48
+[03Dec2024 00:22:37.802] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=45, e=45}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=46, e=53}, net.minecraft.world.inventory.ResultContainer@176cf6e=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@176cf6e, c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=0, e=0}, net.minecraft.world.inventory.CraftingContainer@3db23c58=InventoryMapping{i=net.minecraft.world.inventory.CraftingContainer@3db23c58, c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=1, e=4}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=9, e=35}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=36, e=44}}
+[03Dec2024 00:22:37.802] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=46, e=53}
+[03Dec2024 00:22:37.963] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 48
+[03Dec2024 00:22:37.964] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=45, e=45}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=46, e=53}, net.minecraft.world.inventory.ResultContainer@176cf6e=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@176cf6e, c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=0, e=0}, net.minecraft.world.inventory.CraftingContainer@3db23c58=InventoryMapping{i=net.minecraft.world.inventory.CraftingContainer@3db23c58, c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=1, e=4}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=9, e=35}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=36, e=44}}
+[03Dec2024 00:22:37.964] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@1b8b1c1d, b=46, e=53}
+[03Dec2024 00:22:49.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was doomed to fall by The Damned
+[03Dec2024 00:22:49.695] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-266, y:106, z:-104, dim:minecraft:overworld]
+[03Dec2024 00:22:49.698] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 00:23:13.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA's intenstines were ripped out by the Hybrid
+[03Dec2024 00:23:13.153] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 00:23:27.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Discreet Search]
+[03Dec2024 00:23:33.428] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[03Dec2024 00:23:33.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:23:33.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:23:37.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Feelingwatched]
+[03Dec2024 00:23:42.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29351, l='ServerLevel[world]', x=-554.51, y=64.00, z=-766.54] died, message: 'Villager was slain by Zombie'
+[03Dec2024 00:23:46.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was blown up by Camo Creeper
+[03Dec2024 00:23:46.177] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-255, y:112, z:-90, dim:minecraft:overworld]
+[03Dec2024 00:23:46.204] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 00:24:33.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/28847, l='ServerLevel[world]', x=-494.32, y=63.42, z=-753.30] died, message: 'Farmer was slain by Zombie'
+[03Dec2024 00:26:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
+[03Dec2024 00:26:54.970] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-262, y:129, z:-105, dim:minecraft:overworld]
+[03Dec2024 00:26:54.983] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 00:28:30.430] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[03Dec2024 00:28:33.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:28:33.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:28:55.554] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-509.37, y=63.00, z=-766.34]]
+[03Dec2024 00:28:57.104] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-504.71, y=66.19, z=-768.28]]
+[03Dec2024 00:28:57.504] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-503.25, y=66.94, z=-768.11]]
+[03Dec2024 00:28:58.654] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-260.80, y=129.56, z=-112.48]]
+[03Dec2024 00:28:58.904] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/20149, l='ServerLevel[world]', x=-258.30, y=129.00, z=-112.83]]
+[03Dec2024 00:28:58.954] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-497.85, y=68.00, z=-770.18]]
+[03Dec2024 00:29:00.204] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/20149, l='ServerLevel[world]', x=-258.30, y=129.00, z=-112.83]]
+[03Dec2024 00:29:01.004] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/20149, l='ServerLevel[world]', x=-258.30, y=129.00, z=-112.83]]
+[03Dec2024 00:29:01.154] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-495.40, y=66.94, z=-772.18]]
+[03Dec2024 00:29:01.755] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-495.40, y=66.94, z=-772.18]]
+[03Dec2024 00:29:02.304] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/20149, l='ServerLevel[world]', x=-258.30, y=129.00, z=-112.83]]
+[03Dec2024 00:29:03.154] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-260.80, y=129.56, z=-112.48]]
+[03Dec2024 00:29:03.354] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-495.40, y=66.94, z=-772.18]]
+[03Dec2024 00:29:04.453] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-260.80, y=129.56, z=-112.48]]
+[03Dec2024 00:29:05.004] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/20149, l='ServerLevel[world]', x=-258.30, y=128.88, z=-113.72]]
+[03Dec2024 00:29:05.854] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-494.70, y=64.94, z=-771.79]]
+[03Dec2024 00:29:09.104] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-494.70, y=68.42, z=-773.19]]
+[03Dec2024 00:29:13.554] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-494.95, y=76.00, z=-775.53]]
+[03Dec2024 00:29:15.404] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-260.23, y=130.00, z=-108.39]]
+[03Dec2024 00:29:15.654] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-260.40, y=130.00, z=-108.39]]
+[03Dec2024 00:29:29.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Ice Bucket Challenge]
+[03Dec2024 00:29:39.527] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[03Dec2024 00:29:39.528] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[03Dec2024 00:29:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Diamonds!]
+[03Dec2024 00:29:53.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Ice Bucket Challenge]
+[03Dec2024 00:31:20.551] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[03Dec2024 00:31:51.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> -269 123 -109
+[03Dec2024 00:32:41.594] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rootoffear:messages' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_figures:the_figures' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedvisuals:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_one_who_watches:the_one_who_watches' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sons_of_sins:sons_of_sins' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fear_the_dark:fear_the_dark' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'abomination:abomination' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_dead_forest:the_dead_forest' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'human_meat:human_meat' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeriehauntings:strongsoundtrigger' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeriehauntings:shaderupdate' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'slenderman:slenderman' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'siren_head:siren_head' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thestarvedstalker:thestarvedstalker' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'faceless_villager:faceless_villager' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guideapi_vp:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hybrid_vx:hybrid_vx' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_knocker:the_knocker' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'inventorysorter:net' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bwrtherain:bwrtherain' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'boh:boh' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'yeti:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apollyon:apollyon' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinandbonesremastered:skinandbonesremastered' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cave_dweller:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeriehauntings:mediumsoundtrigger' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sanitydim:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cavenoise_overhaul:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twisted_horrors:twisted_horrors' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thepursuer:thepursuer' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'midnightlurker:midnightlurker' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eyesinthedarkness:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'man:man' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deep_blood:deep_blood' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gateways:channel' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeriehauntings:lightsoundtrigger' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'true_herobrine:true_herobrine' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:41.597] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [rootoffear:messages,the_figures:the_figures,enhancedvisuals:main,the_one_who_watches:the_one_who_watches,sophisticatedbackpacks:channel,corgilib:network,sons_of_sins:sons_of_sins,framework:play,fear_the_dark:fear_the_dark,minecraft:treechop-channel,enhancedcelestials:network,abomination:abomination,the_dead_forest:the_dead_forest,human_meat:human_meat,eeriehauntings:strongsoundtrigger,eeriehauntings:shaderupdate,slenderman:slenderman,siren_head:siren_head,thestarvedstalker:thestarvedstalker,faceless_villager:faceless_villager,creativecore:main,guideapi_vp:main,moonlight:channel,hybrid_vx:hybrid_vx,the_knocker:the_knocker,comforts:main,inventorysorter:net,bwrtherain:bwrtherain,citadel:main_channel,boh:boh,yeti:main,apollyon:apollyon,curios:main,skinandbonesremastered:skinandbonesremastered,cave_dweller:main,eeriehauntings:mediumsoundtrigger,framework:handshake,quark:main,tombstone:tombstone_channel,sanitydim:main,cavenoise_overhaul:main,twisted_horrors:twisted_horrors,thepursuer:thepursuer,sophisticatedcore:channel,artifacts:main,midnightlurker:midnightlurker,eyesinthedarkness:main,man:man,deep_blood:deep_blood,geckolib3:main,eeriehauntings:lightsoundtrigger,true_herobrine:true_herobrine,waystones:network] rejected vanilla connections
+[03Dec2024 00:32:41.598] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[03Dec2024 00:32:45.119] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rootoffear:messages' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.119] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_figures:the_figures' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedvisuals:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_one_who_watches:the_one_who_watches' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sons_of_sins:sons_of_sins' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fear_the_dark:fear_the_dark' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'abomination:abomination' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_dead_forest:the_dead_forest' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'human_meat:human_meat' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeriehauntings:strongsoundtrigger' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeriehauntings:shaderupdate' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'slenderman:slenderman' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'siren_head:siren_head' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thestarvedstalker:thestarvedstalker' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'faceless_villager:faceless_villager' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guideapi_vp:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hybrid_vx:hybrid_vx' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_knocker:the_knocker' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'inventorysorter:net' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bwrtherain:bwrtherain' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'boh:boh' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'yeti:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apollyon:apollyon' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinandbonesremastered:skinandbonesremastered' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cave_dweller:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeriehauntings:mediumsoundtrigger' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sanitydim:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cavenoise_overhaul:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twisted_horrors:twisted_horrors' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thepursuer:thepursuer' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'midnightlurker:midnightlurker' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eyesinthedarkness:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'man:man' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deep_blood:deep_blood' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gateways:channel' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeriehauntings:lightsoundtrigger' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'true_herobrine:true_herobrine' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Vanilla acceptance test: REJECTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Vanilla acceptance test: ACCEPTED
+[03Dec2024 00:32:45.121] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [rootoffear:messages,the_figures:the_figures,enhancedvisuals:main,the_one_who_watches:the_one_who_watches,sophisticatedbackpacks:channel,corgilib:network,sons_of_sins:sons_of_sins,framework:play,fear_the_dark:fear_the_dark,minecraft:treechop-channel,enhancedcelestials:network,abomination:abomination,the_dead_forest:the_dead_forest,human_meat:human_meat,eeriehauntings:strongsoundtrigger,eeriehauntings:shaderupdate,slenderman:slenderman,siren_head:siren_head,thestarvedstalker:thestarvedstalker,faceless_villager:faceless_villager,creativecore:main,guideapi_vp:main,moonlight:channel,hybrid_vx:hybrid_vx,the_knocker:the_knocker,comforts:main,inventorysorter:net,bwrtherain:bwrtherain,citadel:main_channel,boh:boh,yeti:main,apollyon:apollyon,curios:main,skinandbonesremastered:skinandbonesremastered,cave_dweller:main,eeriehauntings:mediumsoundtrigger,framework:handshake,quark:main,tombstone:tombstone_channel,sanitydim:main,cavenoise_overhaul:main,twisted_horrors:twisted_horrors,thepursuer:thepursuer,sophisticatedcore:channel,artifacts:main,midnightlurker:midnightlurker,eyesinthedarkness:main,man:man,deep_blood:deep_blood,geckolib3:main,eeriehauntings:lightsoundtrigger,true_herobrine:true_herobrine,waystones:network] rejected vanilla connections
+[03Dec2024 00:32:45.122] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[03Dec2024 00:33:33.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:33:33.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:34:16.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell from a high place
+[03Dec2024 00:34:16.449] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:-262, y:95, z:-116, dim:minecraft:overworld]
+[03Dec2024 00:34:16.451] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[03Dec2024 00:34:59.423] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[03Dec2024 00:36:22.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Void Hands
+[03Dec2024 00:36:22.765] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:-257, y:115, z:-81, dim:minecraft:overworld]
+[03Dec2024 00:36:22.776] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[03Dec2024 00:36:24.142] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[03Dec2024 00:36:24.142] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[03Dec2024 00:37:36.404] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-261.71, y=130.00, z=-107.39]]
+[03Dec2024 00:37:36.704] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-261.79, y=130.00, z=-107.44]]
+[03Dec2024 00:37:37.204] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-418.74, y=70.00, z=-473.69]]
+[03Dec2024 00:37:38.253] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/20149, l='ServerLevel[world]', x=-259.11, y=129.00, z=-109.85]]
+[03Dec2024 00:37:38.354] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/20149, l='ServerLevel[world]', x=-259.53, y=129.00, z=-109.73]]
+[03Dec2024 00:37:38.403] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-261.72, y=130.00, z=-107.60]]
+[03Dec2024 00:37:38.704] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-419.48, y=71.17, z=-467.42]]
+[03Dec2024 00:37:39.504] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/20149, l='ServerLevel[world]', x=-259.49, y=130.00, z=-108.62]]
+[03Dec2024 00:37:39.854] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/20149, l='ServerLevel[world]', x=-258.86, y=129.27, z=-109.62]]
+[03Dec2024 00:37:40.426] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-262.92, y=130.00, z=-111.11]]
+[03Dec2024 00:37:40.704] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/21491, l='ServerLevel[world]', x=-423.63, y=71.18, z=-461.63]]
+[03Dec2024 00:37:41.053] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/19293, l='ServerLevel[world]', x=-263.20, y=130.00, z=-110.88]]
+[03Dec2024 00:38:01.877] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[03Dec2024 00:38:01.877] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[03Dec2024 00:38:33.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:38:33.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:40:19.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Timed out
+[03Dec2024 00:40:19.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[03Dec2024 00:40:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Daunt
+[03Dec2024 00:40:54.769] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:-261, y:114, z:-88, dim:minecraft:overworld]
+[03Dec2024 00:40:54.778] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved

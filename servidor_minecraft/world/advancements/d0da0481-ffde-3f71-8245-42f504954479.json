@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-03 00:13:51 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:13:27 +0000"
@@ -117,7 +123,10 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-02 23:34:06 +0000",
       "minecraft:taiga": "2024-12-02 23:13:28 +0000",
+      "minecraft:beach": "2024-12-03 00:10:53 +0000",
       "minecraft:dark_forest": "2024-12-02 23:41:28 +0000",
+      "minecraft:river": "2024-12-03 00:11:22 +0000",
+      "minecraft:forest": "2024-12-03 00:15:24 +0000",
       "minecraft:meadow": "2024-12-02 23:24:17 +0000"
     },
     "done": false
@@ -236,6 +245,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 00:23:27 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:13:27 +0000"
@@ -306,7 +321,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-02 23:23:41 +0000",
-      "sweet_berries": "2024-12-02 23:33:29 +0000"
+      "sweet_berries": "2024-12-02 23:33:29 +0000",
+      "apple": "2024-12-03 00:13:39 +0000"
     },
     "done": false
   },
@@ -502,15 +518,33 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-03 00:10:55 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:13:27 +0000"
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-03 00:11:33 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-02 23:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-03 00:12:29 +0000"
     },
     "done": true
   },
