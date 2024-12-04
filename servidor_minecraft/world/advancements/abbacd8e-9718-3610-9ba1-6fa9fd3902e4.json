@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "human_meat:first_eaten_human": {
+    "criteria": {
+      "first_eaten_human": "2024-12-04 01:13:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-04 01:05:41 +0000"

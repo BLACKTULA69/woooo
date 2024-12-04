@@ -94,3 +94,31 @@
 [04Dec2024 01:12:20.469] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
 [04Dec2024 01:13:24.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [You Monster]
 [04Dec2024 01:13:29.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [You Monster]
+[04Dec2024 01:16:24.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Midnight Lurker
+[04Dec2024 01:16:24.369] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:16:50.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Disconnected
+[04Dec2024 01:16:50.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
+[04Dec2024 01:18:16.793] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 01:18:26.499] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 01:18:38.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was doomed to fall by Faceless Sheep
+[04Dec2024 01:18:38.881] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:19:07.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombified Piglin
+[04Dec2024 01:19:07.628] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:19:43.692] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5478, y=10, z=90631}
+[04Dec2024 01:21:01.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombified Piglin
+[04Dec2024 01:21:01.117] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:23:06.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [A Strange Grave Dust]
+[04Dec2024 01:26:04.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[04Dec2024 01:26:04.916] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:26:24.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Zombified Piglin
+[04Dec2024 01:26:24.814] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:28:04.693] [Worker-Main59/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 01:29:28.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [A Terrible Fortress]
+[04Dec2024 01:30:02.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was burnt to a crisp whilst fighting Faceless Sheep
+[04Dec2024 01:30:02.762] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:30:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[04Dec2024 01:30:09.514] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:30:33.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 01:30:33.846] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:33:40.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wither Skeleton
+[04Dec2024 01:33:40.913] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved

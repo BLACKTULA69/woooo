@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-04 01:12:18 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
@@ -283,6 +289,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombified_piglin": "2024-12-04 01:22:50 +0000",
       "minecraft:zombie": "2024-12-04 00:28:06 +0000"
     },
     "done": false
@@ -293,9 +300,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-04 01:12:18 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-04 01:23:06 +0000"
     },
     "done": true
   },
@@ -377,6 +396,12 @@
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-04 01:15:32 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_green": {
     "criteria": {
@@ -465,6 +490,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-03 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-04 01:15:59 +0000"
     },
     "done": true
   },
