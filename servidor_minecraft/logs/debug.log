@@ -19886,3 +19886,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 03:55:01.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Sky Block 1.19.2
 [04Dec2024 03:55:01.773] [IO-Worker-189/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
 [04Dec2024 03:55:01.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Sky Block 1.19.2
+[04Dec2024 03:56:07.521] [IO-Worker-187/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[04Dec2024 03:56:07.521] [IO-Worker-191/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[04Dec2024 03:57:27.611] [IO-Worker-191/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-194
+[04Dec2024 03:57:27.613] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-195
+[04Dec2024 03:57:50.797] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=112.73, y=-2.00, z=5.78]]
+[04Dec2024 03:57:55.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Faceless Cow
+[04Dec2024 03:57:55.354] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:106, y:-1, z:6, dim:minecraft:overworld]
+[04Dec2024 03:57:55.367] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 03:57:58.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Faceless Villager
+[04Dec2024 03:57:58.852] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:9, y:-7, z:-115, dim:minecraft:overworld]
+[04Dec2024 03:57:58.863] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 03:58:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Blood Husk
+[04Dec2024 03:58:40.903] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:4, y:-7, z:-103, dim:minecraft:overworld]
+[04Dec2024 03:58:40.913] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 03:59:56.425] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
+[04Dec2024 03:59:56.425] [IO-Worker-194/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-197
+[04Dec2024 03:59:56.426] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-198
+[04Dec2024 04:00:00.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Zombified Piglin
+[04Dec2024 04:00:00.457] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:28, y:69, z:81, dim:minecraft:the_nether]
+[04Dec2024 04:00:00.465] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:00:01.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Sky Block 1.19.2
+[04Dec2024 04:00:01.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Sky Block 1.19.2
+[04Dec2024 04:02:27.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Finally, Fresh Flesh]
+[04Dec2024 04:02:33.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Faceless Cow
+[04Dec2024 04:02:33.513] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:7, y:58, z:39, dim:minecraft:the_nether]
+[04Dec2024 04:02:33.523] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:02:34.509] [IO-Worker-198/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-199
+[04Dec2024 04:02:34.515] [IO-Worker-198/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-200
+[04Dec2024 04:02:34.569] [IO-Worker-196/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-201
+[04Dec2024 04:02:34.623] [IO-Worker-200/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
+[04Dec2024 04:05:01.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Sky Block 1.19.2
+[04Dec2024 04:05:01.771] [IO-Worker-199/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-203
+[04Dec2024 04:05:01.771] [IO-Worker-199/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
+[04Dec2024 04:05:01.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Sky Block 1.19.2
+[04Dec2024 04:05:38.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by BLACKTULA
+[04Dec2024 04:05:38.596] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:14, y:-1, z:6, dim:minecraft:overworld]
+[04Dec2024 04:05:38.608] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:05:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Kiuta
+[04Dec2024 04:05:43.127] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:16, y:-1, z:9, dim:minecraft:overworld]
+[04Dec2024 04:05:43.130] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
