@@ -409,6 +409,12 @@
     },
     "done": true
   },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2024-12-04 02:26:18 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
@@ -522,6 +528,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-04 02:26:29 +0000",
       "minecraft:nether_wastes": "2024-12-04 01:15:32 +0000",
       "minecraft:soul_sand_valley": "2024-12-04 01:43:23 +0000",
       "minecraft:basalt_deltas": "2024-12-04 01:36:02 +0000"
@@ -537,6 +544,12 @@
   "comforts:sleeping_bag_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
+    },
+    "done": true
+  },
+  "deep_blood:finally_fresh_flesh": {
+    "criteria": {
+      "finally_fresh_flesh": "2024-12-04 02:26:55 +0000"
     },
     "done": true
   },

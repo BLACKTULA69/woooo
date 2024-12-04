@@ -193,3 +193,13 @@
 [04Dec2024 02:14:59.913] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
 [04Dec2024 02:15:13.155] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4330263d[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:58837) lost connection: Disconnected
 [04Dec2024 02:20:09.505] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e61d596[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:35765) lost connection: Disconnected
+[04Dec2024 02:25:37.111] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59bc60ac[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:44805) lost connection: Disconnected
+[04Dec2024 02:26:55.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Finally, Fresh Flesh]
+[04Dec2024 02:27:02.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Zombified Piglin
+[04Dec2024 02:27:02.212] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:29:42.206] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@258f38ee[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:36833) lost connection: Disconnected
+[04Dec2024 02:30:32.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Faceless Pig
+[04Dec2024 02:30:32.661] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 02:33:38.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=69, z=393} BlockPos{x=54, y=70, z=395}
+[04Dec2024 02:34:57.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta tried to swim in lava
+[04Dec2024 02:34:57.316] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
