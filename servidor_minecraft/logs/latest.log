@@ -1895,3 +1895,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 20:40:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
 [04Dec2024 20:40:25.231] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [04Dec2024 20:40:25.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA moved wrongly!
+[04Dec2024 20:44:38.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Well prepared]
+[04Dec2024 20:50:02.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[04Dec2024 20:50:02.178] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
