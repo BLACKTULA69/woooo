@@ -588,6 +588,12 @@
     },
     "done": true
   },
+  "deep_blood:finally_fresh_flesh": {
+    "criteria": {
+      "finally_fresh_flesh": "2024-12-04 23:31:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-04 18:12:37 +0000"

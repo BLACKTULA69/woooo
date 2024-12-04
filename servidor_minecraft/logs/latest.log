@@ -2120,3 +2120,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 23:31:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Finally, Fresh Flesh]
 [04Dec2024 23:32:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Fever Dream
 [04Dec2024 23:32:46.429] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 23:34:24.070] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146418, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 23:34:24.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146419, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 23:34:24.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146417, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 23:38:52.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was burnt to a crisp whilst fighting Camo Creeper
+[04Dec2024 23:38:52.732] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved

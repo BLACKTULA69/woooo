@@ -18528,3 +18528,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 23:32:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Fever Dream
 [04Dec2024 23:32:46.421] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:409, y:-21, z:-250, dim:minecraft:overworld]
 [04Dec2024 23:32:46.429] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 23:34:24.070] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146418, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 23:34:24.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146419, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 23:34:24.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146417, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 23:36:32.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 23:36:32.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 23:38:52.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was burnt to a crisp whilst fighting Camo Creeper
+[04Dec2024 23:38:52.728] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:384, y:-42, z:-278, dim:minecraft:overworld]
+[04Dec2024 23:38:52.732] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 23:39:26.413] [IO-Worker-241/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-248
+[04Dec2024 23:41:15.911] [IO-Worker-241/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-249
+[04Dec2024 23:41:32.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 23:41:32.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 23:41:32.296] [IO-Worker-249/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-250
+[04Dec2024 23:42:20.611] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=442.26, y=-11.00, z=-93.47]]
+[04Dec2024 23:42:45.369] [IO-Worker-250/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-251
+[04Dec2024 23:42:55.729] [IO-Worker-250/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-252
