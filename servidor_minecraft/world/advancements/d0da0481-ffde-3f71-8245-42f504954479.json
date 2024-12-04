@@ -345,6 +345,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-04 21:37:48 +0000"
+    },
+    "done": true
+  },
   "thepursuer:adv_pursuer_root": {
     "criteria": {
       "adv_pursuer_root": "2024-12-04 16:42:31 +0000"
@@ -562,6 +568,7 @@
       "minecraft:spider": "2024-12-04 19:10:58 +0000",
       "minecraft:slime": "2024-12-04 16:58:43 +0000",
       "minecraft:cave_spider": "2024-12-04 17:06:35 +0000",
+      "minecraft:enderman": "2024-12-04 21:40:27 +0000",
       "minecraft:zombie": "2024-12-04 16:40:55 +0000"
     },
     "done": false
