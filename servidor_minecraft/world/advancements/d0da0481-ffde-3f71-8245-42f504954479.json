@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "thepursuer:adv_pursuer_root": {
+    "criteria": {
+      "adv_pursuer_root": "2024-12-04 00:58:14 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
@@ -295,7 +301,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2024-12-04 00:36:39 +0000"
+      "baked_potato": "2024-12-04 00:36:39 +0000",
+      "apple": "2024-12-04 00:50:40 +0000"
     },
     "done": false
   },
@@ -458,6 +465,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
+    },
+    "done": true
+  },
+  "human_meat:bone_paper_scissors": {
+    "criteria": {
+      "bone_paper_scissors": "2024-12-04 00:51:19 +0000"
     },
     "done": true
   },

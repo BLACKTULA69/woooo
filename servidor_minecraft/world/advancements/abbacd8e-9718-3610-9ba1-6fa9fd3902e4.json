@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-04 00:59:00 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:52:01 +0000"
@@ -176,6 +182,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-04 00:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-04 00:55:55 +0000"
     },
     "done": true
   },
@@ -452,6 +464,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-04 00:59:01 +0000"
     },
     "done": true
   },
