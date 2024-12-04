@@ -2028,3 +2028,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 22:10:30.064] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43860574[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:41167) lost connection: Unexpected custom data from client
 [04Dec2024 22:10:41.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was shot by Skeleton
 [04Dec2024 22:10:41.875] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 22:18:33.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Isn't It Iron Pick]
+[04Dec2024 22:23:55.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Rotting Stalker
+[04Dec2024 22:23:55.275] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 22:31:10.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Black or White]
+[04Dec2024 22:31:26.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Not of Chocolate]
