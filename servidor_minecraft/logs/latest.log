@@ -177,3 +177,17 @@
 [04Dec2024 02:03:01.919] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [04Dec2024 02:03:07.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Hoglin
 [04Dec2024 02:03:07.617] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 02:08:59.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Zombified Piglin
+[04Dec2024 02:08:59.566] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:11:56.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta tried to swim in lava to escape Faceless Cow
+[04Dec2024 02:11:56.512] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:12:27.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta fell out of the world
+[04Dec2024 02:12:27.626] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:12:58.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA hit the ground too hard whilst trying to escape The Damned
+[04Dec2024 02:12:58.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Condemned To Die]
+[04Dec2024 02:12:58.495] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 02:13:47.205] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a799679[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:59987) lost connection: Disconnected
+[04Dec2024 02:14:28.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[04Dec2024 02:14:28.012] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 02:14:59.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Blood Husk
+[04Dec2024 02:14:59.913] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
