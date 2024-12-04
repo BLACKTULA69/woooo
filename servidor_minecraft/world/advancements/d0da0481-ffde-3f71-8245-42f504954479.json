@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_crimson": "2024-12-04 03:02:08 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
@@ -301,6 +307,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-04 02:50:23 +0000"
+    },
+    "done": true
+  },
   "thepursuer:adv_pursuer_root": {
     "criteria": {
       "adv_pursuer_root": "2024-12-04 00:58:14 +0000"
@@ -480,6 +492,7 @@
       "minecraft:blaze": "2024-12-04 01:55:49 +0000",
       "minecraft:zombified_piglin": "2024-12-04 01:22:50 +0000",
       "minecraft:wither_skeleton": "2024-12-04 01:54:24 +0000",
+      "minecraft:piglin": "2024-12-04 03:02:34 +0000",
       "minecraft:zombie": "2024-12-04 00:28:06 +0000"
     },
     "done": false

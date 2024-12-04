@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-04 02:51:44 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:52:01 +0000"
@@ -269,15 +275,21 @@
     },
     "done": true
   },
-  "human_meat:first_eaten_human": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "first_eaten_human": "2024-12-04 01:13:29 +0000"
+      "coded_trigger": "2024-12-04 02:46:23 +0000"
     },
     "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-04 01:05:41 +0000"
+    },
+    "done": true
+  },
+  "human_meat:first_eaten_human": {
+    "criteria": {
+      "first_eaten_human": "2024-12-04 01:13:29 +0000"
     },
     "done": true
   },
@@ -359,6 +371,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-04 02:50:24 +0000",
+      "minecraft:soul_sand_valley": "2024-12-04 02:50:03 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:52:01 +0000"
@@ -434,6 +453,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-04 01:01:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 02:46:23 +0000"
     },
     "done": true
   },

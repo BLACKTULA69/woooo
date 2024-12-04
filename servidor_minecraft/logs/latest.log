@@ -203,3 +203,66 @@
 [04Dec2024 02:33:38.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=69, z=393} BlockPos{x=54, y=70, z=395}
 [04Dec2024 02:34:57.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta tried to swim in lava
 [04Dec2024 02:34:57.316] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:36:14.910] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75a2c514[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:36445) lost connection: Disconnected
+[04Dec2024 02:37:11.938] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 02:37:14.461] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 02:37:14.462] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 02:37:16.909] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 02:37:18.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was left to bleed by Blood Lamb.
+[04Dec2024 02:37:18.268] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:37:41.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombified Piglin
+[04Dec2024 02:37:41.613] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 02:39:22.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta tried to swim in lava
+[04Dec2024 02:39:22.117] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:43:39.421] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@443be04e
+[04Dec2024 02:43:39.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/127.207.12.204:51705] logged in with entity id 52314 at (67.12630552153148, 89.0, 9.844313658956585)
+[04Dec2024 02:43:39.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
+[04Dec2024 02:43:39.451] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
+[04Dec2024 02:43:56.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> oe
+[04Dec2024 02:43:57.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> ds
+[04Dec2024 02:44:04.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombified Piglin
+[04Dec2024 02:44:04.878] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 02:44:06.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Easy Opening]
+[04Dec2024 02:44:15.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> david ven a buscarme al nether
+[04Dec2024 02:44:17.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> siaduasd
+[04Dec2024 02:45:36.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 tried to swim in lava
+[04Dec2024 02:45:36.290] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 02:46:23.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Knowledge of Death]
+[04Dec2024 02:46:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Chain Death]
+[04Dec2024 02:46:23.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Faceless Sheep
+[04Dec2024 02:46:23.929] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 02:46:37.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA tried to swim in lava
+[04Dec2024 02:46:37.670] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 02:47:20.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 tried to swim in lava to escape Faceless Sheep
+[04Dec2024 02:47:20.030] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 02:47:21.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Strange Taste]
+[04Dec2024 02:49:03.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> OEEEEEEEEEE
+[04Dec2024 02:50:23.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Spooky Scary Skeleton]
+[04Dec2024 02:50:41.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wither Skeleton
+[04Dec2024 02:50:41.132] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:50:45.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Faceless Cow
+[04Dec2024 02:50:45.572] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 02:51:37.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Blood Husk
+[04Dec2024 02:51:37.331] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 02:51:44.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Sweet Dreams]
+[04Dec2024 02:52:19.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 fell out of the world
+[04Dec2024 02:52:19.521] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 02:53:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Faceless Pig
+[04Dec2024 02:53:25.023] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:53:29.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 tried to swim in lava to escape Piglin
+[04Dec2024 02:53:30.041] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 02:53:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 fell out of the world
+[04Dec2024 02:53:40.721] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 02:55:46.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wither Skeleton
+[04Dec2024 02:55:46.236] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:56:36.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 fell from a high place
+[04Dec2024 02:56:36.524] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 02:56:46.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 fell out of the world
+[04Dec2024 02:56:46.875] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 02:59:13.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Piglin
+[04Dec2024 02:59:13.771] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 03:02:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Piglin Brute
+[04Dec2024 03:02:18.621] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 03:05:13.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ambush]
+[04Dec2024 03:05:22.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta tried to swim in lava
+[04Dec2024 03:05:22.569] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
