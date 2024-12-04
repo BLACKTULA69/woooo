@@ -1792,3 +1792,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 18:57:05.837] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
 [04Dec2024 18:58:56.863] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [04Dec2024 18:59:05.148] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 19:01:46.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA has made the advancement [You Monster]
+[04Dec2024 19:02:01.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> 192 63 220
+[04Dec2024 19:06:10.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
+[04Dec2024 19:06:10.685] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 19:06:27.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
+[04Dec2024 19:06:27.638] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 19:08:23.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Hanging Tree]
+[04Dec2024 19:08:32.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Daunt
+[04Dec2024 19:08:32.363] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 19:11:54.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Midnight Lurker
+[04Dec2024 19:11:54.091] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 19:13:13.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> 87 65 536
+[04Dec2024 19:13:32.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> 87 65 536
+[04Dec2024 19:15:26.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> 192 63 220
+[04Dec2024 19:15:51.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> 290 116 18
+[04Dec2024 19:16:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> 290 116 18
+[04Dec2024 19:23:47.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA was slain by xiino91
+[04Dec2024 19:23:47.038] [Server thread/INFO] [tombstone/]: The player LINDA has successfully been saved
+[04Dec2024 19:24:27.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by LINDA
+[04Dec2024 19:24:27.426] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 19:25:50.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA was shot by Skeleton
+[04Dec2024 19:25:50.838] [Server thread/INFO] [tombstone/]: The player LINDA has successfully been saved
+[04Dec2024 19:26:00.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was shot by Skeleton
+[04Dec2024 19:26:00.772] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 19:28:19.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> 290 116 18
+[04Dec2024 19:28:38.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
+[04Dec2024 19:28:38.426] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 19:28:42.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta's intenstines were ripped out by the Hybrid
+[04Dec2024 19:28:42.628] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 19:28:58.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Feelingwatched]
+[04Dec2024 19:29:13.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA has made the advancement [Getting an Upgrade]
+[04Dec2024 19:29:42.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA has made the advancement [Iron, but dark]
