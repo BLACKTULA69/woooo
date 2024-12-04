@@ -1644,3 +1644,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 17:07:53.472] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [04Dec2024 17:09:43.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was blown up by Camo Creeper
 [04Dec2024 17:09:43.530] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 17:10:32.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wilted
+[04Dec2024 17:10:32.027] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 17:12:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [A Strange Grave Dust]
+[04Dec2024 17:13:06.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Strange Taste]
+[04Dec2024 17:14:29.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Ghoul
+[04Dec2024 17:14:29.821] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 17:16:39.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta blew up
+[04Dec2024 17:16:39.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA blew up
+[04Dec2024 17:16:39.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 blew up
+[04Dec2024 17:16:39.991] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 17:16:39.991] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:16:39.992] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved

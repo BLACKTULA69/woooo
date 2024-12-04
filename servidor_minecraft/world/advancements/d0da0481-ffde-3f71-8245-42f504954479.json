@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_giant_tree_taiga": "2024-12-04 17:14:26 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
@@ -282,6 +288,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-04 16:59:38 +0000",
       "minecraft:slime": "2024-12-04 16:58:43 +0000",
+      "minecraft:cave_spider": "2024-12-04 17:06:35 +0000",
       "minecraft:zombie": "2024-12-04 16:40:55 +0000"
     },
     "done": false
@@ -309,6 +316,12 @@
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-12-04 17:07:27 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_yellow_from_white": {
     "criteria": {

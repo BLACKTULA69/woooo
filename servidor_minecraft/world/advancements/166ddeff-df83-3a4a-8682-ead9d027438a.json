@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_giant_tree_taiga": "2024-12-04 17:14:22 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:46 +0000"
@@ -314,6 +320,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-04 17:12:36 +0000"
     },
     "done": true
   },

@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_giant_tree_taiga": "2024-12-04 17:14:26 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:32:07 +0000"
@@ -104,6 +110,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-04 16:45:55 +0000"
+    },
+    "done": true
+  },
+  "human_meat:first_eaten_zombie": {
+    "criteria": {
+      "first_eaten_zombie": "2024-12-04 17:13:06 +0000"
     },
     "done": true
   },
@@ -294,6 +306,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2024-12-04 17:14:56 +0000",
+      "apple": "2024-12-04 17:06:47 +0000",
+      "rotten_flesh": "2024-12-04 17:13:06 +0000",
       "carrot": "2024-12-04 16:51:30 +0000"
     },
     "done": false
