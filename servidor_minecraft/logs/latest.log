@@ -1620,3 +1620,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 16:56:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA has made the advancement [Stone Age]
 [04Dec2024 16:58:58.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LINDA lost connection: Disconnected
 [04Dec2024 16:58:58.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA left the game
+[04Dec2024 17:01:34.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[04Dec2024 17:01:34.568] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:01:35.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Best Friends Forever]
+[04Dec2024 17:01:39.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Knowledge of Death]
+[04Dec2024 17:01:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Here They Come]
+[04Dec2024 17:03:23.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[04Dec2024 17:03:23.871] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:03:32.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Yeti
+[04Dec2024 17:03:32.818] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 17:03:52.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Feelingwatched]
+[04Dec2024 17:04:10.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was killed by magic
+[04Dec2024 17:04:10.823] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:06:14.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [You Monster]
+[04Dec2024 17:07:35.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 moved wrongly!
+[04Dec2024 17:07:35.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 moved wrongly!
+[04Dec2024 17:07:35.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Wilted
+[04Dec2024 17:07:35.821] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 17:07:38.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta moved wrongly!
+[04Dec2024 17:07:38.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wilted
+[04Dec2024 17:07:38.931] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 17:07:53.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Faceless Pig
+[04Dec2024 17:07:53.472] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:09:43.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was blown up by Camo Creeper
+[04Dec2024 17:09:43.530] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved

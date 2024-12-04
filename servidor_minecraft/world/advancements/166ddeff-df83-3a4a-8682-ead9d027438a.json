@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched": "2024-12-04 17:03:52 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:46 +0000"

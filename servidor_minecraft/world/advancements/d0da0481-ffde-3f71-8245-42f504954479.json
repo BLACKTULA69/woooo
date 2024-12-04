@@ -146,6 +146,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-04 17:06:14 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
@@ -193,6 +199,12 @@
       "in_mineshaft_taiga": "2024-12-04 16:35:37 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 17:01:39 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_cyan": {
     "criteria": {
@@ -268,6 +280,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-04 16:59:38 +0000",
+      "minecraft:slime": "2024-12-04 16:58:43 +0000",
       "minecraft:zombie": "2024-12-04 16:40:55 +0000"
     },
     "done": false
@@ -275,6 +289,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-04 16:48:40 +0000"
+    },
+    "done": true
+  },
+  "human_meat:first_eaten_human": {
+    "criteria": {
+      "first_eaten_human": "2024-12-04 17:06:14 +0000"
     },
     "done": true
   },
@@ -413,6 +433,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 17:01:39 +0000"
     },
     "done": true
   },
