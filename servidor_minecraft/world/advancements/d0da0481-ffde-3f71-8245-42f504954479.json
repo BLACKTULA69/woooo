@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2024-12-04 21:53:23 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
@@ -119,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-04 21:59:45 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
@@ -190,6 +202,7 @@
       "cooked_porkchop": "2024-12-04 17:07:27 +0000",
       "honey_bottle": "2024-12-04 18:53:57 +0000",
       "cooked_beef": "2024-12-04 19:46:10 +0000",
+      "apple": "2024-12-04 21:59:50 +0000",
       "bread": "2024-12-04 18:58:17 +0000",
       "rotten_flesh": "2024-12-04 19:39:18 +0000"
     },
@@ -222,6 +235,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 21:53:23 +0000"
     },
     "done": true
   },
@@ -484,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-04 21:54:51 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
@@ -567,6 +592,7 @@
       "minecraft:skeleton": "2024-12-04 16:59:38 +0000",
       "minecraft:spider": "2024-12-04 19:10:58 +0000",
       "minecraft:slime": "2024-12-04 16:58:43 +0000",
+      "minecraft:witch": "2024-12-04 21:59:53 +0000",
       "minecraft:cave_spider": "2024-12-04 17:06:35 +0000",
       "minecraft:enderman": "2024-12-04 21:40:27 +0000",
       "minecraft:zombie": "2024-12-04 16:40:55 +0000",
@@ -685,6 +711,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-04 16:31:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 21:59:53 +0000"
     },
     "done": true
   },

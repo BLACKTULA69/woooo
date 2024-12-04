@@ -1973,3 +1973,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 21:49:51.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
 [04Dec2024 21:49:51.330] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
 [04Dec2024 21:50:04.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Finally, Fresh Flesh]
+[04Dec2024 21:53:23.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Greed may lead to loss]
+[04Dec2024 21:53:52.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> 176 50 -560
+[04Dec2024 21:54:51.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Local Brewery]
+[04Dec2024 21:58:24.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> 294 63 -435
+[04Dec2024 21:59:45.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Zombie Doctor]
+[04Dec2024 21:59:53.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ambush]
+[04Dec2024 22:01:16.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Kiuta
+[04Dec2024 22:01:16.300] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 22:01:24.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by xiino91
+[04Dec2024 22:01:24.629] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
