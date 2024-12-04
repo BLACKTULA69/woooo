@@ -175,6 +175,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-04 03:10:58 +0000",
       "cooked_beef": "2024-12-04 01:35:12 +0000",
       "baked_potato": "2024-12-04 00:36:39 +0000",
       "apple": "2024-12-04 00:50:40 +0000"
@@ -385,6 +386,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-04 03:11:39 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
@@ -490,6 +497,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-04 01:55:49 +0000",
+      "minecraft:vindicator": "2024-12-04 03:05:13 +0000",
       "minecraft:zombified_piglin": "2024-12-04 01:22:50 +0000",
       "minecraft:wither_skeleton": "2024-12-04 01:54:24 +0000",
       "minecraft:piglin": "2024-12-04 03:02:34 +0000",
@@ -611,6 +619,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-03 23:45:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 03:05:13 +0000"
     },
     "done": true
   },
