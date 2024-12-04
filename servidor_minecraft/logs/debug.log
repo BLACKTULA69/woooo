@@ -19926,3 +19926,168 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 04:05:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Kiuta
 [04Dec2024 04:05:43.127] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:16, y:-1, z:9, dim:minecraft:overworld]
 [04Dec2024 04:05:43.130] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:06:13.147] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=95.46, y=0.25, z=7.56]]
+[04Dec2024 04:06:13.347] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=94.31, y=-0.20, z=7.61]]
+[04Dec2024 04:06:14.097] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=19.55, y=-0.20, z=7.50]]
+[04Dec2024 04:06:14.547] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=13.48, y=-1.00, z=7.01]]
+[04Dec2024 04:06:15.097] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=83.43, y=0.18, z=7.63]]
+[04Dec2024 04:06:16.997] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=7.62, y=1.12, z=9.91]]
+[04Dec2024 04:06:17.247] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.15, y=0.37, z=9.26]]
+[04Dec2024 04:06:17.597] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=67.56, y=-1.00, z=7.62]]
+[04Dec2024 04:06:20.347] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=13.48, y=-1.00, z=7.01]]
+[04Dec2024 04:06:20.547] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=4.60, y=0.88, z=6.18]]
+[04Dec2024 04:06:21.096] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.69, y=1.90, z=7.49]]
+[04Dec2024 04:06:22.397] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=39.37, y=-1.00, z=8.15]]
+[04Dec2024 04:06:23.397] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=10.53, y=1.00, z=9.20]]
+[04Dec2024 04:06:23.947] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=30.42, y=-0.50, z=8.11]]
+[04Dec2024 04:06:24.147] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=10.59, y=1.00, z=9.39]]
+[04Dec2024 04:06:24.497] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=10.59, y=1.00, z=9.42]]
+[04Dec2024 04:06:28.197] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=8.17, y=-1.00, z=5.52]]
+[04Dec2024 04:06:28.497] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=8.76, y=-0.13, z=10.53]]
+[04Dec2024 04:06:30.247] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.05, y=-1.00, z=7.09]]
+[04Dec2024 04:06:30.597] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=8.01, y=-1.00, z=6.24]]
+[04Dec2024 04:06:32.696] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=8.01, y=-1.00, z=6.24]]
+[04Dec2024 04:06:33.796] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=8.01, y=-1.00, z=6.24]]
+[04Dec2024 04:06:35.397] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.08, y=0.00, z=8.24]]
+[04Dec2024 04:06:36.147] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.08, y=0.00, z=8.24]]
+[04Dec2024 04:06:36.297] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.08, y=0.00, z=8.24]]
+[04Dec2024 04:06:37.147] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.05, y=-1.00, z=7.09]]
+[04Dec2024 04:06:37.347] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.05, y=-1.00, z=7.09]]
+[04Dec2024 04:06:37.947] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.08, y=0.00, z=8.24]]
+[04Dec2024 04:06:39.347] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.08, y=0.00, z=8.24]]
+[04Dec2024 04:06:39.697] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.08, y=0.00, z=8.24]]
+[04Dec2024 04:06:40.247] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=11.11, y=-1.00, z=11.39]]
+[04Dec2024 04:06:40.447] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=10.01, y=-1.00, z=11.25]]
+[04Dec2024 04:06:42.397] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.05, y=-1.00, z=7.09]]
+[04Dec2024 04:06:42.697] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=6.86, y=-1.00, z=10.58]]
+[04Dec2024 04:06:43.247] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=6.86, y=-1.00, z=10.58]]
+[04Dec2024 04:06:46.297] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.05, y=-1.00, z=7.09]]
+[04Dec2024 04:06:47.797] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=9.09, y=-1.00, z=5.32]]
+[04Dec2024 04:06:48.047] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=9.82, y=-1.00, z=5.40]]
+[04Dec2024 04:06:48.447] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=23.09, y=0.17, z=7.89]]
+[04Dec2024 04:06:49.046] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:06:49.497] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=26.47, y=-1.00, z=8.03]]
+[04Dec2024 04:06:49.647] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:06:51.197] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=17.06, y=-1.00, z=6.24]]
+[04Dec2024 04:06:51.347] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:06:52.197] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=14.37, y=-1.00, z=8.07]]
+[04Dec2024 04:06:52.447] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:06:54.097] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=48.46, y=-0.50, z=7.70]]
+[04Dec2024 04:06:56.647] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:06:57.897] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:06:58.997] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=79.14, y=0.25, z=7.61]]
+[04Dec2024 04:06:59.747] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=84.40, y=0.02, z=7.62]]
+[04Dec2024 04:07:00.747] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=90.45, y=-1.00, z=7.46]]
+[04Dec2024 04:07:02.097] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:07:02.597] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:07:02.647] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=97.59, y=-1.00, z=12.44]]
+[04Dec2024 04:07:06.097] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=12.90, y=-0.50, z=5.97]]
+[04Dec2024 04:07:08.097] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=96.76, y=-1.00, z=24.30]]
+[04Dec2024 04:07:08.547] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=96.63, y=-1.00, z=24.30]]
+[04Dec2024 04:07:09.997] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:07:10.547] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:07:10.597] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=12.55, y=-1.00, z=6.80]]
+[04Dec2024 04:07:11.397] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=95.76, y=-1.00, z=25.31]]
+[04Dec2024 04:07:12.047] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=96.42, y=-1.00, z=25.73]]
+[04Dec2024 04:07:12.597] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=97.25, y=-1.00, z=26.15]]
+[04Dec2024 04:07:12.797] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:07:15.097] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=96.31, y=-1.00, z=27.29]]
+[04Dec2024 04:07:16.747] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:07:16.797] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=13.54, y=-1.00, z=6.25]]
+[04Dec2024 04:07:18.247] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=98.57, y=-1.00, z=26.33]]
+[04Dec2024 04:07:18.297] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=13.54, y=-1.00, z=6.25]]
+[04Dec2024 04:07:19.847] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:07:20.847] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=99.29, y=-1.00, z=27.85]]
+[04Dec2024 04:07:21.797] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=99.67, y=-1.00, z=27.82]]
+[04Dec2024 04:07:22.597] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=100.70, y=-1.00, z=27.08]]
+[04Dec2024 04:07:23.947] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=101.03, y=-1.00, z=27.36]]
+[04Dec2024 04:07:24.047] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=13.54, y=-1.00, z=6.25]]
+[04Dec2024 04:07:24.747] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:07:25.497] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:07:25.947] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=9.13, y=-1.00, z=7.16]]
+[04Dec2024 04:07:26.746] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=13.54, y=-1.00, z=6.25]]
+[04Dec2024 04:07:27.397] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=10.21, y=-0.13, z=6.97]]
+[04Dec2024 04:07:27.547] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=10.21, y=-0.13, z=6.97]]
+[04Dec2024 04:07:28.247] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/36164, l='ServerLevel[The Sky Block 1.19.2]', x=10.21, y=-0.13, z=6.97]]
+[04Dec2024 04:07:30.197] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.20, y=-1.00, z=5.85]]
+[04Dec2024 04:07:30.647] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.20, y=-1.00, z=5.85]]
+[04Dec2024 04:07:32.347] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.20, y=-1.00, z=5.85]]
+[04Dec2024 04:07:32.547] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/762, l='ServerLevel[The Sky Block 1.19.2]', x=6.20, y=-1.00, z=5.85]]
+[04Dec2024 04:07:32.697] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=103.84, y=-1.00, z=27.13]]
+[04Dec2024 04:07:32.747] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=103.87, y=-1.00, z=27.07]]
+[04Dec2024 04:07:59.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA didn't want to live in the same world as Yeti
+[04Dec2024 04:07:59.212] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:82, y:-1, z:7, dim:minecraft:overworld]
+[04Dec2024 04:07:59.218] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:08:22.752] [IO-Worker-199/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-205
+[04Dec2024 04:08:22.752] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-206
+[04Dec2024 04:08:22.756] [IO-Worker-205/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-207
+[04Dec2024 04:08:50.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 04:08:50.057] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:106, y:-5, z:7, dim:minecraft:overworld]
+[04Dec2024 04:08:50.066] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:09:23.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 04:09:23.110] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:09:42.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta fell out of the world
+[04Dec2024 04:09:42.768] [IO-Worker-207/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-208
+[04Dec2024 04:09:42.770] [IO-Worker-207/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-209
+[04Dec2024 04:09:42.821] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:57, y:-1, z:7, dim:minecraft:overworld]
+[04Dec2024 04:09:42.826] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:09:50.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 04:09:50.557] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:63, y:-1, z:8, dim:minecraft:overworld]
+[04Dec2024 04:09:50.563] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:10:01.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Sky Block 1.19.2
+[04Dec2024 04:10:01.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Sky Block 1.19.2
+[04Dec2024 04:10:30.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta didn't want to live in the same world as BLACKTULA
+[04Dec2024 04:10:30.711] [IO-Worker-205/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-210
+[04Dec2024 04:10:30.872] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:107, y:-5, z:5, dim:minecraft:overworld]
+[04Dec2024 04:10:30.880] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:11:39.297] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/52314, l='ServerLevel[The Sky Block 1.19.2]', x=106.49, y=-1.00, z=7.05]]
+[04Dec2024 04:12:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[04Dec2024 04:12:35.853] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:133, y:-1, z:7, dim:minecraft:overworld]
+[04Dec2024 04:12:35.869] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:13:10.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Sweet Dreams]
+[04Dec2024 04:13:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by BLACKTULA
+[04Dec2024 04:13:38.284] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:108, y:-1, z:-6, dim:minecraft:overworld]
+[04Dec2024 04:13:38.300] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:13:45.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by BLACKTULA
+[04Dec2024 04:13:45.261] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:107, y:-1, z:-3, dim:minecraft:overworld]
+[04Dec2024 04:13:45.275] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 04:14:09.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by BLACKTULA
+[04Dec2024 04:14:09.443] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:105, y:-1, z:-3, dim:minecraft:overworld]
+[04Dec2024 04:14:09.455] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:14:15.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Disconnected
+[04Dec2024 04:14:15.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[04Dec2024 04:15:01.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Sky Block 1.19.2
+[04Dec2024 04:15:01.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Sky Block 1.19.2
+[04Dec2024 04:15:20.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [A Seedy Place]
+[04Dec2024 04:15:37.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Disconnected
+[04Dec2024 04:15:37.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
+[04Dec2024 04:16:03.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Disconnected
+[04Dec2024 04:16:03.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[04Dec2024 04:16:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Dec2024 04:16:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Dec2024 04:16:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Dec2024 04:16:03.835] [IO-Worker-207/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-211
+[04Dec2024 04:16:03.853] [IO-Worker-207/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-212
+[04Dec2024 04:16:03.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Sky Block 1.19.2]'/minecraft:overworld
+[04Dec2024 04:16:04.215] [IO-Worker-207/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-213
+[04Dec2024 04:16:04.217] [IO-Worker-207/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-214
+[04Dec2024 04:16:04.218] [IO-Worker-212/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-215
+[04Dec2024 04:16:04.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Sky Block 1.19.2]'/minecraft:the_nether
+[04Dec2024 04:16:04.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Sky Block 1.19.2]'/minecraft:the_end
+[04Dec2024 04:16:04.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Sky Block 1.19.2]'/deep_blood:deep_blood
+[04Dec2024 04:16:04.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Sky Block 1.19.2]'/man:halucination
+[04Dec2024 04:16:04.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save The Sky Block 1.19.2
+[04Dec2024 04:16:04.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete The Sky Block 1.19.2
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_blood): All chunks are saved
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Dec2024 04:16:04.296] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[04Dec2024 04:16:04.296] [Worker-Main59/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main59 shutdown
+[04Dec2024 04:16:04.296] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main1 shutdown
+[04Dec2024 04:16:04.297] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Dec2024 04:16:04.298] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[04Dec2024 04:16:04.299] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[04Dec2024 04:16:04.299] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

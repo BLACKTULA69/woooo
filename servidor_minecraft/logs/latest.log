@@ -348,3 +348,46 @@
 [04Dec2024 04:05:38.608] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
 [04Dec2024 04:05:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Kiuta
 [04Dec2024 04:05:43.130] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:07:59.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA didn't want to live in the same world as Yeti
+[04Dec2024 04:07:59.218] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:08:50.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 04:08:50.066] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:09:23.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 04:09:23.110] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:09:42.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta fell out of the world
+[04Dec2024 04:09:42.826] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:09:50.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 04:09:50.563] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:10:30.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta didn't want to live in the same world as BLACKTULA
+[04Dec2024 04:10:30.880] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:12:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[04Dec2024 04:12:35.869] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 04:13:10.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Sweet Dreams]
+[04Dec2024 04:13:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by BLACKTULA
+[04Dec2024 04:13:38.300] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:13:45.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by BLACKTULA
+[04Dec2024 04:13:45.275] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 04:14:09.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by BLACKTULA
+[04Dec2024 04:14:09.455] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 04:14:15.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Disconnected
+[04Dec2024 04:14:15.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[04Dec2024 04:15:20.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [A Seedy Place]
+[04Dec2024 04:15:37.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Disconnected
+[04Dec2024 04:15:37.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
+[04Dec2024 04:16:03.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Disconnected
+[04Dec2024 04:16:03.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[04Dec2024 04:16:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Dec2024 04:16:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Dec2024 04:16:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Dec2024 04:16:03.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Sky Block 1.19.2]'/minecraft:overworld
+[04Dec2024 04:16:04.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Sky Block 1.19.2]'/minecraft:the_nether
+[04Dec2024 04:16:04.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Sky Block 1.19.2]'/minecraft:the_end
+[04Dec2024 04:16:04.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Sky Block 1.19.2]'/deep_blood:deep_blood
+[04Dec2024 04:16:04.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[The Sky Block 1.19.2]'/man:halucination
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_blood): All chunks are saved
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[04Dec2024 04:16:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Dec2024 04:16:04.297] [Server thread/INFO] [Framework/]: Unloading server configs...
