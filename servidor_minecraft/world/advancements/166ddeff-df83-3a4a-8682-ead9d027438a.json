@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-04 00:45:53 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:46:27 +0000"
@@ -265,6 +271,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:silverfish": "2024-12-04 00:46:00 +0000",
       "minecraft:zombie": "2024-12-04 00:28:50 +0000"
     },
     "done": false
@@ -286,6 +293,12 @@
       "has_the_recipe": "2024-12-03 23:46:27 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2024-12-04 00:46:13 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_yellow_from_white": {
     "criteria": {
