@@ -2125,3 +2125,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 23:34:24.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146417, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
 [04Dec2024 23:38:52.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was burnt to a crisp whilst fighting Camo Creeper
 [04Dec2024 23:38:52.732] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 23:44:29.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Faceless Pig
+[04Dec2024 23:44:29.837] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 23:45:54.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Blood Husk
+[04Dec2024 23:45:54.029] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 23:47:10.153] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[04Dec2024 23:47:10.153] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5adc002b[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:39797): Unexpected custom data from client
+[04Dec2024 23:47:10.168] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5adc002b[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:39797) lost connection: Unexpected custom data from client
+[04Dec2024 23:48:05.175] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2faaad96
+[04Dec2024 23:48:05.177] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/127.191.143.132:45973] logged in with entity id 220443 at (105.5, 66.0, 15.5)
+[04Dec2024 23:48:05.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
+[04Dec2024 23:48:05.270] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
+[04Dec2024 23:48:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[04Dec2024 23:48:42.595] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 23:51:12.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Cave Dweller
+[04Dec2024 23:51:12.686] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 23:51:50.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Timed out
+[04Dec2024 23:51:50.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
+[04Dec2024 23:51:50.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
