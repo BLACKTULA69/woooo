@@ -1983,3 +1983,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 22:01:16.300] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
 [04Dec2024 22:01:24.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by xiino91
 [04Dec2024 22:01:24.629] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 22:03:38.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[04Dec2024 22:03:38.441] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 22:07:28.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[04Dec2024 22:07:28.975] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 22:07:46.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Disconnected
+[04Dec2024 22:07:46.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[04Dec2024 22:07:52.630] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f822a30
+[04Dec2024 22:07:52.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/127.120.125.202:49505] logged in with entity id 173249 at (387.87415965001924, 63.00765211671234, -426.6639163612938)
+[04Dec2024 22:07:52.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[04Dec2024 22:07:52.717] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[04Dec2024 22:07:53.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Disconnected
+[04Dec2024 22:07:53.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
+[04Dec2024 22:07:59.219] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2861f0d7
+[04Dec2024 22:07:59.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/127.220.224.131:53151] logged in with entity id 173264 at (387.18318263547644, 63.0, -415.5679090646147)
+[04Dec2024 22:07:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
+[04Dec2024 22:07:59.275] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
+[04Dec2024 22:08:28.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[04Dec2024 22:08:28.725] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 22:08:44.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Disconnected
+[04Dec2024 22:08:44.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[04Dec2024 22:09:53.673] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[04Dec2024 22:09:53.770] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[04Dec2024 22:09:54.569] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 62
+[04Dec2024 22:09:54.664] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 54
+[04Dec2024 22:09:55.087] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 93
+[04Dec2024 22:09:55.614] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[04Dec2024 22:09:55.637] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 77
+[04Dec2024 22:09:56.545] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 90
+[04Dec2024 22:09:56.667] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[04Dec2024 22:09:58.913] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 73
+[04Dec2024 22:10:17.821] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 53
+[04Dec2024 22:10:20.769] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 55
+[04Dec2024 22:10:21.570] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[04Dec2024 22:10:21.584] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 85
+[04Dec2024 22:10:22.382] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 93
+[04Dec2024 22:10:22.513] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 55
+[04Dec2024 22:10:23.683] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 93
+[04Dec2024 22:10:23.786] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 77
+[04Dec2024 22:10:25.034] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 94
+[04Dec2024 22:10:26.084] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 94
+[04Dec2024 22:10:30.035] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[04Dec2024 22:10:30.036] [Netty Epoll Server IO #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@43860574[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:41167): Unexpected custom data from client
+[04Dec2024 22:10:30.064] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43860574[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:41167) lost connection: Unexpected custom data from client
+[04Dec2024 22:10:41.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was shot by Skeleton
+[04Dec2024 22:10:41.875] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
