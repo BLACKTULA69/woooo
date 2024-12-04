@@ -191,3 +191,5 @@
 [04Dec2024 02:14:28.012] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [04Dec2024 02:14:59.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Blood Husk
 [04Dec2024 02:14:59.913] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:15:13.155] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4330263d[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:58837) lost connection: Disconnected
+[04Dec2024 02:20:09.505] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e61d596[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:35765) lost connection: Disconnected
