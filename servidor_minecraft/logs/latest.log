@@ -1824,3 +1824,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 19:28:58.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Feelingwatched]
 [04Dec2024 19:29:13.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA has made the advancement [Getting an Upgrade]
 [04Dec2024 19:29:42.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA has made the advancement [Iron, but dark]
+[04Dec2024 19:32:41.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=116, z=15} BlockPos{x=287, y=116, z=16}
+[04Dec2024 19:34:30.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by BLACKTULA
+[04Dec2024 19:34:30.341] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 19:34:34.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA was slain by Yeti
+[04Dec2024 19:34:34.276] [Server thread/INFO] [tombstone/]: The player LINDA has successfully been saved
+[04Dec2024 19:38:48.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Not even afraid of death]
+[04Dec2024 19:38:48.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Back to childhood]
+[04Dec2024 19:39:18.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Strange Taste]
+[04Dec2024 19:39:20.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA has made the advancement [Strange Taste]
+[04Dec2024 19:41:02.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA burned to death
+[04Dec2024 19:41:02.172] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 19:41:15.933] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 19:41:38.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Discreet Search]
+[04Dec2024 19:43:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA was blown up by Camo Creeper
+[04Dec2024 19:43:05.979] [Server thread/INFO] [tombstone/]: The player LINDA has successfully been saved
+[04Dec2024 19:43:31.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by BLACKTULA
+[04Dec2024 19:43:31.978] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 19:43:49.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LINDA lost connection: Disconnected
+[04Dec2024 19:43:49.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA left the game
+[04Dec2024 19:44:33.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Funeral Theft]
+[04Dec2024 19:44:45.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Disconnected
+[04Dec2024 19:44:45.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
+[04Dec2024 19:45:19.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by A MIMICER
+[04Dec2024 19:45:19.869] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 19:46:05.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Not Today, Thank You]
+[04Dec2024 19:49:27.777] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c1f437a
+[04Dec2024 19:49:27.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/127.220.224.131:53373] logged in with entity id 100325 at (132.32279530555942, 88.0, -229.20875560943605)
+[04Dec2024 19:49:27.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
+[04Dec2024 19:49:27.835] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
