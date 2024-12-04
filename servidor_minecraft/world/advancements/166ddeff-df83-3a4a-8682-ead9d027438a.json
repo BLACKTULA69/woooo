@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-04 01:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-03 23:55:28 +0000"
@@ -295,7 +301,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-04 01:48:32 +0000",
       "minecraft:zombified_piglin": "2024-12-04 01:26:11 +0000",
+      "minecraft:piglin": "2024-12-04 01:48:05 +0000",
       "minecraft:silverfish": "2024-12-04 00:46:00 +0000",
       "minecraft:zombie": "2024-12-04 00:28:50 +0000"
     },
@@ -399,7 +407,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-04 01:18:31 +0000"
+      "minecraft:nether_wastes": "2024-12-04 01:18:31 +0000",
+      "minecraft:soul_sand_valley": "2024-12-04 01:30:57 +0000",
+      "minecraft:basalt_deltas": "2024-12-04 01:36:04 +0000"
     },
     "done": false
   },

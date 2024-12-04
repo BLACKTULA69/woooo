@@ -122,3 +122,42 @@
 [04Dec2024 01:30:33.846] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [04Dec2024 01:33:40.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wither Skeleton
 [04Dec2024 01:33:40.913] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:36:13.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA tried to swim in lava
+[04Dec2024 01:36:13.214] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:36:55.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was shot by Skeleton
+[04Dec2024 01:36:55.823] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:38:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA tried to swim in lava
+[04Dec2024 01:38:15.315] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:38:29.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 01:38:29.812] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:40:58.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Faceless Cow
+[04Dec2024 01:40:58.960] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:41:10.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Magma Cube
+[04Dec2024 01:41:10.315] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:41:37.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 01:41:37.143] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:42:01.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 01:42:01.812] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:42:42.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell from a high place
+[04Dec2024 01:42:42.882] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:44:01.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Faceless Pig
+[04Dec2024 01:44:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Faceless Pig
+[04Dec2024 01:44:01.816] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:44:01.817] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:47:33.854] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4f4c8bd2[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:34373): Took too long to log in
+[04Dec2024 01:47:33.855] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f4c8bd2[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:34373) lost connection: Took too long to log in
+[04Dec2024 01:47:33.905] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 01:48:05.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [A Terrible Fortress]
+[04Dec2024 01:48:33.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Into Fire]
+[04Dec2024 01:50:36.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was fireballed by Blaze
+[04Dec2024 01:50:36.963] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:51:06.364] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5c4c5cee[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:53009): Took too long to log in
+[04Dec2024 01:51:06.365] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c4c5cee[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:53009) lost connection: Took too long to log in
+[04Dec2024 01:51:06.415] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 01:51:07.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Wither Skeleton
+[04Dec2024 01:51:07.221] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 01:52:23.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Hush
+[04Dec2024 01:52:23.414] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:54:24.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ashes 'n Bones]
+[04Dec2024 01:54:26.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wither Skeleton
+[04Dec2024 01:54:26.665] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved

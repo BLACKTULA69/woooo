@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-12-04 01:46:49 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
@@ -134,6 +140,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-04 01:48:05 +0000"
     },
     "done": true
   },
@@ -326,6 +338,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-04 01:35:12 +0000",
       "baked_potato": "2024-12-04 00:36:39 +0000",
       "apple": "2024-12-04 00:50:40 +0000"
     },
@@ -399,7 +412,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-04 01:15:32 +0000"
+      "minecraft:nether_wastes": "2024-12-04 01:15:32 +0000",
+      "minecraft:soul_sand_valley": "2024-12-04 01:43:23 +0000",
+      "minecraft:basalt_deltas": "2024-12-04 01:36:02 +0000"
     },
     "done": false
   },
