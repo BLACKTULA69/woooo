@@ -1774,3 +1774,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 18:48:52.989] [Server thread/INFO] [tombstone/]: The player LINDA has successfully been saved
 [04Dec2024 18:49:40.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA was slain by Ghoul
 [04Dec2024 18:49:40.238] [Server thread/INFO] [tombstone/]: The player LINDA has successfully been saved
+[04Dec2024 18:52:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LINDA has made the advancement [Monster Hunter]
+[04Dec2024 18:53:46.716] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=415, y=23, z=552} but found not block entity block Block{minecraft:water}[level=3] at location
+[04Dec2024 18:53:46.717] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=3] but failed at location BlockPos{x=415, y=23, z=552}
+[04Dec2024 18:53:46.717] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=403, y=23, z=553} but found not block entity block Block{minecraft:water}[level=1] at location
+[04Dec2024 18:53:46.717] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=403, y=23, z=553}
+[04Dec2024 18:54:40.578] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 18:54:50.341] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 18:55:17.605] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 18:55:51.974] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 18:56:48.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> 181 56 287
+[04Dec2024 18:57:05.834] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[04Dec2024 18:57:05.835] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[04Dec2024 18:57:05.836] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[04Dec2024 18:57:05.836] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[04Dec2024 18:57:05.836] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[04Dec2024 18:57:05.837] [Worker-Main2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
+[04Dec2024 18:58:56.863] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 18:59:05.148] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
