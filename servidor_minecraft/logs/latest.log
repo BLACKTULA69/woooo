@@ -1853,3 +1853,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 19:49:27.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/127.220.224.131:53373] logged in with entity id 100325 at (132.32279530555942, 88.0, -229.20875560943605)
 [04Dec2024 19:49:27.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
 [04Dec2024 19:49:27.835] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
+[04Dec2024 19:51:09.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> esta al lado del divi
+[04Dec2024 19:53:13.788] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 19:54:03.500] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 19:54:48.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Disconnected
+[04Dec2024 19:54:48.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[04Dec2024 20:03:30.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[04Dec2024 20:03:30.324] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 20:06:10.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has completed the challenge [Back To Hell]
+[04Dec2024 20:06:42.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Disconnected
+[04Dec2024 20:06:42.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[04Dec2024 20:06:48.415] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ff1013f
+[04Dec2024 20:06:48.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/127.120.125.202:43007] logged in with entity id 108737 at (218.560530746407, 64.0, -488.3703768122188)
+[04Dec2024 20:06:48.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[04Dec2024 20:06:48.461] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[04Dec2024 20:07:24.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Rotting Stalker
+[04Dec2024 20:07:24.869] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 20:09:22.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was shot by Skeleton
+[04Dec2024 20:09:22.519] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 20:13:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiino91> 390 63 -430}
+[04Dec2024 20:16:17.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Sneaking Terror
+[04Dec2024 20:16:17.391] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 20:20:50.172] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@116b44b6
+[04Dec2024 20:20:50.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/127.136.126.150:50977] logged in with entity id 115071 at (204.30000001192093, 72.0, -476.93257701221154)
+[04Dec2024 20:20:50.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[04Dec2024 20:20:50.220] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[04Dec2024 20:21:04.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> el que se muere es weko
+[04Dec2024 20:21:07.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Disconnected
+[04Dec2024 20:21:07.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
