@@ -1898,3 +1898,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 20:44:38.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Well prepared]
 [04Dec2024 20:50:02.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
 [04Dec2024 20:50:02.178] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 20:53:05.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Rotting Stalker
+[04Dec2024 20:53:05.670] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 20:53:14.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Rotting Stalker
+[04Dec2024 20:53:14.473] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 20:55:20.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by BLACKTULA
+[04Dec2024 20:55:20.621] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 20:55:48.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Rotting Stalker
+[04Dec2024 20:55:48.025] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 20:56:36.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA walked into fire whilst fighting Kiuta
+[04Dec2024 20:56:36.982] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
