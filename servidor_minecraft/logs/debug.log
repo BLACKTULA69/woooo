@@ -17848,3 +17848,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 22:41:32.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 22:42:35.406] [IO-Worker-218/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-224
 [04Dec2024 22:42:35.406] [IO-Worker-222/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-223
+[04Dec2024 22:43:26.052] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=394.13, y=63.00, z=-438.17]]
+[04Dec2024 22:46:09.502] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=382.70, y=64.25, z=-436.23]]
+[04Dec2024 22:46:32.011] [IO-Worker-218/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-225
+[04Dec2024 22:46:32.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 22:46:32.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 22:47:33.456] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Speeding up timers for the dimension [minecraft:overworld], timer: [xiino91 | 462/10000 | 462/2015]
+[04Dec2024 22:48:26.851] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=384.12, y=68.00, z=-437.58]]
+[04Dec2024 22:49:05.052] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=381.22, y=68.00, z=-432.90]]
+[04Dec2024 22:49:05.902] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=384.38, y=68.00, z=-432.76]]
+[04Dec2024 22:49:13.657] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-226
+[04Dec2024 22:49:13.660] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-227
+[04Dec2024 22:49:58.952] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=382.39, y=68.00, z=-433.46]]
+[04Dec2024 22:49:59.901] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=382.80, y=68.00, z=-433.63]]
+[04Dec2024 22:51:32.006] [IO-Worker-227/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-228
+[04Dec2024 22:51:32.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 22:51:32.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 22:51:50.351] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
+[04Dec2024 22:52:20.401] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main229
