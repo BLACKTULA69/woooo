@@ -275,6 +275,12 @@
     },
     "done": false
   },
+  "human_meat:first_eaten_human": {
+    "criteria": {
+      "first_eaten_human": "2024-12-04 00:33:34 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
@@ -286,6 +292,12 @@
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2024-12-04 00:36:39 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_yellow_from_white": {
     "criteria": {

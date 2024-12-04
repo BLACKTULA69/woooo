@@ -33,3 +33,14 @@
 [04Dec2024 00:33:34.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [You Monster]
 [04Dec2024 00:34:05.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
 [04Dec2024 00:34:05.615] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 00:34:35.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta fell out of the world
+[04Dec2024 00:34:35.309] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 00:35:30.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta fell out of the world
+[04Dec2024 00:35:30.762] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 00:36:19.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiino91 lost connection: Timed out
+[04Dec2024 00:36:19.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 left the game
+[04Dec2024 00:36:19.651] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 00:40:02.860] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f909a60
+[04Dec2024 00:40:02.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiino91[/127.207.12.204:54457] logged in with entity id 11227 at (7.300000011920929, -2.0, 7.7387095602332145)
+[04Dec2024 00:40:02.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 joined the game
+[04Dec2024 00:40:02.904] [Server thread/INFO] [Jade/]: Syncing config to xiino91 (abbacd8e-9718-3610-9ba1-6fa9fd3902e4)
