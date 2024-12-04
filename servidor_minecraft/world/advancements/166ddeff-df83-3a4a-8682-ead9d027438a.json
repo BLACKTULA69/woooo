@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-04 00:17:32 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:46:27 +0000"
@@ -440,6 +446,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-04 00:16:30 +0000"
     },
     "done": true
   },
