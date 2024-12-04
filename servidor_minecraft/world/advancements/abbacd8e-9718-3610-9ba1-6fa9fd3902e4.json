@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "thepursuer:adv_pursuer_root": {
+    "criteria": {
+      "adv_pursuer_root": "2024-12-04 00:29:31 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:52:01 +0000"
