@@ -1961,3 +1961,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 21:39:31.374] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146417, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
 [04Dec2024 21:41:29.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by A MIMICER
 [04Dec2024 21:41:29.575] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 21:42:37.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Rotting Stalker
+[04Dec2024 21:42:37.176] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 21:43:25.681] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 21:46:26.114] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@683612e6[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:59521) lost connection: Disconnected
+[04Dec2024 21:46:41.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[04Dec2024 21:46:41.387] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 21:46:49.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by A MIMICER
+[04Dec2024 21:46:49.397] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 21:48:04.372] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dcaa0b8[id=<null>,name=7euzk1ng,properties={},legacy=false] (/127.191.143.132:49897) lost connection: Disconnected
+[04Dec2024 21:49:51.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[04Dec2024 21:49:51.330] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 21:50:04.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Finally, Fresh Flesh]

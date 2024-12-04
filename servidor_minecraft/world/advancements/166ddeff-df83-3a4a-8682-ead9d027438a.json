@@ -616,6 +616,12 @@
     },
     "done": true
   },
+  "deep_blood:finally_fresh_flesh": {
+    "criteria": {
+      "finally_fresh_flesh": "2024-12-04 21:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-04 16:43:12 +0000"
