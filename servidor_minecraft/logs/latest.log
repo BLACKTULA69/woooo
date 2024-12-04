@@ -1881,3 +1881,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 20:21:04.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiuta> el que se muere es weko
 [04Dec2024 20:21:07.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Disconnected
 [04Dec2024 20:21:07.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[04Dec2024 20:26:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has completed the challenge [Back To Hell]
+[04Dec2024 20:28:38.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[04Dec2024 20:28:38.827] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 20:29:39.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by xiino91
+[04Dec2024 20:29:39.098] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 20:30:55.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Feelingwatched]
+[04Dec2024 20:31:11.966] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f25840
+[04Dec2024 20:31:11.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/127.136.126.150:55157] logged in with entity id 118915 at (204.30000001192093, 72.0, -476.93257701221154)
+[04Dec2024 20:31:11.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[04Dec2024 20:31:12.007] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[04Dec2024 20:31:58.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> 393 63 -436
+[04Dec2024 20:40:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[04Dec2024 20:40:25.231] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 20:40:25.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA moved wrongly!
