@@ -440,6 +440,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 03:22:32 +0000"
+    },
+    "done": true
+  },
   "the_dead_forest:the_dead_forests": {
     "criteria": {
       "the_dead_forests": "2024-12-03 23:45:46 +0000"
