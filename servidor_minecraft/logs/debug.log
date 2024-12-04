@@ -16807,3 +16807,107 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 21:01:12.358] [IO-Worker-147/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
 [04Dec2024 21:01:32.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 21:01:32.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:05:16.302] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=395.28, y=63.00, z=-437.22]]
+[04Dec2024 21:05:16.451] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/100325, l='ServerLevel[world]', x=395.44, y=66.50, z=-433.76]]
+[04Dec2024 21:05:16.801] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/108737, l='ServerLevel[world]', x=392.05, y=63.00, z=-436.50]]
+[04Dec2024 21:05:18.868] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/108737, l='ServerLevel[world]', x=392.04, y=63.00, z=-436.51]]
+[04Dec2024 21:05:48.952] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/108737, l='ServerLevel[world]', x=386.27, y=63.00, z=-434.10]]
+[04Dec2024 21:05:49.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Rotting Stalker
+[04Dec2024 21:05:49.260] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:394, y:63, z:-439, dim:minecraft:overworld]
+[04Dec2024 21:05:49.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[04Dec2024 21:05:49.269] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:386, y:63, z:-435, dim:minecraft:overworld]
+[04Dec2024 21:05:49.280] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 21:05:49.282] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 21:06:19.861] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=382.90, y=63.00, z=-436.80]]
+[04Dec2024 21:06:32.026] [IO-Worker-147/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[04Dec2024 21:06:32.027] [IO-Worker-148/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[04Dec2024 21:06:32.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:06:32.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:07:04.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
+[04Dec2024 21:07:04.414] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:404, y:62, z:-413, dim:minecraft:overworld]
+[04Dec2024 21:07:04.428] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 21:07:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[04Dec2024 21:07:34.716] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:392, y:64, z:-433, dim:minecraft:overworld]
+[04Dec2024 21:07:34.725] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 21:09:01.409] [IO-Worker-150/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-151
+[04Dec2024 21:09:07.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
+[04Dec2024 21:09:07.614] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:415, y:3, z:-260, dim:minecraft:overworld]
+[04Dec2024 21:09:07.626] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 21:09:08.634] [IO-Worker-148/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-152
+[04Dec2024 21:09:08.635] [IO-Worker-148/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-153
+[04Dec2024 21:09:37.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[04Dec2024 21:09:37.110] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:390, y:68, z:-433, dim:minecraft:overworld]
+[04Dec2024 21:09:37.118] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 21:10:33.063] [IO-Worker-153/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-154
+[04Dec2024 21:11:32.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:11:32.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:11:32.100] [IO-Worker-153/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-155
+[04Dec2024 21:11:32.101] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-156
+[04Dec2024 21:13:24.124] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-157
+[04Dec2024 21:13:24.124] [IO-Worker-156/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
+[04Dec2024 21:13:24.140] [IO-Worker-157/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
+[04Dec2024 21:13:40.102] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=503.85, y=62.69, z=-392.55]]
+[04Dec2024 21:13:41.402] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=505.36, y=62.69, z=-392.56]]
+[04Dec2024 21:13:42.901] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=510.37, y=62.69, z=-392.59]]
+[04Dec2024 21:13:43.101] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/100325, l='ServerLevel[world]', x=388.97, y=68.00, z=-432.93]]
+[04Dec2024 21:13:43.401] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/100325, l='ServerLevel[world]', x=389.79, y=68.00, z=-432.81]]
+[04Dec2024 21:13:43.851] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/100325, l='ServerLevel[world]', x=390.62, y=68.00, z=-433.21]]
+[04Dec2024 21:13:44.002] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/118915, l='ServerLevel[world]', x=514.64, y=62.69, z=-392.62]]
+[04Dec2024 21:13:47.659] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 21:15:58.168] [IO-Worker-157/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
+[04Dec2024 21:16:32.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:16:32.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:16:49.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was blown up by Camo Creeper
+[04Dec2024 21:16:49.967] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:668, y:15, z:-355, dim:minecraft:overworld]
+[04Dec2024 21:16:49.981] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 21:16:51.036] [IO-Worker-157/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[04Dec2024 21:16:51.037] [IO-Worker-157/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[04Dec2024 21:17:34.102] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/108737, l='ServerLevel[world]', x=395.50, y=63.00, z=-433.50]]
+[04Dec2024 21:17:34.808] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 21:18:08.244] [IO-Worker-156/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[04Dec2024 21:18:08.244] [IO-Worker-161/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[04Dec2024 21:18:08.244] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-165
+[04Dec2024 21:18:08.248] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-166
+[04Dec2024 21:19:21.352] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/108737, l='ServerLevel[world]', x=396.50, y=63.88, z=-433.50]]
+[04Dec2024 21:19:41.684] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 21:19:43.377] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-167
+[04Dec2024 21:19:51.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Cave Dweller
+[04Dec2024 21:19:51.416] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:411, y:0, z:-277, dim:minecraft:overworld]
+[04Dec2024 21:19:51.425] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 21:20:30.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Local Brewery]
+[04Dec2024 21:21:32.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:21:32.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:21:47.152] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/108737, l='ServerLevel[world]', x=395.50, y=63.00, z=-433.50]]
+[04Dec2024 21:22:00.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Diamonds!]
+[04Dec2024 21:23:27.776] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-168
+[04Dec2024 21:24:43.371] [IO-Worker-168/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[04Dec2024 21:24:43.371] [IO-Worker-167/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[04Dec2024 21:25:00.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[04Dec2024 21:25:00.774] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:387, y:73, z:-439, dim:minecraft:overworld]
+[04Dec2024 21:25:00.785] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 21:26:12.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [A Strange Grave Dust]
+[04Dec2024 21:26:32.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:26:32.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:26:54.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
+[04Dec2024 21:26:54.614] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:390, y:73, z:-439, dim:minecraft:overworld]
+[04Dec2024 21:26:54.621] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 21:27:36.812] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/108737, l='ServerLevel[world]', x=395.50, y=63.00, z=-433.50]]
+[04Dec2024 21:28:29.687] [IO-Worker-167/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[04Dec2024 21:28:30.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Starved Stalker
+[04Dec2024 21:28:30.915] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:291, y:-24, z:-204, dim:minecraft:overworld]
+[04Dec2024 21:28:30.929] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 21:29:16.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was impaled by Drowned
+[04Dec2024 21:29:16.669] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:679, y:61, z:-334, dim:minecraft:overworld]
+[04Dec2024 21:29:16.676] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 21:29:17.671] [IO-Worker-167/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[04Dec2024 21:29:30.432] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146418, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 21:29:30.432] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146419, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 21:29:30.433] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146417, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 21:31:08.802] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/108737, l='ServerLevel[world]', x=395.50, y=63.00, z=-433.50]]
+[04Dec2024 21:31:32.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:31:32.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:31:32.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[04Dec2024 21:31:32.157] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:256, y:-16, z:-234, dim:minecraft:overworld]
+[04Dec2024 21:31:32.171] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 21:31:32.235] [IO-Worker-171/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[04Dec2024 21:31:33.114] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
