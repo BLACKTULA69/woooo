@@ -71,3 +71,26 @@
 [04Dec2024 01:02:46.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Midnight Lurker
 [04Dec2024 01:02:46.611] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
 [04Dec2024 01:04:07.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Who is Cutting Onions?]
+[04Dec2024 01:04:45.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Void Hands
+[04Dec2024 01:04:45.507] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 01:05:39.288] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 01:05:39.552] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 01:05:41.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [We Need to Go Deeper]
+[04Dec2024 01:05:41.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA moved too quickly! 0.03859018245141854,-0.6044241013267021,10.133893219377637
+[04Dec2024 01:05:41.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3965ms or 79 ticks behind
+[04Dec2024 01:05:53.620] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 01:06:08.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Void Hands
+[04Dec2024 01:06:08.162] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:07:33.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [We Need to Go Deeper]
+[04Dec2024 01:08:42.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Faceless Cow
+[04Dec2024 01:08:42.019] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 01:09:07.689] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 01:09:36.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Faceless Cow
+[04Dec2024 01:09:36.225] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:09:53.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Faceless Pig
+[04Dec2024 01:09:53.065] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 01:12:18.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [We Need to Go Deeper]
+[04Dec2024 01:12:18.467] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 01:12:20.469] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 01:13:24.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [You Monster]
+[04Dec2024 01:13:29.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [You Monster]

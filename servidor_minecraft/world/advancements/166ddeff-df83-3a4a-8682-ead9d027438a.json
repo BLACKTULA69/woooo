@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-04 01:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2024-12-04 00:45:53 +0000"
@@ -110,6 +116,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-03 23:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-04 01:07:33 +0000"
     },
     "done": true
   },
@@ -282,6 +294,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-04 01:07:33 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:46:27 +0000"
@@ -435,6 +453,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-03 23:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-04 01:02:22 +0000"
     },
     "done": true
   },
