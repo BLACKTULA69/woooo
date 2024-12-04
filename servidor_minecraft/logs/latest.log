@@ -300,3 +300,19 @@
 [04Dec2024 03:22:44.472] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [04Dec2024 03:22:59.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta fell from a high place
 [04Dec2024 03:22:59.886] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 03:26:21.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Faceless Villager
+[04Dec2024 03:26:21.629] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 03:30:28.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombified Piglin
+[04Dec2024 03:30:28.522] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 03:31:57.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Faceless Sheep
+[04Dec2024 03:31:57.876] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 03:31:59.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Faceless Cow
+[04Dec2024 03:31:59.683] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 03:32:30.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 03:32:30.164] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 03:34:17.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA didn't want to live in the same world as Terrant
+[04Dec2024 03:34:17.921] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 03:34:30.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was doomed to fall
+[04Dec2024 03:34:30.570] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 03:35:01.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA fell out of the world
+[04Dec2024 03:35:01.963] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
