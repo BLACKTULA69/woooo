@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 18:42:02 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:46 +0000"
@@ -502,6 +508,12 @@
       "minecraft:zombie": "2024-12-04 16:47:43 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 18:42:14 +0000"
+    },
+    "done": true
   },
   "graveyard:graveyard/lich_prison": {
     "criteria": {
