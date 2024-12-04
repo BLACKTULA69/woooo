@@ -1656,3 +1656,79 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 17:16:39.991] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
 [04Dec2024 17:16:39.991] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [04Dec2024 17:16:39.992] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 17:21:11.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Grimm Start]
+[04Dec2024 17:23:48.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
+[04Dec2024 17:23:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Condemned To Die]
+[04Dec2024 17:23:48.075] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 17:24:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Sweet Dreams]
+[04Dec2024 17:25:37.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Sweet Dreams]
+[04Dec2024 17:25:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Daunt
+[04Dec2024 17:25:49.024] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 17:26:19.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[04Dec2024 17:26:19.225] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:31:06.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was shot by Skeleton
+[04Dec2024 17:31:06.621] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:31:24.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[04Dec2024 17:31:24.570] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:33:31.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Acquire Hardware]
+[04Dec2024 17:36:02.540] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 17:38:56.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Cursed Island]
+[04Dec2024 17:39:11.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Cursed Island]
+[04Dec2024 17:41:15.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Iron, but dark]
+[04Dec2024 17:44:51.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Cursed Island]
+[04Dec2024 17:45:28.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[04Dec2024 17:45:28.317] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:46:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Void Hands
+[04Dec2024 17:46:50.915] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:47:03.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Void Hands
+[04Dec2024 17:47:03.014] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 17:47:17.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[04Dec2024 17:47:17.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Condemned To Die]
+[04Dec2024 17:47:17.923] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 17:48:24.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Void Hands
+[04Dec2024 17:48:24.915] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 17:48:53.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Void Hands
+[04Dec2024 17:48:53.116] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:49:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Yeti
+[04Dec2024 17:49:24.067] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 17:52:10.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Iron, but dark]
+[04Dec2024 17:52:48.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Void Hands
+[04Dec2024 17:52:48.267] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:53:12.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Iron, but dark]
+[04Dec2024 17:53:28.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Well prepared]
+[04Dec2024 17:55:06.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The One Who Watches
+[04Dec2024 17:55:06.071] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 17:55:31.842] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 17:55:42.679] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 17:55:51.133] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[04Dec2024 17:59:41.167] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 18:02:02.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Rotting Stalker
+[04Dec2024 18:02:02.325] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 18:03:05.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by The Damned
+[04Dec2024 18:03:05.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Condemned To Die]
+[04Dec2024 18:03:05.271] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 18:06:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Acquire Hardware]
+[04Dec2024 18:10:34.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ashes 'n Bones]
+[04Dec2024 18:10:36.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombie
+[04Dec2024 18:10:36.321] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 18:11:13.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was shot by Skeleton
+[04Dec2024 18:11:13.669] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 18:11:55.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Neighborhood Brawl]
+[04Dec2024 18:12:37.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Knowledge of Death]
+[04Dec2024 18:12:37.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Ashes 'n Bones]
+[04Dec2024 18:13:33.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Not Today, Thank You]
+[04Dec2024 18:13:46.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by A MIMICER
+[04Dec2024 18:13:46.020] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 18:14:54.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[04Dec2024 18:14:54.469] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 18:17:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[04Dec2024 18:17:50.268] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 18:23:36.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Bone Paper Scissors]
+[04Dec2024 18:24:14.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Isn't It Iron Pick]
+[04Dec2024 18:34:11.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Sneaking Terror
+[04Dec2024 18:34:11.330] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[04Dec2024 18:34:13.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[04Dec2024 18:34:13.570] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[04Dec2024 18:34:56.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has reached the goal [Here They Come]
+[04Dec2024 18:38:13.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[04Dec2024 18:38:13.528] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
