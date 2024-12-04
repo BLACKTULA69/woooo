@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 01:54:24 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
@@ -110,6 +116,12 @@
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-04 01:55:51 +0000"
     },
     "done": true
   },
@@ -301,7 +313,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-04 01:55:49 +0000",
       "minecraft:zombified_piglin": "2024-12-04 01:22:50 +0000",
+      "minecraft:wither_skeleton": "2024-12-04 01:54:24 +0000",
       "minecraft:zombie": "2024-12-04 00:28:06 +0000"
     },
     "done": false
@@ -529,6 +543,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-03 23:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-04 01:56:06 +0000"
     },
     "done": true
   },

@@ -161,3 +161,19 @@
 [04Dec2024 01:54:24.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ashes 'n Bones]
 [04Dec2024 01:54:26.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wither Skeleton
 [04Dec2024 01:54:26.665] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 01:55:51.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Into Fire]
+[04Dec2024 01:56:06.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Acquire Hardware]
+[04Dec2024 01:56:50.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta moved too quickly! 2.4002579468802274,0.2522033402537289,9.881790139850665
+[04Dec2024 01:56:53.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Timed out
+[04Dec2024 01:56:53.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[04Dec2024 01:57:03.367] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@517c47
+[04Dec2024 01:57:03.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/127.136.126.150:44107] logged in with entity id 36164 at (23.918137131788644, 61.24918707874468, 166.92247238353215)
+[04Dec2024 01:57:03.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[04Dec2024 01:57:03.458] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[04Dec2024 01:57:47.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wither Skeleton
+[04Dec2024 01:57:47.765] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:01:55.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta tried to swim in lava
+[04Dec2024 02:01:55.563] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 02:03:01.919] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[04Dec2024 02:03:07.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Hoglin
+[04Dec2024 02:03:07.617] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
