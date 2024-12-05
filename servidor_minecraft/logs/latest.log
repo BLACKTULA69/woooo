@@ -416,3 +416,7 @@
 [05Dec2024 02:26:12.379] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
 [05Dec2024 02:26:24.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Disconnected
 [05Dec2024 02:26:24.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[05Dec2024 02:30:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
+[05Dec2024 02:30:30.321] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 02:34:09.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was blown up by Spruce Creeper
+[05Dec2024 02:34:09.577] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved

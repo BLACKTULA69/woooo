@@ -21271,3 +21271,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 02:26:24.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
 [05Dec2024 02:26:31.756] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=429.49, y=74.00, z=-361.72]]
 [05Dec2024 02:26:33.918] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=427.30, y=73.62, z=-362.37]]
+[05Dec2024 02:26:38.151] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=386.98, y=68.00, z=-438.63]]
+[05Dec2024 02:26:46.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:26:46.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:26:46.529] [IO-Worker-370/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-373
+[05Dec2024 02:27:01.395] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=432.50, y=74.00, z=-361.50]]
+[05Dec2024 02:27:24.310] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.46, y=74.00, z=-364.12]]
+[05Dec2024 02:27:30.898] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.46, y=74.00, z=-364.12]]
+[05Dec2024 02:28:06.082] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.80, y=74.00, z=-360.59]]
+[05Dec2024 02:28:18.317] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.80, y=74.00, z=-360.59]]
+[05Dec2024 02:28:32.136] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.80, y=74.00, z=-360.59]]
+[05Dec2024 02:28:33.353] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.80, y=74.00, z=-360.59]]
+[05Dec2024 02:29:00.012] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.80, y=74.00, z=-360.59]]
+[05Dec2024 02:29:00.565] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.80, y=74.00, z=-360.59]]
+[05Dec2024 02:29:07.232] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.80, y=74.00, z=-360.59]]
+[05Dec2024 02:29:41.414] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.80, y=74.00, z=-360.59]]
+[05Dec2024 02:29:45.270] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.80, y=74.00, z=-360.59]]
+[05Dec2024 02:29:50.767] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.80, y=74.00, z=-360.59]]
+[05Dec2024 02:30:12.356] [IO-Worker-373/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-374
+[05Dec2024 02:30:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
+[05Dec2024 02:30:30.310] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:393, y:78, z:-435, dim:minecraft:overworld]
+[05Dec2024 02:30:30.321] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 02:31:46.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:31:46.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:34:09.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was blown up by Spruce Creeper
+[05Dec2024 02:34:09.566] [Server thread/DEBUG] [tombstone/]: A new grave of the player 7euzk1ng was created at position [x:415, y:68, z:-366, dim:minecraft:overworld]
+[05Dec2024 02:34:09.577] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 02:34:09.614] [IO-Worker-373/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-375
+[05Dec2024 02:34:11.451] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=382.13, y=73.00, z=-428.63]]
+[05Dec2024 02:34:11.601] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=382.13, y=73.00, z=-428.63]]
+[05Dec2024 02:34:12.501] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=429.56, y=74.00, z=-361.31]]
+[05Dec2024 02:34:13.451] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=393.18, y=65.00, z=-432.30]]
+[05Dec2024 02:34:13.602] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=394.02, y=65.50, z=-432.34]]
+[05Dec2024 02:34:15.701] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=392.48, y=68.00, z=-439.50]]
+[05Dec2024 02:34:16.951] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=388.42, y=68.00, z=-435.78]]
+[05Dec2024 02:34:18.251] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=427.51, y=71.44, z=-362.67]]
+[05Dec2024 02:34:18.401] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=394.53, y=70.00, z=-433.43]]
+[05Dec2024 02:34:18.551] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=427.51, y=70.54, z=-362.70]]
+[05Dec2024 02:34:19.851] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=381.01, y=73.00, z=-433.42]]
+[05Dec2024 02:34:21.651] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=381.06, y=73.00, z=-437.68]]
