@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "thepursuer:adv_pursuer_root": {
+    "criteria": {
+      "adv_pursuer_root": "2024-12-05 00:16:24 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2024-12-04 23:48:05 +0000"
@@ -415,6 +421,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2024-12-04 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-05 00:13:04 +0000"
     },
     "done": true
   },
