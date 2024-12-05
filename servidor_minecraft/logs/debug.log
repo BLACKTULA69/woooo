@@ -21698,3 +21698,157 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 03:06:12.353] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
 [05Dec2024 03:06:46.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 03:06:46.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:07:07.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has completed the challenge [Back To Hell]
+[05Dec2024 03:07:33.565] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=432.50, y=74.00, z=-361.50]]
+[05Dec2024 03:07:44.729] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.43, y=-56.46, z=-319.48]]
+[05Dec2024 03:07:51.388] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.70, y=-58.00, z=-319.20]]
+[05Dec2024 03:08:00.480] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.36, y=-57.00, z=-319.70]]
+[05Dec2024 03:08:03.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/342638, l='ServerLevel[world]', x=430.50, y=-256.00, z=-362.50] died, message: 'Villager fell out of the world'
+[05Dec2024 03:08:39.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by The Damned
+[05Dec2024 03:08:39.317] [Server thread/DEBUG] [tombstone/]: A new grave of the player 7euzk1ng was created at position [x:430, y:-57, z:-326, dim:minecraft:overworld]
+[05Dec2024 03:08:39.333] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 03:10:35.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/343755, l='ServerLevel[world]', x=665.34, y=-256.00, z=-344.31] died, message: 'Villager fell out of the world'
+[05Dec2024 03:11:11.724] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.96, y=-57.00, z=-327.52]]
+[05Dec2024 03:11:34.482] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=435.27, y=-57.00, z=-328.26]]
+[05Dec2024 03:11:44.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/344504, l='ServerLevel[world]', x=430.50, y=-256.00, z=-362.50] died, message: 'Villager fell out of the world'
+[05Dec2024 03:11:46.359] [IO-Worker-399/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-401
+[05Dec2024 03:11:46.361] [IO-Worker-399/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-402
+[05Dec2024 03:11:46.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:11:46.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:12:58.913] [IO-Worker-402/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-403
+[05Dec2024 03:13:25.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by xiino91
+[05Dec2024 03:13:25.733] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:384, y:63, z:-433, dim:minecraft:overworld]
+[05Dec2024 03:13:25.737] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 03:14:58.601] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=387.69, y=63.00, z=-429.84]]
+[05Dec2024 03:14:59.201] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=387.69, y=63.00, z=-429.84]]
+[05Dec2024 03:15:02.852] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:03.151] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=394.12, y=65.50, z=-433.19]]
+[05Dec2024 03:15:04.751] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=385.49, y=63.00, z=-434.13]]
+[05Dec2024 03:15:05.051] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=391.23, y=68.00, z=-439.67]]
+[05Dec2024 03:15:05.401] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=380.90, y=63.00, z=-436.52]]
+[05Dec2024 03:15:06.101] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=385.48, y=63.00, z=-434.12]]
+[05Dec2024 03:15:07.151] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=384.51, y=63.00, z=-435.50]]
+[05Dec2024 03:15:08.051] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=387.77, y=63.00, z=-436.38]]
+[05Dec2024 03:15:09.301] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:09.401] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:11.701] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=394.63, y=68.00, z=-438.12]]
+[05Dec2024 03:15:12.101] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:13.651] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=388.02, y=68.00, z=-434.81]]
+[05Dec2024 03:15:13.701] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:14.001] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=390.35, y=73.00, z=-438.22]]
+[05Dec2024 03:15:14.151] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:14.551] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=392.00, y=69.00, z=-432.64]]
+[05Dec2024 03:15:15.502] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:17.052] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=395.25, y=70.50, z=-432.99]]
+[05Dec2024 03:15:19.152] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:19.801] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=386.63, y=73.00, z=-436.66]]
+[05Dec2024 03:15:20.151] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=391.79, y=64.50, z=-434.15]]
+[05Dec2024 03:15:20.502] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=394.36, y=70.00, z=-432.76]]
+[05Dec2024 03:15:22.651] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:22.901] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:24.301] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=383.96, y=73.00, z=-435.48]]
+[05Dec2024 03:15:24.551] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=383.86, y=73.00, z=-434.68]]
+[05Dec2024 03:15:25.151] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=394.76, y=63.00, z=-435.90]]
+[05Dec2024 03:15:27.301] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=382.33, y=73.00, z=-432.29]]
+[05Dec2024 03:15:29.451] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=384.42, y=73.00, z=-435.55]]
+[05Dec2024 03:15:30.752] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=392.24, y=63.00, z=-439.43]]
+[05Dec2024 03:15:31.652] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:32.651] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=385.97, y=63.00, z=-438.76]]
+[05Dec2024 03:15:36.351] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=383.36, y=74.25, z=-429.86]]
+[05Dec2024 03:15:36.664] [IO-Worker-402/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-404
+[05Dec2024 03:15:36.701] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=383.32, y=74.00, z=-430.66]]
+[05Dec2024 03:15:37.351] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:38.701] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=384.12, y=73.00, z=-431.30]]
+[05Dec2024 03:15:40.001] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:41.002] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=389.13, y=68.00, z=-439.14]]
+[05Dec2024 03:15:41.851] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=385.24, y=74.00, z=-430.53]]
+[05Dec2024 03:15:42.501] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=385.02, y=74.00, z=-430.87]]
+[05Dec2024 03:15:42.851] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=384.91, y=68.00, z=-435.12]]
+[05Dec2024 03:15:43.301] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=384.38, y=74.00, z=-431.14]]
+[05Dec2024 03:15:45.701] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:46.702] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:48.552] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:48.851] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:50.201] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=383.32, y=73.00, z=-433.47]]
+[05Dec2024 03:15:50.751] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=382.02, y=73.68, z=-428.91]]
+[05Dec2024 03:15:51.051] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:52.851] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=387.66, y=68.00, z=-433.37]]
+[05Dec2024 03:15:53.901] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:54.051] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:55.501] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=385.70, y=74.50, z=-429.70]]
+[05Dec2024 03:15:55.551] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:55.801] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=430.25, y=74.00, z=-360.62]]
+[05Dec2024 03:15:56.201] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=385.51, y=73.00, z=-433.85]]
+[05Dec2024 03:15:56.351] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=385.70, y=74.50, z=-429.70]]
+[05Dec2024 03:15:56.701] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=385.70, y=74.50, z=-429.70]]
+[05Dec2024 03:15:57.001] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=379.67, y=68.00, z=-437.63]]
+[05Dec2024 03:15:57.551] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=379.48, y=68.00, z=-437.61]]
+[05Dec2024 03:15:58.501] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=381.57, y=68.00, z=-435.15]]
+[05Dec2024 03:16:02.451] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=383.89, y=73.00, z=-433.58]]
+[05Dec2024 03:16:05.302] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.68, y=74.00, z=-360.29]]
+[05Dec2024 03:16:05.502] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=431.90, y=74.00, z=-360.21]]
+[05Dec2024 03:16:06.051] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=384.27, y=73.00, z=-434.00]]
+[05Dec2024 03:16:07.701] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=432.33, y=74.56, z=-362.41]]
+[05Dec2024 03:16:07.901] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=384.57, y=73.00, z=-426.76]]
+[05Dec2024 03:16:08.051] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=386.48, y=73.00, z=-438.42]]
+[05Dec2024 03:16:09.251] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=385.58, y=73.00, z=-428.35]]
+[05Dec2024 03:16:11.001] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=382.88, y=73.00, z=-427.93]]
+[05Dec2024 03:16:11.201] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=383.21, y=73.00, z=-427.19]]
+[05Dec2024 03:16:13.751] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=432.90, y=74.00, z=-364.53]]
+[05Dec2024 03:16:16.952] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=432.74, y=74.00, z=-364.63]]
+[05Dec2024 03:16:17.351] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=432.42, y=74.00, z=-364.53]]
+[05Dec2024 03:16:17.652] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=432.42, y=74.00, z=-364.53]]
+[05Dec2024 03:16:19.852] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=382.53, y=73.00, z=-427.08]]
+[05Dec2024 03:16:21.802] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=432.17, y=74.00, z=-364.54]]
+[05Dec2024 03:16:24.951] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=383.98, y=73.00, z=-435.41]]
+[05Dec2024 03:16:25.951] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=385.27, y=73.75, z=-432.01]]
+[05Dec2024 03:16:26.151] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=382.53, y=73.00, z=-427.08]]
+[05Dec2024 03:16:26.401] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=382.43, y=73.00, z=-435.32]]
+[05Dec2024 03:16:27.651] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=384.83, y=73.00, z=-432.74]]
+[05Dec2024 03:16:29.151] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=383.35, y=73.00, z=-436.52]]
+[05Dec2024 03:16:29.652] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=386.10, y=73.00, z=-437.41]]
+[05Dec2024 03:16:30.351] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=385.31, y=73.00, z=-435.26]]
+[05Dec2024 03:16:32.101] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=399.92, y=68.42, z=-375.74]]
+[05Dec2024 03:16:32.201] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=386.03, y=73.00, z=-432.92]]
+[05Dec2024 03:16:32.351] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=398.22, y=69.25, z=-375.88]]
+[05Dec2024 03:16:32.401] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=386.14, y=73.00, z=-428.16]]
+[05Dec2024 03:16:33.002] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=386.43, y=74.00, z=-428.67]]
+[05Dec2024 03:16:33.202] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=385.65, y=73.00, z=-431.61]]
+[05Dec2024 03:16:33.852] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=386.47, y=74.00, z=-428.70]]
+[05Dec2024 03:16:34.151] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=384.38, y=73.00, z=-433.48]]
+[05Dec2024 03:16:35.151] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=385.05, y=67.00, z=-368.58]]
+[05Dec2024 03:16:35.801] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=385.87, y=73.00, z=-433.28]]
+[05Dec2024 03:16:35.851] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=383.43, y=68.02, z=-366.09]]
+[05Dec2024 03:16:36.051] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=386.29, y=74.00, z=-429.08]]
+[05Dec2024 03:16:36.451] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=383.63, y=67.42, z=-362.64]]
+[05Dec2024 03:16:37.501] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=383.51, y=73.00, z=-431.32]]
+[05Dec2024 03:16:38.602] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=386.65, y=66.00, z=-350.29]]
+[05Dec2024 03:16:38.820] [IO-Worker-402/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-405
+[05Dec2024 03:16:39.951] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=384.96, y=73.00, z=-433.13]]
+[05Dec2024 03:16:40.351] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=384.23, y=73.00, z=-433.32]]
+[05Dec2024 03:16:41.901] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=375.92, y=62.84, z=-343.72]]
+[05Dec2024 03:16:42.601] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=385.91, y=73.00, z=-433.65]]
+[05Dec2024 03:16:45.351] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=384.67, y=73.00, z=-433.03]]
+[05Dec2024 03:16:46.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:16:46.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:16:46.901] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['Kiuta'/296494, l='ServerLevel[world]', x=380.89, y=73.00, z=-427.55]]
+[05Dec2024 03:16:48.102] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/335470, l='ServerLevel[world]', x=380.86, y=73.00, z=-431.30]]
+[05Dec2024 03:19:30.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Rotting Stalker
+[05Dec2024 03:19:30.610] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:393, y:65, z:-434, dim:minecraft:overworld]
+[05Dec2024 03:19:30.623] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 03:19:51.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Kiuta
+[05Dec2024 03:19:51.850] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:386, y:63, z:-439, dim:minecraft:overworld]
+[05Dec2024 03:19:51.867] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 03:21:00.110] [IO-Worker-404/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-406
+[05Dec2024 03:21:46.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:21:46.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:24:28.511] [IO-Worker-406/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-407
+[05Dec2024 03:24:39.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[05Dec2024 03:24:39.315] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:386, y:63, z:-426, dim:minecraft:overworld]
+[05Dec2024 03:24:39.329] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 03:26:28.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by xiino91
+[05Dec2024 03:26:28.994] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:385, y:61, z:-423, dim:minecraft:overworld]
+[05Dec2024 03:26:28.997] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 03:26:29.013] [IO-Worker-406/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-408
+[05Dec2024 03:26:46.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:26:46.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

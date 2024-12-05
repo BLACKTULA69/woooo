@@ -448,3 +448,19 @@
 [05Dec2024 03:04:28.435] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
 [05Dec2024 03:06:12.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
 [05Dec2024 03:06:12.353] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 03:07:07.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has completed the challenge [Back To Hell]
+[05Dec2024 03:08:03.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/342638, l='ServerLevel[world]', x=430.50, y=-256.00, z=-362.50] died, message: 'Villager fell out of the world'
+[05Dec2024 03:08:39.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by The Damned
+[05Dec2024 03:08:39.333] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 03:10:35.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/343755, l='ServerLevel[world]', x=665.34, y=-256.00, z=-344.31] died, message: 'Villager fell out of the world'
+[05Dec2024 03:11:44.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/344504, l='ServerLevel[world]', x=430.50, y=-256.00, z=-362.50] died, message: 'Villager fell out of the world'
+[05Dec2024 03:13:25.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by xiino91
+[05Dec2024 03:13:25.737] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 03:19:30.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Rotting Stalker
+[05Dec2024 03:19:30.623] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 03:19:51.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Kiuta
+[05Dec2024 03:19:51.867] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 03:24:39.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[05Dec2024 03:24:39.329] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 03:26:28.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by xiino91
+[05Dec2024 03:26:28.997] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
