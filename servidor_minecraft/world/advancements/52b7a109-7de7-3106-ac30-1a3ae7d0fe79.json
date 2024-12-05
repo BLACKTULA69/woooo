@@ -89,8 +89,19 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-04 23:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-04 23:57:35 +0000",
+      "minecraft:taiga": "2024-12-04 23:59:26 +0000",
+      "minecraft:river": "2024-12-04 23:57:29 +0000",
+      "minecraft:stony_shore": "2024-12-05 00:00:00 +0000",
+      "minecraft:cold_ocean": "2024-12-05 00:00:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-04 23:48:06 +0000"
     },
     "done": false
@@ -154,6 +165,12 @@
       "the_dead_forests": "2024-12-04 23:48:05 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_taiga": "2024-12-04 23:55:39 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_cyan": {
     "criteria": {

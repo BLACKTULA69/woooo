@@ -2143,3 +2143,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 23:51:50.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 7euzk1ng lost connection: Timed out
 [04Dec2024 23:51:50.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng left the game
 [04Dec2024 23:51:50.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 23:53:41.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Strong or Careful]
+[04Dec2024 23:53:41.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Rotting Stalker
+[04Dec2024 23:53:41.228] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[04Dec2024 23:54:09.776] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e7eca23
+[04Dec2024 23:54:09.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 7euzk1ng[/127.191.143.132:46019] logged in with entity id 224658 at (105.30000001192093, 64.0, 15.699999988079071)
+[04Dec2024 23:54:09.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng joined the game
+[04Dec2024 23:54:09.826] [Server thread/INFO] [Jade/]: Syncing config to 7euzk1ng (52b7a109-7de7-3106-ac30-1a3ae7d0fe79)
+[04Dec2024 23:56:32.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Stone Age]
+[04Dec2024 23:56:39.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BLACKTULA> 381 73 -440
+[04Dec2024 23:57:41.225] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[04Dec2024 23:57:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Ice Bucket Challenge]
+[04Dec2024 23:58:11.670] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146418, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 23:58:11.670] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146419, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[04Dec2024 23:58:11.670] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146417, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
