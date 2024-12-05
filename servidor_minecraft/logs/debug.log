@@ -19972,3 +19972,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 00:45:02.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Kiuta
 [05Dec2024 00:45:02.093] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:378, y:63, z:-435, dim:minecraft:overworld]
 [05Dec2024 00:45:02.095] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 00:46:37.651] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/191028, l='ServerLevel[world]', x=390.50, y=73.00, z=-432.50]]
+[05Dec2024 00:46:43.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:46:43.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:46:43.492] [IO-Worker-284/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-291
+[05Dec2024 00:46:43.573] [IO-Worker-291/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-292
+[05Dec2024 00:47:50.269] [IO-Worker-284/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-293
+[05Dec2024 00:48:31.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by Zombie
+[05Dec2024 00:48:31.517] [Server thread/DEBUG] [tombstone/]: A new grave of the player 7euzk1ng was created at position [x:429, y:74, z:-364, dim:minecraft:overworld]
+[05Dec2024 00:48:31.546] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 00:49:20.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <7euzk1ng> W
+[05Dec2024 00:49:54.101] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/191028, l='ServerLevel[world]', x=393.14, y=63.00, z=-440.65]]
+[05Dec2024 00:49:54.751] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['BLACKTULA'/191028, l='ServerLevel[world]', x=393.14, y=63.00, z=-440.65]]
+[05Dec2024 00:49:56.702] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['xiino91'/173264, l='ServerLevel[world]', x=386.19, y=68.00, z=-433.92]]
+[05Dec2024 00:51:43.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:51:43.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:51:43.521] [IO-Worker-293/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-294
+[05Dec2024 00:51:43.522] [IO-Worker-284/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-295
+[05Dec2024 00:51:43.525] [IO-Worker-284/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-296
+[05Dec2024 00:53:19.135] [IO-Worker-284/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-297
