@@ -882,3 +882,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 04:40:06.383] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
 [05Dec2024 04:40:51.951] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [05Dec2024 04:40:53.184] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 04:41:46.845] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[05Dec2024 04:41:50.913] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[05Dec2024 04:42:36.769] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 04:43:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by Maw Manta
+[05Dec2024 04:43:06.651] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 04:43:56.104] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 04:44:28.844] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 04:44:33.646] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 04:46:17.737] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[05Dec2024 04:46:24.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Hanging Tree]
+[05Dec2024 04:47:24.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 7euzk1ng) moved wrongly! 1.1433162912726402
+[05Dec2024 04:47:24.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 7euzk1ng) moved wrongly! 1.1765001712889216
+[05Dec2024 04:47:24.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 7euzk1ng) moved wrongly! 1.2063656625124395
+[05Dec2024 04:47:24.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of 7euzk1ng) moved wrongly! 1.2332446039015394
+[05Dec2024 04:47:40.640] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[05Dec2024 04:48:03.763] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[05Dec2024 04:48:14.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Disturbing the Dead I]
+[05Dec2024 04:48:48.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by BLACKTULA
+[05Dec2024 04:48:48.401] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 04:50:04.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by xiino91
+[05Dec2024 04:50:04.742] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 04:51:11.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31233, l='ServerLevel[world]', x=423.19, y=-256.00, z=-362.60] died, message: 'Villager fell out of the world'
