@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-05 01:11:38 +0000"
+    },
+    "done": true
+  },
   "human_meat:first_eaten_zombie": {
     "criteria": {
       "first_eaten_zombie": "2024-12-04 19:39:18 +0000"
@@ -620,6 +626,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-05 01:11:38 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/lich_prison": {
     "criteria": {
       "lich_prison": "2024-12-04 17:39:11 +0000"
@@ -661,6 +673,12 @@
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-05 01:11:38 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {

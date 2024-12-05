@@ -122,3 +122,24 @@
 [05Dec2024 00:48:31.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by Zombie
 [05Dec2024 00:48:31.546] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
 [05Dec2024 00:49:20.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <7euzk1ng> W
+[05Dec2024 00:57:16.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <7euzk1ng> W
+[05Dec2024 00:59:36.177] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[05Dec2024 00:59:36.313] [Worker-Main229/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 00:59:38.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [We Need to Go Deeper]
+[05Dec2024 00:59:38.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3089ms or 61 ticks behind
+[05Dec2024 00:59:39.991] [Worker-Main229/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 00:59:39.994] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[05Dec2024 00:59:55.541] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 01:00:01.935] [Worker-Main229/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 01:01:06.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <7euzk1ng> AAA
+[05Dec2024 01:04:30.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [We Need to Go Deeper]
+[05Dec2024 01:05:05.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by The Damned
+[05Dec2024 01:05:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Condemned To Die]
+[05Dec2024 01:05:05.281] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 01:07:24.127] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146418, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 01:07:24.128] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146419, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 01:07:24.128] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146417, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 01:10:45.653] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/267100, l='ServerLevel[world]', x=425.00, y=-256.00, z=-362.56] died, message: 'Villager fell out of the world'
+[05Dec2024 01:11:38.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [We Need to Go Deeper]
+[05Dec2024 01:11:48.594] [Worker-Main229/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 01:12:15.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [We Need to Go Deeper]
