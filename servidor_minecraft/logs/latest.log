@@ -308,3 +308,89 @@
 [05Dec2024 01:35:27.278] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
 [05Dec2024 01:35:27.971] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 106
 [05Dec2024 01:35:48.925] [Server thread/WARN] [cgm/]: literal{BLACKTULA}(d0da0481-ffde-3f71-8245-42f504954479) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[05Dec2024 01:37:03.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Wither Skeleton
+[05Dec2024 01:37:03.733] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 01:42:12.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Rotting Stalker
+[05Dec2024 01:42:12.506] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 01:42:14.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Rotting Stalker
+[05Dec2024 01:42:14.540] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 01:42:39.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by The Damned
+[05Dec2024 01:42:39.785] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 01:43:47.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by A MIMICER
+[05Dec2024 01:43:47.533] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 01:45:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[05Dec2024 01:45:00.731] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 01:46:34.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by A MIMICER
+[05Dec2024 01:46:34.737] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 01:48:26.072] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Dec2024 01:48:31.478] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 55
+[05Dec2024 01:48:32.823] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 101
+[05Dec2024 01:48:33.323] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 105
+[05Dec2024 01:48:33.874] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[05Dec2024 01:48:34.172] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[05Dec2024 01:49:07.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by Cave Dweller
+[05Dec2024 01:49:07.293] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 01:50:27.172] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 01:50:27.229] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 92
+[05Dec2024 01:50:27.972] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[05Dec2024 01:50:28.024] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[05Dec2024 01:50:33.226] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 147
+[05Dec2024 01:50:33.276] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[05Dec2024 01:53:46.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Cover Me with Diamonds]
+[05Dec2024 01:54:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was eliminated by xiino91
+[05Dec2024 01:54:22.472] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 145
+[05Dec2024 01:54:22.474] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 01:54:22.521] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[05Dec2024 01:55:56.372] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146418, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 01:55:56.373] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146419, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 01:55:56.373] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146417, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 01:57:00.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiuta lost connection: Timed out
+[05Dec2024 01:57:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta left the game
+[05Dec2024 01:57:06.596] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58738b1a
+[05Dec2024 01:57:06.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiuta[/127.136.126.150:50799] logged in with entity id 296494 at (381.877858699801, 68.0, -435.48964654397616)
+[05Dec2024 01:57:06.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta joined the game
+[05Dec2024 01:57:06.673] [Server thread/INFO] [Jade/]: Syncing config to Kiuta (166ddeff-df83-3a4a-8682-ead9d027438a)
+[05Dec2024 01:57:16.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Kiuta
+[05Dec2024 01:57:16.232] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 01:59:59.077] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 94
+[05Dec2024 02:03:12.423] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 02:03:14.123] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[05Dec2024 02:03:14.172] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 101
+[05Dec2024 02:03:22.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Sneaking Terror
+[05Dec2024 02:03:22.585] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 02:03:55.290] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[05Dec2024 02:03:55.341] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[05Dec2024 02:03:57.781] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 02:03:57.832] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[05Dec2024 02:03:59.035] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[05Dec2024 02:03:59.048] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 135
+[05Dec2024 02:04:00.242] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 132
+[05Dec2024 02:04:00.986] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 110
+[05Dec2024 02:04:01.033] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 62
+[05Dec2024 02:04:02.643] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[05Dec2024 02:04:02.694] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[05Dec2024 02:04:05.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Sneaking Terror
+[05Dec2024 02:04:05.534] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 02:04:52.842] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 02:04:52.888] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 103
+[05Dec2024 02:04:52.938] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 53
+[05Dec2024 02:04:53.037] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 101
+[05Dec2024 02:04:53.088] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[05Dec2024 02:04:53.190] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[05Dec2024 02:04:53.292] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[05Dec2024 02:04:53.390] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 106
+[05Dec2024 02:04:53.441] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 56
+[05Dec2024 02:04:53.545] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[05Dec2024 02:04:53.641] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
+[05Dec2024 02:04:53.689] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 54
+[05Dec2024 02:04:53.791] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
+[05Dec2024 02:04:53.928] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
+[05Dec2024 02:04:53.940] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 91
+[05Dec2024 02:04:54.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was annihilated by xiino91
+[05Dec2024 02:04:54.028] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 02:04:54.076] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[05Dec2024 02:04:54.090] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 81
+[05Dec2024 02:04:54.188] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 140
+[05Dec2024 02:04:54.233] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[05Dec2024 02:04:54.336] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 113
+[05Dec2024 02:04:54.386] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 62
