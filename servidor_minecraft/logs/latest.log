@@ -420,3 +420,31 @@
 [05Dec2024 02:30:30.321] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
 [05Dec2024 02:34:09.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was blown up by Spruce Creeper
 [05Dec2024 02:34:09.577] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 02:42:01.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Rotting Stalker
+[05Dec2024 02:42:01.227] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 02:42:02.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Sneaking Terror
+[05Dec2024 02:42:02.257] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 02:46:00.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/324432, l='ServerLevel[world]', x=665.34, y=-256.00, z=-344.31] died, message: 'Villager fell out of the world'
+[05Dec2024 02:46:37.944] [Worker-Main229/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[05Dec2024 02:47:03.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Amateur Archaeologist]
+[05Dec2024 02:49:55.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Zombie
+[05Dec2024 02:49:55.875] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 02:51:12.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[05Dec2024 02:51:12.924] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 02:51:48.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Suit Up]
+[05Dec2024 02:54:33.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Vindicator
+[05Dec2024 02:54:33.135] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 02:59:33.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has reached the goal [Fortuitous Militia]
+[05Dec2024 02:59:48.520] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3423ac99
+[05Dec2024 02:59:48.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/127.120.125.202:39571] logged in with entity id 335470 at (386.11508320539593, 63.0, -437.2397699225449)
+[05Dec2024 02:59:48.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[05Dec2024 02:59:48.564] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[05Dec2024 03:00:11.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Yeti
+[05Dec2024 03:00:11.033] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 03:00:51.323] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 54
+[05Dec2024 03:00:54.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was shot by Pillager
+[05Dec2024 03:00:54.137] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 03:04:28.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Zombie
+[05Dec2024 03:04:28.435] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 03:06:12.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[05Dec2024 03:06:12.353] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved

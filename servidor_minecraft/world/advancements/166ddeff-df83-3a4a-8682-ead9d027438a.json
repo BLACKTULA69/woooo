@@ -328,6 +328,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 02:59:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2024-12-04 19:38:48 +0000"
@@ -343,6 +349,12 @@
   "tombstone:recipes/from_dark_marble": {
     "criteria": {
       "has_ingredient": "2024-12-04 22:32:11 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-05 02:47:03 +0000"
     },
     "done": true
   },
@@ -418,6 +430,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-05 02:51:48 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:46 +0000"
@@ -472,11 +490,13 @@
       "minecraft:lukewarm_ocean": "2024-12-04 19:01:44 +0000",
       "minecraft:river": "2024-12-04 16:47:29 +0000",
       "minecraft:stony_shore": "2024-12-04 20:32:55 +0000",
+      "minecraft:snowy_plains": "2024-12-05 02:45:48 +0000",
       "minecraft:cold_ocean": "2024-12-04 17:44:28 +0000",
       "minecraft:forest": "2024-12-04 19:40:37 +0000",
       "minecraft:lush_caves": "2024-12-04 16:38:17 +0000",
       "minecraft:ocean": "2024-12-04 17:45:18 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-04 16:31:47 +0000",
+      "minecraft:snowy_beach": "2024-12-05 02:47:10 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-04 18:54:17 +0000",
       "minecraft:plains": "2024-12-04 21:38:22 +0000"
     },
@@ -599,11 +619,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-05 01:27:36 +0000",
+      "minecraft:pillager": "2024-12-05 02:53:39 +0000",
       "minecraft:skeleton": "2024-12-04 16:37:40 +0000",
       "minecraft:magma_cube": "2024-12-05 01:31:54 +0000",
       "minecraft:spider": "2024-12-04 21:53:53 +0000",
+      "minecraft:evoker": "2024-12-05 02:57:48 +0000",
       "quark:forgotten": "2024-12-04 16:46:38 +0000",
       "minecraft:phantom": "2024-12-05 00:04:20 +0000",
+      "minecraft:witch": "2024-12-05 02:53:27 +0000",
       "minecraft:wither_skeleton": "2024-12-05 01:25:01 +0000",
       "minecraft:cave_spider": "2024-12-04 16:41:57 +0000",
       "minecraft:zombie": "2024-12-04 16:47:43 +0000",
