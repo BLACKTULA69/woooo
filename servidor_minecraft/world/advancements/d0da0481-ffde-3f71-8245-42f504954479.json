@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-05 01:26:38 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
@@ -466,6 +472,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-05 01:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-04 16:33:54 +0000"
@@ -608,14 +620,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-05 01:25:07 +0000",
       "minecraft:skeleton": "2024-12-04 16:59:38 +0000",
+      "minecraft:magma_cube": "2024-12-05 01:31:22 +0000",
       "minecraft:spider": "2024-12-04 19:10:58 +0000",
       "minecraft:slime": "2024-12-04 16:58:43 +0000",
       "minecraft:phantom": "2024-12-05 00:06:02 +0000",
       "minecraft:witch": "2024-12-04 21:59:53 +0000",
+      "minecraft:wither_skeleton": "2024-12-05 01:24:25 +0000",
       "minecraft:cave_spider": "2024-12-04 17:06:35 +0000",
       "minecraft:enderman": "2024-12-04 21:40:27 +0000",
       "minecraft:zombie": "2024-12-04 16:40:55 +0000",
+      "quark:foxhound": "2024-12-05 01:31:16 +0000",
       "minecraft:zombie_villager": "2024-12-04 21:44:36 +0000"
     },
     "done": false

@@ -20283,3 +20283,170 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 01:25:39.167] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=480.27, y=-27.00, z=-323.70]]
 [05Dec2024 01:25:41.142] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=480.30, y=-27.23, z=-324.58]]
 [05Dec2024 01:25:49.840] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=473.35, y=-34.14, z=-324.56]]
+[05Dec2024 01:26:06.020] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=471.07, y=-37.00, z=-324.67]]
+[05Dec2024 01:26:12.007] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=468.70, y=-40.00, z=-324.52]]
+[05Dec2024 01:26:15.675] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.30, y=-45.00, z=-323.30]]
+[05Dec2024 01:26:26.073] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.30, y=-51.46, z=-316.36]]
+[05Dec2024 01:26:30.093] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.30, y=-53.00, z=-315.70]]
+[05Dec2024 01:26:33.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/276039, l='ServerLevel[world]', x=430.50, y=-256.00, z=-362.50] died, message: 'Villager fell out of the world'
+[05Dec2024 01:26:34.928] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.30, y=-55.00, z=-313.20]]
+[05Dec2024 01:26:35.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [A Terrible Fortress]
+[05Dec2024 01:26:38.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [A Terrible Fortress]
+[05Dec2024 01:26:39.814] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.30, y=-56.00, z=-312.19]]
+[05Dec2024 01:26:40.988] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.30, y=-54.00, z=-314.07]]
+[05Dec2024 01:26:43.722] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=465.54, y=-54.21, z=-313.30]]
+[05Dec2024 01:26:45.080] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.47, y=-53.80, z=-313.30]]
+[05Dec2024 01:26:45.215] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.30, y=-53.80, z=-313.30]]
+[05Dec2024 01:26:46.379] [IO-Worker-327/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-330
+[05Dec2024 01:26:46.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:26:46.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:26:50.543] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=465.30, y=-53.80, z=-313.60]]
+[05Dec2024 01:26:55.465] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.30, y=-56.00, z=-311.51]]
+[05Dec2024 01:26:56.915] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.30, y=-56.00, z=-301.37]]
+[05Dec2024 01:26:58.307] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.30, y=-56.00, z=-298.40]]
+[05Dec2024 01:27:02.007] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.42, y=-56.00, z=-297.44]]
+[05Dec2024 01:27:02.901] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.47, y=-56.00, z=-296.36]]
+[05Dec2024 01:27:04.658] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.47, y=-56.00, z=-295.30]]
+[05Dec2024 01:27:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [A Terrible Fortress]
+[05Dec2024 01:27:10.411] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.63, y=-55.80, z=-295.80]]
+[05Dec2024 01:27:14.975] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 57
+[05Dec2024 01:27:17.692] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.91, y=-55.00, z=-313.39]]
+[05Dec2024 01:27:20.814] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.91, y=-55.00, z=-313.39]]
+[05Dec2024 01:27:22.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/276464, l='ServerLevel[world]', x=430.50, y=-256.00, z=-362.50] died, message: 'Villager fell out of the world'
+[05Dec2024 01:27:25.329] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=465.55, y=-55.00, z=-313.39]]
+[05Dec2024 01:27:25.815] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.91, y=-55.00, z=-313.39]]
+[05Dec2024 01:27:27.894] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.91, y=-55.00, z=-313.39]]
+[05Dec2024 01:27:29.035] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.91, y=-55.00, z=-313.39]]
+[05Dec2024 01:27:29.513] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.91, y=-55.00, z=-313.39]]
+[05Dec2024 01:27:31.158] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.91, y=-55.00, z=-313.39]]
+[05Dec2024 01:27:37.176] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 57
+[05Dec2024 01:27:44.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Into Fire]
+[05Dec2024 01:27:51.770] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.84, y=-55.00, z=-313.59]]
+[05Dec2024 01:27:52.272] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.84, y=-55.00, z=-313.59]]
+[05Dec2024 01:27:56.134] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.41, y=-55.00, z=-313.61]]
+[05Dec2024 01:28:08.683] [IO-Worker-327/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-331
+[05Dec2024 01:28:08.683] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-332
+[05Dec2024 01:28:08.683] [IO-Worker-325/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-333
+[05Dec2024 01:28:11.502] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.39, y=-56.00, z=-287.23]]
+[05Dec2024 01:28:25.053] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=464.69, y=-57.00, z=-285.05]]
+[05Dec2024 01:28:34.425] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Dec2024 01:28:35.526] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 62
+[05Dec2024 01:28:36.441] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[05Dec2024 01:28:37.881] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Dec2024 01:28:38.729] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 61
+[05Dec2024 01:28:40.477] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 61
+[05Dec2024 01:28:42.075] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 63
+[05Dec2024 01:28:44.124] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Dec2024 01:28:44.351] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=462.12, y=-57.00, z=-280.18]]
+[05Dec2024 01:28:46.728] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
+[05Dec2024 01:28:46.897] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 83
+[05Dec2024 01:28:47.332] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 106
+[05Dec2024 01:28:49.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Blaze
+[05Dec2024 01:28:49.021] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:170, y:56, z:26, dim:minecraft:the_nether]
+[05Dec2024 01:28:49.031] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 01:28:50.651] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=461.30, y=-55.80, z=-279.48]]
+[05Dec2024 01:28:54.002] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=460.30, y=-55.80, z=-279.30]]
+[05Dec2024 01:28:55.753] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=460.30, y=-55.50, z=-279.30]]
+[05Dec2024 01:29:03.003] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=461.67, y=-56.23, z=-279.81]]
+[05Dec2024 01:29:10.501] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=462.42, y=-57.00, z=-277.57]]
+[05Dec2024 01:29:17.229] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[05Dec2024 01:29:21.854] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=462.37, y=-57.00, z=-269.19]]
+[05Dec2024 01:29:25.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta has made the advancement [Take Aim]
+[05Dec2024 01:29:30.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Blaze
+[05Dec2024 01:29:30.722] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:169, y:56, z:23, dim:minecraft:the_nether]
+[05Dec2024 01:29:30.732] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 01:29:34.851] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=462.33, y=-57.00, z=-260.43]]
+[05Dec2024 01:30:04.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Zombified Piglin
+[05Dec2024 01:30:04.773] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:172, y:54, z:29, dim:minecraft:the_nether]
+[05Dec2024 01:30:04.791] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 01:30:16.907] [IO-Worker-333/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-335
+[05Dec2024 01:30:16.907] [IO-Worker-331/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-334
+[05Dec2024 01:30:16.932] [IO-Worker-333/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-336
+[05Dec2024 01:30:19.303] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=462.39, y=-57.00, z=-242.37]]
+[05Dec2024 01:30:28.752] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=463.70, y=-57.00, z=-237.69]]
+[05Dec2024 01:30:39.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Fever Dream
+[05Dec2024 01:30:39.321] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiuta was created at position [x:176, y:53, z:73, dim:minecraft:the_nether]
+[05Dec2024 01:30:39.331] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 01:31:10.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng was slain by A MIMICER
+[05Dec2024 01:31:10.876] [Server thread/DEBUG] [tombstone/]: A new grave of the player 7euzk1ng was created at position [x:461, y:-57, z:-257, dim:minecraft:overworld]
+[05Dec2024 01:31:10.907] [Server thread/INFO] [tombstone/]: The player 7euzk1ng has successfully been saved
+[05Dec2024 01:31:39.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 tried to swim in lava to escape Blaze
+[05Dec2024 01:31:39.925] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:170, y:53, z:32, dim:minecraft:the_nether]
+[05Dec2024 01:31:39.933] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 01:31:44.616] [Worker-Main1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 01:31:46.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 01:31:46.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 01:31:52.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA tried to swim in lava to escape Magma Cube
+[05Dec2024 01:31:52.454] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:170, y:53, z:34, dim:minecraft:the_nether]
+[05Dec2024 01:31:52.461] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 01:32:06.158] [IO-Worker-335/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-337
+[05Dec2024 01:32:12.052] [Server thread/DEBUG] [de.cadentem.yeti.Yeti/]: Yeti could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=432.50, y=74.00, z=-361.50]]
+[05Dec2024 01:32:51.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Zombified Piglin
+[05Dec2024 01:32:51.325] [Server thread/DEBUG] [tombstone/]: A new grave of the player BLACKTULA was created at position [x:171, y:53, z:36, dim:minecraft:the_nether]
+[05Dec2024 01:32:51.338] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 01:33:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by Faceless Pig
+[05Dec2024 01:33:23.473] [Server thread/DEBUG] [tombstone/]: A new grave of the player xiino91 was created at position [x:138, y:57, z:15, dim:minecraft:the_nether]
+[05Dec2024 01:33:23.484] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 01:34:06.030] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 62
+[05Dec2024 01:34:06.420] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[05Dec2024 01:34:14.152] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=432.50, y=74.00, z=-361.50]]
+[05Dec2024 01:34:24.427] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=466.34, y=-56.00, z=-314.48]]
+[05Dec2024 01:34:27.828] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[05Dec2024 01:34:27.872] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 104
+[05Dec2024 01:34:27.922] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 54
+[05Dec2024 01:34:28.023] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Dec2024 01:34:28.126] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Dec2024 01:34:33.471] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[05Dec2024 01:34:34.124] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 58
+[05Dec2024 01:34:35.515] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=471.56, y=-56.00, z=-314.66]]
+[05Dec2024 01:34:49.308] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=477.65, y=-56.00, z=-314.33]]
+[05Dec2024 01:34:54.473] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 54
+[05Dec2024 01:34:58.033] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 01:34:58.081] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Dec2024 01:35:00.374] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 69
+[05Dec2024 01:35:00.975] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 122
+[05Dec2024 01:35:01.026] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 71
+[05Dec2024 01:35:01.928] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 01:35:01.977] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Dec2024 01:35:02.079] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[05Dec2024 01:35:02.176] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
+[05Dec2024 01:35:02.226] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[05Dec2024 01:35:02.984] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 01:35:03.031] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
+[05Dec2024 01:35:03.081] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[05Dec2024 01:35:03.923] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 01:35:03.973] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[05Dec2024 01:35:04.802] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=480.81, y=-56.00, z=-313.52]]
+[05Dec2024 01:35:04.883] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 104
+[05Dec2024 01:35:05.482] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[05Dec2024 01:35:05.535] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 94
+[05Dec2024 01:35:09.720] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=465.30, y=-56.00, z=-314.30]]
+[05Dec2024 01:35:10.933] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=465.30, y=-56.00, z=-314.30]]
+[05Dec2024 01:35:12.535] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[05Dec2024 01:35:13.622] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=465.30, y=-56.00, z=-314.30]]
+[05Dec2024 01:35:14.773] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=465.30, y=-56.00, z=-314.30]]
+[05Dec2024 01:35:15.502] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=465.30, y=-56.00, z=-314.30]]
+[05Dec2024 01:35:15.927] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[05Dec2024 01:35:17.324] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[05Dec2024 01:35:17.373] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 101
+[05Dec2024 01:35:18.075] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[05Dec2024 01:35:18.122] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
+[05Dec2024 01:35:19.277] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 01:35:19.330] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[05Dec2024 01:35:19.366] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=465.30, y=-56.00, z=-314.30]]
+[05Dec2024 01:35:20.426] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 150
+[05Dec2024 01:35:20.475] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Dec2024 01:35:22.377] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 01:35:22.424] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 102
+[05Dec2024 01:35:23.423] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
+[05Dec2024 01:35:23.479] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 94
+[05Dec2024 01:35:24.678] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[05Dec2024 01:35:26.125] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[05Dec2024 01:35:26.173] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[05Dec2024 01:35:27.278] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[05Dec2024 01:35:27.971] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 106
+[05Dec2024 01:35:41.111] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=481.37, y=-56.00, z=-314.31]]
+[05Dec2024 01:35:42.852] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=482.23, y=-56.00, z=-314.31]]
+[05Dec2024 01:35:44.952] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=483.51, y=-56.00, z=-314.35]]
+[05Dec2024 01:35:48.751] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['7euzk1ng'/231879, l='ServerLevel[world]', x=485.21, y=-56.00, z=-314.36]]
+[05Dec2024 01:35:48.925] [Server thread/WARN] [cgm/]: literal{BLACKTULA}(d0da0481-ffde-3f71-8245-42f504954479) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
