@@ -863,3 +863,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 04:28:31.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by BLACKTULA
 [05Dec2024 04:28:31.101] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
 [05Dec2024 04:30:21.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6066, l='ServerLevel[world]', x=426.64, y=-256.00, z=-362.50] died, message: 'Villager fell out of the world'
+[05Dec2024 04:31:40.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Man From The Fog
+[05Dec2024 04:31:40.534] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 04:32:01.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has reached the goal [Finally, Fresh Flesh]
+[05Dec2024 04:32:01.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Well prepared]
+[05Dec2024 04:32:05.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7217, l='ServerLevel[world]', x=426.64, y=-256.00, z=-362.50] died, message: 'Villager fell out of the world'
+[05Dec2024 04:36:29.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by The Damned
+[05Dec2024 04:36:29.997] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 04:38:45.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 was slain by A MIMICER
+[05Dec2024 04:38:45.992] [Server thread/INFO] [tombstone/]: The player xiino91 has successfully been saved
+[05Dec2024 04:38:56.289] [Server thread/WARN] [cgm/]: literal{Kiuta}(166ddeff-df83-3a4a-8682-ead9d027438a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[05Dec2024 04:39:00.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by Siren Head
+[05Dec2024 04:39:00.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiuta was slain by Siren Head
+[05Dec2024 04:39:00.662] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 04:39:00.662] [Server thread/INFO] [tombstone/]: The player Kiuta has successfully been saved
+[05Dec2024 04:39:12.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [A Strange Grave Dust]
+[05Dec2024 04:40:06.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by 7euzk1ng
+[05Dec2024 04:40:06.383] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 04:40:51.951] [Worker-Main2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[05Dec2024 04:40:53.184] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]

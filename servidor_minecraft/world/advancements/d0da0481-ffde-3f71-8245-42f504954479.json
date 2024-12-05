@@ -424,6 +424,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2024-12-05 04:32:01 +0000"
+    },
+    "done": true
+  },
   "simpleplanes:recipes/plane": {
     "criteria": {
       "in_fire": "2024-12-04 19:32:40 +0000"
@@ -713,6 +719,12 @@
   "comforts:sleeping_bag_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-04 16:31:42 +0000"
+    },
+    "done": true
+  },
+  "deep_blood:finally_fresh_flesh": {
+    "criteria": {
+      "finally_fresh_flesh": "2024-12-05 04:32:01 +0000"
     },
     "done": true
   },
