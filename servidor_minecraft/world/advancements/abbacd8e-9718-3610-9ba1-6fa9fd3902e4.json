@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-05 01:12:15 +0000"
+    },
+    "done": true
+  },
   "human_meat:first_eaten_zombie": {
     "criteria": {
       "first_eaten_zombie": "2024-12-04 17:13:06 +0000"
@@ -540,6 +546,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-04 16:41:41 +0000",
+      "minecraft:magma_cube": "2024-12-05 01:16:47 +0000",
       "minecraft:spider": "2024-12-04 16:38:58 +0000",
       "minecraft:phantom": "2024-12-05 00:05:34 +0000",
       "minecraft:husk": "2024-12-05 00:26:34 +0000",
@@ -547,6 +554,12 @@
       "minecraft:drowned": "2024-12-04 21:43:04 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-05 01:12:15 +0000"
+    },
+    "done": true
   },
   "graveyard:graveyard/lich_prison": {
     "criteria": {
@@ -589,6 +602,13 @@
       "has_the_recipe": "2024-12-04 16:32:07 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-05 01:12:37 +0000",
+      "minecraft:basalt_deltas": "2024-12-05 01:12:16 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
