@@ -144,6 +144,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 00:07:12 +0000"
+    },
+    "done": true
+  },
   "human_meat:first_eaten_human": {
     "criteria": {
       "first_eaten_human": "2024-12-04 16:41:45 +0000"
@@ -429,6 +435,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 00:06:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-04 17:25:37 +0000"
@@ -529,6 +541,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-04 16:41:41 +0000",
       "minecraft:spider": "2024-12-04 16:38:58 +0000",
+      "minecraft:phantom": "2024-12-05 00:05:34 +0000",
       "minecraft:zombie": "2024-12-04 16:47:57 +0000",
       "minecraft:drowned": "2024-12-04 21:43:04 +0000"
     },
