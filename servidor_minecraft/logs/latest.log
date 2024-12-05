@@ -405,3 +405,14 @@
 [05Dec2024 02:15:04.776] [Server thread/WARN] [cgm/]: literal{BLACKTULA}(d0da0481-ffde-3f71-8245-42f504954479) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
 [05Dec2024 02:15:04.979] [Server thread/WARN] [cgm/]: literal{BLACKTULA}(d0da0481-ffde-3f71-8245-42f504954479) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
 [05Dec2024 02:15:30.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Diamonds!]
+[05Dec2024 02:17:02.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Into Fire]
+[05Dec2024 02:17:33.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA has made the advancement [Not of Chocolate]
+[05Dec2024 02:18:35.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7euzk1ng has made the advancement [Strange Taste]
+[05Dec2024 02:25:23.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Disconnected
+[05Dec2024 02:25:23.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game
+[05Dec2024 02:26:12.319] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62533929
+[05Dec2024 02:26:12.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BLACKTULA[/127.120.125.202:59715] logged in with entity id 313850 at (386.11508320539593, 63.0, -437.2397699225449)
+[05Dec2024 02:26:12.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA joined the game
+[05Dec2024 02:26:12.379] [Server thread/INFO] [Jade/]: Syncing config to BLACKTULA (d0da0481-ffde-3f71-8245-42f504954479)
+[05Dec2024 02:26:24.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BLACKTULA lost connection: Disconnected
+[05Dec2024 02:26:24.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA left the game

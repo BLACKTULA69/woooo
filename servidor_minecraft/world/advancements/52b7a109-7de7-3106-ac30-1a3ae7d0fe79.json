@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "human_meat:first_eaten_zombie": {
+    "criteria": {
+      "first_eaten_zombie": "2024-12-05 02:18:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-04 23:57:35 +0000",
@@ -337,6 +343,12 @@
       "has_the_recipe": "2024-12-04 23:48:05 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2024-12-05 02:18:35 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_yellow_from_white": {
     "criteria": {
