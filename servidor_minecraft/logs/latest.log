@@ -394,3 +394,14 @@
 [05Dec2024 02:04:54.233] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
 [05Dec2024 02:04:54.336] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 113
 [05Dec2024 02:04:54.386] [Server thread/WARN] [cgm/]: literal{xiino91}(abbacd8e-9718-3610-9ba1-6fa9fd3902e4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 62
+[05Dec2024 02:07:13.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BLACKTULA was slain by A MIMICER
+[05Dec2024 02:07:13.245] [Server thread/INFO] [tombstone/]: The player BLACKTULA has successfully been saved
+[05Dec2024 02:07:59.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146418, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 02:07:59.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146419, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 02:07:59.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146417, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 02:13:14.983] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146418, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 02:13:14.983] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146419, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 02:13:14.983] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/146417, l='ServerLevel[world]', x=291.38, y=-24.00, z=-203.72, removed=DISCARDED]
+[05Dec2024 02:15:04.776] [Server thread/WARN] [cgm/]: literal{BLACKTULA}(d0da0481-ffde-3f71-8245-42f504954479) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[05Dec2024 02:15:04.979] [Server thread/WARN] [cgm/]: literal{BLACKTULA}(d0da0481-ffde-3f71-8245-42f504954479) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[05Dec2024 02:15:30.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiino91 has made the advancement [Diamonds!]
